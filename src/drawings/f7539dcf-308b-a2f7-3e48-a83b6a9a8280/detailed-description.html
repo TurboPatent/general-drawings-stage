@@ -1,0 +1,169 @@
+<p>
+  <span>
+    <span data-role="tag" data-type="figure" data-value="f7539dcf-308b-a2f7-3e48-a83b6a9a8280" id="id7abdd118-3ac2-d07f-b414-8532be4c8025">Figure 21</span>
+  </span>&nbsp;is a 
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="73fe1d4a-c08d-1eff-6357-5273f82a7c79" id="id0977b17d-5b79-c56d-d2b7-d16b78e5e4fc">block diagram 2100</span>
+  </span> illustrating an architecture of software 102, which can be installed on any one or more of the devices described above. 
+  <span>
+    <span data-role="tag" data-type="figure" data-value="f7539dcf-308b-a2f7-3e48-a83b6a9a8280" id="ide51fbdce-5e6c-7a24-cb74-acbc63ef4be7">Figure 21</span>
+  </span> is merely a non-limiting example of a software architecture, and it will be appreciated that many other architectures can be implemented to facilitate the functionality described herein. In various embodiments, the 
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="aa83debb-2f88-1ffe-f1f0-bd17531408dc" id="idd01a4c2c-34df-9248-cb49-412b377358c5">Software Architecture 2104</span>
+  </span> is implemented by hardware such as a 
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="cea70c35-6adb-2678-37aa-98d633673e67" id="id0c409914-f10e-e9fa-e370-1fbb7acc6696">machine 2102</span>
+  </span> of FIG. 2 that includes 
+  <span data-role="tag" data-type="drawingObject" data-value="7c415084-3a60-1e57-e7a5-4d483ade6e78" id="id6a589aea-bd47-776d-c89a-8c2358e01116">processors 2120</span>, 
+  <span data-role="tag" data-type="drawingObject" data-value="70b29d03-e052-f003-cb40-8a4ca03c2686" id="idb02e8e15-8099-9e01-5b1f-43e84dfff1a7">memory 2126</span>, and 
+  <span data-role="tag" data-type="drawingObject" data-value="ae449771-4242-0675-cfa2-b03e2fe6e395" id="id4eacd691-1bb9-c947-9681-d668285bd507">I/O components 2138</span>. In this example architecture, the software 102 can be conceptualized as a stack of layers where each layer may provide a particular functionality. For example, the software 102 includes layers such as an 
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="549ea475-396d-73b8-203a-6f62800bb1c8" id="idbbda3d5f-c06e-07cd-b1b9-a0c59b14f1f6">operating system 2112</span>
+  </span>, 
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="bec6f6da-7f81-1694-4f38-36fcb56a2c81" id="id76d4dac0-0f24-ec88-b492-1b50c4c4e724">libraries 2110</span>
+  </span>, 
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="243f7f71-4521-1d98-37cd-6021f928b31f" id="idfa6b476d-e055-af4c-c66c-9d40610b6cff">frameworks 2108</span>
+  </span>, and 
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="4c070269-e40a-2a76-8907-55d762dc3192" id="id6e785235-12a1-75a0-bcc1-d984bb79e314">applications 2106</span>
+  </span>. Operationally, the 
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="4c070269-e40a-2a76-8907-55d762dc3192" id="id9c1514e5-5b34-3946-8537-2783cf575190">applications 2106</span>
+  </span> invoke application programming interface (API) calls 112 through the software stack and receive 
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="5f137d5c-8f25-0232-5951-843de9ab0ef4" id="idfd83c9d0-b78d-c8ed-5f3f-221a5edd6156">messages 2152</span>
+  </span> in response to the 
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="8569580c-07f5-b715-55c4-a7454aa1da90" id="idb93e86da-05c1-4b95-0d1f-17df8f2ebe41">api calls 2150</span>
+  </span>, consistent with some embodiments.
+</p>
+<p>In various implementations, the 
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="549ea475-396d-73b8-203a-6f62800bb1c8" id="iddf79ca21-5f93-3373-abe2-704bdb2b848d">operating system 2112</span>
+  </span> manages hardware resources and provides common services. The 
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="549ea475-396d-73b8-203a-6f62800bb1c8" id="id8088af43-5c3d-6127-b321-73a338d6a31f">operating system 2112</span>
+  </span> includes, for example, a 
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="570a80c4-49a2-754e-1fa3-c45ae6236c38" id="id4ae2def6-69d1-4f23-9da8-79b23e40468d">kernel 2114</span>
+  </span>, 
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="0103039e-1f39-bf9b-f31a-c16a07fd5b52" id="id0c116d10-eba3-7e53-71ba-bfc1b0661928">services 2116</span>
+  </span>, and 
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="a630ba0a-5dcc-dee5-ce2c-d55a5b297ce3" id="idd0166dce-c3cd-4525-25dc-5e32da82151f">drivers 2122</span>
+  </span>. The 
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="570a80c4-49a2-754e-1fa3-c45ae6236c38" id="id26357b34-c4f6-2eaa-e51c-deb621172f11">kernel 2114</span>
+  </span> acts as an abstraction layer between the hardware and the other software layers, consistent with some embodiments. For example, the 
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="570a80c4-49a2-754e-1fa3-c45ae6236c38" id="id60fae975-7174-aa90-2129-50221eef4d29">kernel 2114</span>
+  </span> provides memory management, processor management (e.g., scheduling), component management, networking, and security settings, among other functionality. The 
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="0103039e-1f39-bf9b-f31a-c16a07fd5b52" id="id6ebfc3ed-c398-e0a2-f9eb-35b4e33096d7">services 2116</span>
+  </span> can provide other common services for the other software layers. The 
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="a630ba0a-5dcc-dee5-ce2c-d55a5b297ce3" id="iddfb60d72-c11a-b86f-ab6a-d3fa15ff32b9">drivers 2122</span>
+  </span> are responsible for controlling or interfacing with the underlying hardware, according to some embodiments. For instance, the 
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="a630ba0a-5dcc-dee5-ce2c-d55a5b297ce3" id="id83ef6ab9-c578-2cd6-5c81-7fdd5301ac42">drivers 2122</span>
+  </span> can include display drivers, camera drivers, BLUETOOTH® or BLUETOOTH® Low Energy drivers, flash memory drivers, serial communication drivers (e.g., Universal Serial Bus (USB) drivers), WI-FI® drivers, audio drivers, power management drivers, and so forth.
+</p>
+<p>In some embodiments, the 
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="bec6f6da-7f81-1694-4f38-36fcb56a2c81" id="id2464246c-1779-42f6-f6e0-65be9bc0f558">libraries 2110</span>
+  </span> provide a low-level common infrastructure utilized by the 
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="4c070269-e40a-2a76-8907-55d762dc3192" id="ida94e7544-f0b4-3018-4577-e7f3b5897c4b">applications 2106</span>
+  </span>. The 
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="bec6f6da-7f81-1694-4f38-36fcb56a2c81" id="id5da658cc-1587-3430-6029-8e14e07e5022">libraries 2110</span>
+  </span> can include 
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="b9cb14e8-702a-8b65-8f76-0b6962d48087" id="id72eed4ad-e1c8-c49e-f006-a22d08248537">system libraries 2118</span>
+  </span> (e.g., C standard library) that can provide functions such as memory allocation functions, string manipulation functions, mathematic functions, and the like. In addition, the 
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="bec6f6da-7f81-1694-4f38-36fcb56a2c81" id="id09ade0a9-0b96-4b97-7f7f-37a2a23fc1f6">libraries 2110</span>
+  </span> can include 
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="b3de01f5-28dc-144f-e466-5bf1e44b920f" id="id92b3f507-51f0-1a1d-423c-fbfaf4a17a9a">API libraries 2124</span>
+  </span> such as media libraries (e.g., libraries to support presentation and manipulation of various media formats such as Moving Picture Experts Group-4 (MPEG4), Advanced Video Coding (H.264 or AVC), Moving Picture Experts Group Layer-3 (MP3), Advanced Audio Coding (AAC), Adaptive Multi-Rate (AMR) audio codec, Joint Photographic Experts Group (JPEG or JPG), or Portable Network Graphics (PNG)), graphics libraries (e.g., an OpenGL framework used to render in two dimensions (2D) and three dimensions (3D) in a graphic content on a display), database libraries (e.g., SQLite to provide various relational database functions), web libraries (e.g., WebKit to provide web browsing functionality), and the like. The 
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="bec6f6da-7f81-1694-4f38-36fcb56a2c81" id="id1c082fc1-8581-b58c-1413-1139be05b8f9">libraries 2110</span>
+  </span> can also include a wide variety of 
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="f9675e18-6e33-e6db-bf6d-ce5792aca495" id="id95ba190f-3466-d17a-ce08-20a7ee7f731d">other libraries 2128</span>
+  </span> to provide many other APIs to the 
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="4c070269-e40a-2a76-8907-55d762dc3192" id="ida8ac7dc0-ba7b-fd1c-c8d2-2164a379e711">applications 2106</span>
+  </span>.
+</p>
+<p>The 
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="243f7f71-4521-1d98-37cd-6021f928b31f" id="id8eed6b17-61c5-4510-0698-1f2f2a7cf7e8">frameworks 2108</span>
+  </span> provide a high-level common infrastructure that can be utilized by the 
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="4c070269-e40a-2a76-8907-55d762dc3192" id="id45f42f8d-67d1-6796-5119-0bdbed206ce4">applications 2106</span>
+  </span>, according to some embodiments. For example, the 
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="243f7f71-4521-1d98-37cd-6021f928b31f" id="id94e41c18-2999-bdc5-b5f1-9c831c1c2186">frameworks 2108</span>
+  </span> provide various graphic user interface (GUI) functions, high-level resource management, high-level location services, and so forth. The 
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="243f7f71-4521-1d98-37cd-6021f928b31f" id="id745145c2-3554-4c06-2e6f-a3273fdae0b7">frameworks 2108</span>
+  </span> can provide a broad spectrum of other APIs that can be utilized by the 
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="4c070269-e40a-2a76-8907-55d762dc3192" id="id23e81006-198b-5d74-0eaa-df29a94c4045">applications 2106</span>
+  </span>, some of which may be specific to a particular operating system or platform.
+</p>
+<p>In an example embodiment, the 
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="4c070269-e40a-2a76-8907-55d762dc3192" id="id38cf8d7e-4c87-d9a2-ee9d-afd31b29a364">applications 2106</span>
+  </span> include a 
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="3e0aeade-3255-6307-15fa-4c2fd04bea48" id="id43d3c446-23a3-d842-21c2-cbdb1eab5cb5">home application 2136</span>
+  </span>, a 
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="54f33e11-0d48-1aed-f5ac-b807a69d7066" id="idbe04c5a4-b65c-68c2-59ac-a0cade3ac41c">contacts application 2130</span>
+  </span>, a 
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="0a4e0558-d2ef-0e91-d42d-08345bfeffe1" id="id7bbf7777-232e-d921-0e43-edcf9da5d2bb">browser application 2132</span>
+  </span>, a 
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="da85f549-e1c7-c204-b479-214084762b68" id="id8d687292-b999-8adc-22e0-6b3f9a44c2bf">book reader application 2134</span>
+  </span>, a 
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="2f66a798-3c85-19c6-7a8a-c2a267a499a4" id="id6b2ba750-d3fc-10f0-529c-5836c1c79647">location application 2142</span>
+  </span>, a 
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="33b0e1ab-6a0c-8d70-9af5-141cdd10bbd1" id="id547c7222-ec74-6183-956b-a0d23d0efe00">media application 2144</span>
+  </span>, a 
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="ea82269a-5483-e00c-a84f-310c7fcf6c2c" id="ida1d2fb76-4b0e-c2ae-6d92-4844dc541da0">messaging application 2146</span>
+  </span>, a 
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="d4f00020-2d8c-abc3-61e9-08b64bc06205" id="ida4749a4b-c053-2f01-a835-3431e47aef7f">game application 2148</span>
+  </span>, and a broad assortment of other applications such as a 
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="e44d3553-ae0e-7c17-f87b-71c219784abe" id="id463fb38a-2f43-7f65-e2ec-f5246d0dd10c">third-party application 2140</span>
+  </span>. According to some embodiments, the 
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="4c070269-e40a-2a76-8907-55d762dc3192" id="id6a202513-3da4-d7db-6fe9-758a1fb4acfe">applications 2106</span>
+  </span> are programs that execute functions defined in the programs. Various programming languages can be employed to create one or more of the 
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="4c070269-e40a-2a76-8907-55d762dc3192" id="id82ba853b-1ffa-be1f-78c4-7a7f1a9d536c">applications 2106</span>
+  </span>, structured in a variety of manners, such as object-oriented programming languages (e.g., Objective-C, Java, or C++) or procedural programming languages (e.g., C or assembly language). In a specific example, the 
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="e44d3553-ae0e-7c17-f87b-71c219784abe" id="idd680905b-f77b-74c1-1144-2870adbfbab0">third-party application 2140</span>
+  </span> (e.g., an application developed using the ANDROID™ or IOS™ software development kit (SDK) by an entity other than the vendor of the particular platform) may be mobile software running on a mobile operating system such as IOS™, ANDROID™, WINDOWS® Phone, or another mobile operating system. In this example, the&nbsp;
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="e44d3553-ae0e-7c17-f87b-71c219784abe" id="idbdad242d-7c02-641b-ddf0-384738d67b66">third-party application 2140</span>
+  </span> can invoke the 
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="8569580c-07f5-b715-55c4-a7454aa1da90" id="ide60b49fb-4f65-4ed0-2732-e5e37827a7ce">api calls 2150</span>
+  </span> provided by the 
+  <span>
+    <span data-role="tag" data-type="drawingObject" data-value="549ea475-396d-73b8-203a-6f62800bb1c8" id="iddff082d1-edb0-e9f1-da9d-c2a34797c301">operating system 2112</span>
+  </span> to facilitate functionality described herein.
+</p>

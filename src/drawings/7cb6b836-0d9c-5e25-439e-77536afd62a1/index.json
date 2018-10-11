@@ -1,0 +1,284 @@
+{
+  "isLandscape": false,
+  "drawingData": {
+    "cells": [
+      {
+        "type": "tp.Element",
+        "shape": "numberLabel",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "<p>system</p>",
+        "position": {
+          "x": 596,
+          "y": 15
+        },
+        "size": {
+          "width": 28.346457481384277,
+          "height": 28.346457481384277
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "only",
+        "numbersFigure": true,
+        "id": "a95a5247-cec0-4e1d-84ee-a1504b363739",
+        "z": 1,
+        "objectID": "b59f0aad-2d91-b1ad-4aee-e57b2476c59f",
+        "number": 0
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": null,
+        "position": {
+          "x": 63.99999999999915,
+          "y": 123.48819160461525
+        },
+        "size": {
+          "width": 536,
+          "height": 230
+        },
+        "angle": 0,
+        "label": "<p>host OE</p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "f3c4b2da-b8b0-423f-be0d-db0d077285e8",
+        "z": 2,
+        "objectID": "7cc49d5b-858f-594b-4cfd-738425d92dff",
+        "number": 2,
+        "labelLayout": {
+          "labelBoxWidth": 489.1504821777344,
+          "fullString": "HOST OE 1302",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "HOST OE 1302",
+              "width": 86.6486587524414,
+              "x": 201.25091171264648,
+              "y": 0
+            }
+          ],
+          "textWidth": 86.6486587524414,
+          "textHeight": 21.000037499999998
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": null,
+        "position": {
+          "x": 80,
+          "y": 588
+        },
+        "size": {
+          "width": 94.48819160461426,
+          "height": 94.48819160461426
+        },
+        "angle": 0,
+        "label": "<p>OE D</p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "23e05e5b-7360-4972-bf5b-2318b0991ffc",
+        "z": 3,
+        "objectID": "bf1efdb4-d6a7-9786-7f2d-07b4510c2c20",
+        "number": 4,
+        "labelLayout": {
+          "labelBoxWidth": 86.22938537597656,
+          "fullString": "OE D 1304",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "OE D 1304",
+              "width": 62.813453674316406,
+              "x": 11.707965850830078,
+              "y": 32.435169543457036
+            }
+          ],
+          "textWidth": 62.813453674316406,
+          "textHeight": 21.000037499999998
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "cloud",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": null,
+        "position": {
+          "x": 220,
+          "y": 434
+        },
+        "size": {
+          "width": 131.4312429228418,
+          "height": 82.0927006268854
+        },
+        "angle": 0,
+        "label": "<p>network</p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "aed0ef5c-7c6c-4011-872a-7f0c9ffd0c5f",
+        "z": 4,
+        "objectID": "90a1c233-f575-0f60-52eb-a73e8b612f8b",
+        "number": 6,
+        "labelLayout": {
+          "labelBoxWidth": 105.44223022460938,
+          "fullString": "NETWORK 1306",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "NETWORK 1306",
+              "width": 94.62108612060547,
+              "x": 5.410572052001953,
+              "y": 5.066228236389161
+            }
+          ],
+          "textWidth": 94.62108612060547,
+          "textHeight": 21.000037499999998
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": null,
+        "position": {
+          "x": 130,
+          "y": 193
+        },
+        "size": {
+          "width": 94.48819160461426,
+          "height": 94.48819160461426
+        },
+        "angle": 0,
+        "label": "<p>OE B</p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "0cc399d9-c324-d7e9-d4ef-628179b620f9",
+        "z": 4,
+        "objectID": "5feb7d2a-811f-b33b-1cc3-fb5da80b1d34",
+        "number": 8,
+        "labelLayout": {
+          "labelBoxWidth": 86.22938537597656,
+          "fullString": "OE B 1308",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "OE B 1308",
+              "width": 62.011653900146484,
+              "x": 12.108865737915039,
+              "y": 32.435169543457036
+            }
+          ],
+          "textWidth": 62.011653900146484,
+          "textHeight": 21.000037499999998
+        }
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "aed0ef5c-7c6c-4011-872a-7f0c9ffd0c5f"
+        },
+        "target": {
+          "id": "23e05e5b-7360-4972-bf5b-2318b0991ffc"
+        },
+        "id": "b63ec939-5628-4b5c-b0d9-ea7c187b0526",
+        "embeds": "",
+        "z": 5,
+        "routing": "straight",
+        "number": null,
+        "objectID": "61ba0466-10a7-cd89-f98c-091ef44f5ffa"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": null,
+        "position": {
+          "x": 418,
+          "y": 195
+        },
+        "size": {
+          "width": 94.48819160461426,
+          "height": 94.48819160461426
+        },
+        "angle": 0,
+        "label": "<p>OE C</p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "293269a5-cd4f-dd34-4089-97f74cfb7c72",
+        "z": 5,
+        "objectID": "472d845a-adb6-1ef4-c8c3-fd47b053b372",
+        "number": 10,
+        "labelLayout": {
+          "labelBoxWidth": 86.22938537597656,
+          "fullString": "OE C 1310",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "OE C 1310",
+              "width": 61.58342361450195,
+              "x": 12.322980880737305,
+              "y": 32.435169543457036
+            }
+          ],
+          "textWidth": 61.58342361450195,
+          "textHeight": 21.000037499999998
+        }
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "aed0ef5c-7c6c-4011-872a-7f0c9ffd0c5f"
+        },
+        "target": {
+          "id": "f3c4b2da-b8b0-423f-be0d-db0d077285e8"
+        },
+        "id": "2e55b662-ee68-444e-834e-da0a95ae7e3d",
+        "embeds": "",
+        "z": 6,
+        "routing": "straight",
+        "number": null,
+        "objectID": "9812182f-6d72-3263-4df6-eb33228d4613"
+      }
+    ]
+  }
+}

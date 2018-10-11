@@ -1,0 +1,1044 @@
+{
+  "name": "general-drawings-stage",
+  "description": "Reusable drawings",
+  "owner": {
+    "login": "TurboPatent",
+    "type": "organization"
+  },
+  "license": "MIT",
+  "isPrivate": false,
+  "details": {
+    "counts": {
+      "termCount": 1,
+      "claimCount": 1,
+      "independentCount": 1,
+      "drawingCount": 24,
+      "glossaryCount": 0
+    },
+    "briefDescriptions": [
+      "<p><b>Fig. 1</b> illustrates a simplified <span data-role=\"tag\" data-type=\"drawingObject\" data-value=\"f9cbec19-8d76-4da8-751b-c8f704596b88\" id=\"iddbeec869-0f9f-6775-7692-fb32bc1a3447\">system 100</span> in which a <span data-role=\"tag\" data-type=\"drawingObject\" data-value=\"b558368c-ea0c-e829-3801-964db27e4f7d\" id=\"id55bb0740-b516-d572-14cd-38cf08ab8b1b\">server 104</span>&nbsp;and a <span data-role=\"tag\" data-type=\"drawingObject\" data-value=\"5c13d553-74fe-f3d4-dd47-c1966f54035a\" id=\"id188d2623-fbcb-bdb7-d3e7-6b73d7b691c3\">client device 106</span> are communicatively coupled via a <span data-role=\"tag\" data-type=\"drawingObject\" data-value=\"3d8370fa-f858-e4e4-f64a-4ec4b3fac717\" id=\"idb4b6772b-2831-cbd7-6b70-023447e70fdd\">network 102</span>.</p>",
+      "<p><b>Fig. 2</b> is an example block diagram of a <span data-role=\"tag\" data-type=\"drawingObject\" data-value=\"46a88b3e-c4ad-f30f-009e-dffc78800f4e\" id=\"id5596601b-8133-f09f-c299-10c7d551cebf\">computing device 200</span> that may incorporate embodiments&nbsp;of the present invention.</p>",
+      "<p><b>Fig. 3</b> illustrates a <span data-role=\"tag\" data-type=\"drawingObject\" data-value=\"b71033dc-a2e5-aaaa-fddc-6b7b16b143a0\" id=\"idf2b215f2-dcc1-a6f7-84dd-b2e5a0f3cba1\">system 300</span> in accordance with one embodiment.</p>",
+      "<p><b>Fig. 4</b> illustrates an embodiment of a <span data-role=\"tag\" data-type=\"drawingObject\" data-value=\"0c09abe0-1d8f-fcbb-c27b-7861752f5550\" id=\"ide73d471a-e8ca-565b-3d25-7ba82302b8e1\">digital apparatus 400</span>&nbsp;to&nbsp;implement components and process steps of the system&nbsp;described&nbsp;herein.</p>",
+      "<p><b>Fig. 5</b> &nbsp;illustrates an embodiment of a &nbsp;<span data-role=\"tag\" data-type=\"drawingObject\" data-value=\"a63bbe3e-e05f-9728-20ea-4a222faa0b71\" id=\"id4ec61bdc-3634-8a02-e7c5-9a9d9d394f07\">mobile device 500</span>.</p>",
+      "<p><b>Fig. 6</b> illustrates an <span data-role=\"tag\" data-value=\"2a50b2ea-020b-b500-abd1-fc07e367d46d\" id=\"id6d4bf7d2-61b2-046f-8265-dd88c380ce90\" data-type=\"drawingObject\">item 600</span> in accordance with one embodiment.</p>",
+      "<p><b>Fig. 7</b> illustrates an <span data-role=\"tag\" data-type=\"drawingObject\" data-value=\"4dbfa7ed-9a49-336d-2d62-f4ea88cd8dc8\" id=\"id4694f051-6468-b3bc-c052-cdd9fb97a3e8\">item 700</span> in accordance with one embodiment.</p>",
+      "<p><b>Fig. 8</b> &nbsp;illustrates an embodiment of a&nbsp;<span><span data-role=\"tag\" data-type=\"drawingObject\" data-value=\"89b73b1a-a70f-f2b4-af4d-a3db7a54b52c\" id=\"id4ec61bdc-3634-8a02-e7c5-9a9d9d394f07\">mobile device 800</span></span>.</p>",
+      "<p><b>Fig. 9</b> &nbsp;illustrates an embodiment of a &nbsp;<span data-role=\"tag\" data-type=\"drawingObject\" data-value=\"67de8204-124b-81ff-9a9a-adef413a12c6\" id=\"id4ec61bdc-3634-8a02-e7c5-9a9d9d394f07\">mobile device 900</span>.</p>",
+      "<p><b>Fig. 10</b> &nbsp;illustrates an embodiment of a &nbsp;<span data-broken=\"true\" data-role=\"tag\" data-type=\"drawingObject\" data-value=\"05e00e0f-4809-96d8-84b9-9608a65d6574\" id=\"id303d42a0-2dfa-81a2-98ee-aa6a225318c9\">mobile device 700 (deleted)</span>.</p>",
+      "<p><b>Fig. 11</b> illustrates an embodiment of a <span data-role=\"tag\" data-type=\"drawingObject\" data-value=\"abb8a9a4-8098-2147-a0c4-e254fe1722a6\" id=\"idb4a97a86-4fec-3df4-78b4-2aae318fc12a\">network 1100</span>.</p>",
+      "<p><b>Fig. 12</b> illustrates an embodiment of a <span data-role=\"tag\" data-type=\"drawingObject\" data-value=\"940807ad-4c58-a019-a726-b6a37060040f\" id=\"id725e281e-16d5-9abe-584f-4ac456e4b062\">computing environment 1200</span>.</p>",
+      "illustrates an aspect of the subject matter in accordance with one embodiment.",
+      "<p><b>Fig. 14</b> illustrates an embodiment of a <span data-role=\"tag\" data-type=\"drawingObject\" data-value=\"b59f0aad-2d91-b1ad-4aee-e57b2476c59f\" id=\"idd9df6566-9775-b4d6-2f34-609ba006340f\">system 1400</span>.</p>",
+      "<p><b>Fig. 15</b> illustrates an embodiment of a <span data-role=\"tag\" data-type=\"drawingObject\" data-value=\"d34cddf0-9d2b-74f8-f6f8-2c9569c9fad3\" id=\"id0ae9a390-cf25-d598-17f0-1482a3c85c61\">system 1500</span>.</p>",
+      "<p><b>Fig. 16</b> illustrates an embodiment of a <span data-role=\"tag\" data-type=\"drawingObject\" data-value=\"9873558d-7515-e302-381c-b15cc365cb29\" id=\"id0d39e2ba-6b19-13dc-4991-25c0539ab42b\">computing environment 1600</span>.</p>",
+      "<p><b>Fig. 17</b> illustrates an embodiment of an <span data-role=\"tag\" data-type=\"drawingObject\" data-value=\"83c999c9-cbc4-c8e6-27ae-30774f55010b\" id=\"id72318cc4-cc43-e772-a228-b8fb3cbc8679\">operating environment 1700</span>.</p>",
+      "<p><b>Fig. 18</b> illustrates an embodiment of <span data-role=\"tag\" data-type=\"drawingObject\" data-value=\"93c7c4cb-b698-4849-6244-16d6eefae48e\" id=\"idacb1bca8-8e0a-a8bb-522c-14ae7eaacd10\">computing environment 1800</span>.</p>",
+      "illustrates an aspect of the subject matter in accordance with one embodiment.",
+      "illustrates an aspect of the subject matter in accordance with one embodiment.",
+      "illustrates an aspect of the subject matter in accordance with one embodiment.",
+      "<p><b>Fig. 22</b> illustrates a diagrammatic representation of a <span data-role=\"tag\" data-type=\"drawingObject\" data-value=\"e864a3fb-e084-889e-12f5-b76be64bd0f5\" id=\"id0b870b3c-ba91-25c4-3ba4-2d973e6e3a91\">machine 2200</span> in the form of a computer system within which a set of instructions may be executed for causing the machine to perform any one or more of the methodologies discussed herein, according to an example embodiment.</p>",
+      "<p><b>Fig. 23</b> illustrates an <span data-role=\"tag\" data-type=\"drawingObject\" data-value=\"255ad54d-65cd-0ca2-4a4c-87c1efe09164\" id=\"idf6a5c033-6489-9b75-abbf-3e05c6069296\">item 2300</span> in accordance with one embodiment.</p>",
+      "<p><b>Fig. 24</b> illustrates an <span data-role=\"tag\" data-type=\"drawingObject\" data-value=\"101c9a5c-13bb-b279-6855-f2c98da470d9\" id=\"idf56e307e-3c35-89aa-6008-25ea8cd99db9\">item 2400</span> in accordance with one embodiment.</p>"
+    ],
+    "parts": [
+      {
+        "name": "system",
+        "number": 100
+      },
+      {
+        "name": "network",
+        "number": 102
+      },
+      {
+        "name": "server",
+        "number": 104
+      },
+      {
+        "name": "client device",
+        "number": 106
+      },
+      {
+        "name": "gyroscope",
+        "number": 1002
+      },
+      {
+        "name": "memory",
+        "number": 1004
+      },
+      {
+        "name": "signal processing and system control",
+        "number": 1006
+      },
+      {
+        "name": "other transducers",
+        "number": 1008
+      },
+      {
+        "name": "DSP",
+        "number": 1010
+      },
+      {
+        "name": "altimeter",
+        "number": 1012
+      },
+      {
+        "name": "motor control",
+        "number": 1014
+      },
+      {
+        "name": "memory",
+        "number": 1016
+      },
+      {
+        "name": "power manager",
+        "number": 1018
+      },
+      {
+        "name": "battery",
+        "number": 1020
+      },
+      {
+        "name": "camera",
+        "number": 1022
+      },
+      {
+        "name": "image processing",
+        "number": 1024
+      },
+      {
+        "name": "wireless communication logic",
+        "number": 1026
+      },
+      {
+        "name": "navigation board",
+        "number": 1028
+      },
+      {
+        "name": "GPU",
+        "number": 1030
+      },
+      {
+        "name": "network",
+        "number": 1100
+      },
+      {
+        "name": "client device",
+        "number": 1102
+      },
+      {
+        "name": "client device",
+        "number": 1104
+      },
+      {
+        "name": "client device",
+        "number": 1106
+      },
+      {
+        "name": "server",
+        "number": 1108
+      },
+      {
+        "name": "server",
+        "number": 1110
+      },
+      {
+        "name": "router",
+        "number": 1112
+      },
+      {
+        "name": "network",
+        "number": 1114
+      },
+      {
+        "name": "network",
+        "number": 1116
+      },
+      {
+        "name": "network",
+        "number": 1118
+      },
+      {
+        "name": "computing environment",
+        "number": 1200
+      },
+      {
+        "name": "CPU",
+        "number": 1202
+      },
+      {
+        "name": "bus",
+        "number": 1204
+      },
+      {
+        "name": "ROM",
+        "number": 1206
+      },
+      {
+        "name": "RAM",
+        "number": 1208
+      },
+      {
+        "name": "I/O adapter",
+        "number": 1210
+      },
+      {
+        "name": "memory structure",
+        "number": 1212
+      },
+      {
+        "name": "communication adapter",
+        "number": 1214
+      },
+      {
+        "name": "communication",
+        "number": 1216
+      },
+      {
+        "name": "interface device",
+        "number": 1218
+      },
+      {
+        "name": "user interface adapter",
+        "number": 1220
+      },
+      {
+        "name": "interface device",
+        "number": 1222
+      },
+      {
+        "name": "interface device",
+        "number": 1224
+      },
+      {
+        "name": "interface device",
+        "number": 1226
+      },
+      {
+        "name": "display adapter",
+        "number": 1228
+      },
+      {
+        "name": "display device",
+        "number": 1230
+      },
+      {
+        "name": "system",
+        "number": 1300
+      },
+      {
+        "name": "host OE",
+        "number": 1302
+      },
+      {
+        "name": "VOE A",
+        "number": 1304
+      },
+      {
+        "name": "VOE B",
+        "number": 1306
+      },
+      {
+        "name": "VOE C",
+        "number": 1308
+      },
+      {
+        "name": "system",
+        "number": 1400
+      },
+      {
+        "name": "host OE",
+        "number": 1402
+      },
+      {
+        "name": "OE D",
+        "number": 1404
+      },
+      {
+        "name": "network",
+        "number": 1406
+      },
+      {
+        "name": "OE B",
+        "number": 1408
+      },
+      {
+        "name": "OE C",
+        "number": 1410
+      },
+      {
+        "name": "system",
+        "number": 1500
+      },
+      {
+        "name": "gateway",
+        "number": 1502
+      },
+      {
+        "name": "OE A",
+        "number": 1504
+      },
+      {
+        "name": "network",
+        "number": 1506
+      },
+      {
+        "name": "OE B",
+        "number": 1508
+      },
+      {
+        "name": "OE C",
+        "number": 1510
+      },
+      {
+        "name": "cloud",
+        "number": 1512
+      },
+      {
+        "name": "computing environment",
+        "number": 1600
+      },
+      {
+        "name": "device",
+        "number": 1602
+      },
+      {
+        "name": "processor",
+        "number": 1604
+      },
+      {
+        "name": "physical processor memory",
+        "number": 1606
+      },
+      {
+        "name": "persistent secondary storage",
+        "number": 1608
+      },
+      {
+        "name": "input device adapter",
+        "number": 1610
+      },
+      {
+        "name": "output device adapter",
+        "number": 1612
+      },
+      {
+        "name": "network interface adapter",
+        "number": 1614
+      },
+      {
+        "name": "bus",
+        "number": 1616
+      },
+      {
+        "name": "virtual processor memory",
+        "number": 1618
+      },
+      {
+        "name": "operating system",
+        "number": 1620
+      },
+      {
+        "name": "OCE",
+        "number": 1622
+      },
+      {
+        "name": "applications",
+        "number": 1624
+      },
+      {
+        "name": "other libraries and subsystems",
+        "number": 1626
+      },
+      {
+        "name": "input device",
+        "number": 1628
+      },
+      {
+        "name": "output device",
+        "number": 1630
+      },
+      {
+        "name": "operating environment",
+        "number": 1700
+      },
+      {
+        "name": "application",
+        "number": 1702
+      },
+      {
+        "name": "web browser",
+        "number": 1704
+      },
+      {
+        "name": "application logic",
+        "number": 1706
+      },
+      {
+        "name": "application logic",
+        "number": 1708
+      },
+      {
+        "name": "SAA",
+        "number": 1710
+      },
+      {
+        "name": "subsystem",
+        "number": 1712
+      },
+      {
+        "name": "network stack",
+        "number": 1714
+      },
+      {
+        "name": "application protocol service",
+        "number": 1716
+      },
+      {
+        "name": "content manager",
+        "number": 1718
+      },
+      {
+        "name": "content handler",
+        "number": 1720
+      },
+      {
+        "name": "UI element handler",
+        "number": 1722
+      },
+      {
+        "name": "UI element handler",
+        "number": 1724
+      },
+      {
+        "name": "presentation controller",
+        "number": 1726
+      },
+      {
+        "name": "presentation controller",
+        "number": 1728
+      },
+      {
+        "name": "GUI subsystem",
+        "number": 1730
+      },
+      {
+        "name": "graphics subsystem",
+        "number": 1732
+      },
+      {
+        "name": "input driver",
+        "number": 1734
+      },
+      {
+        "name": "computing environment",
+        "number": 1800
+      },
+      {
+        "name": "service application",
+        "number": 1802
+      },
+      {
+        "name": "network stack",
+        "number": 1804
+      },
+      {
+        "name": "network application platform",
+        "number": 1806
+      },
+      {
+        "name": "application protocol service",
+        "number": 1808
+      },
+      {
+        "name": "controller",
+        "number": 1810
+      },
+      {
+        "name": "model",
+        "number": 1812
+      },
+      {
+        "name": "request handler",
+        "number": 1814
+      },
+      {
+        "name": "model database",
+        "number": 1816
+      },
+      {
+        "name": "data access manager",
+        "number": 1818
+      },
+      {
+        "name": "template engine",
+        "number": 1820
+      },
+      {
+        "name": "template database",
+        "number": 1822
+      },
+      {
+        "name": "template",
+        "number": 1824
+      },
+      {
+        "name": "view",
+        "number": 1826
+      },
+      {
+        "name": "response handler",
+        "number": 1828
+      },
+      {
+        "name": "data-out",
+        "number": 1830
+      },
+      {
+        "name": "item",
+        "number": 1900
+      },
+      {
+        "name": "computing device",
+        "number": 200
+      },
+      {
+        "name": "monitor or graphical user interface",
+        "number": 202
+      },
+      {
+        "name": "processor(s)",
+        "number": 204
+      },
+      {
+        "name": "output device(s)",
+        "number": 206
+      },
+      {
+        "name": "input device(s)",
+        "number": 208
+      },
+      {
+        "name": "volatile memory",
+        "number": 210
+      },
+      {
+        "name": "communication network interface",
+        "number": 212
+      },
+      {
+        "name": "nonvolatile memory",
+        "number": 214
+      },
+      {
+        "name": "communication network",
+        "number": 216
+      },
+      {
+        "name": "bus subsystem",
+        "number": 218
+      },
+      {
+        "name": "data processing system",
+        "number": 220
+      },
+      {
+        "name": "logic",
+        "number": 222
+      },
+      {
+        "name": "item",
+        "number": 2000
+      },
+      {
+        "name": "",
+        "number": 2002
+      },
+      {
+        "name": "",
+        "number": 2004
+      },
+      {
+        "name": "",
+        "number": 2006
+      },
+      {
+        "name": "block diagram",
+        "number": 2100
+      },
+      {
+        "name": "machine",
+        "number": 2102
+      },
+      {
+        "name": "Software Architecture",
+        "number": 2104
+      },
+      {
+        "name": "applications",
+        "number": 2106
+      },
+      {
+        "name": "frameworks",
+        "number": 2108
+      },
+      {
+        "name": "libraries",
+        "number": 2110
+      },
+      {
+        "name": "operating system",
+        "number": 2112
+      },
+      {
+        "name": "kernel",
+        "number": 2114
+      },
+      {
+        "name": "services",
+        "number": 2116
+      },
+      {
+        "name": "system libraries",
+        "number": 2118
+      },
+      {
+        "name": "processors",
+        "number": 2120
+      },
+      {
+        "name": "drivers",
+        "number": 2122
+      },
+      {
+        "name": "API libraries",
+        "number": 2124
+      },
+      {
+        "name": "memory",
+        "number": 2126
+      },
+      {
+        "name": "other libraries",
+        "number": 2128
+      },
+      {
+        "name": "contacts application",
+        "number": 2130
+      },
+      {
+        "name": "browser application",
+        "number": 2132
+      },
+      {
+        "name": "book reader application",
+        "number": 2134
+      },
+      {
+        "name": "home application",
+        "number": 2136
+      },
+      {
+        "name": "I/O components",
+        "number": 2138
+      },
+      {
+        "name": "third-party application",
+        "number": 2140
+      },
+      {
+        "name": "location application",
+        "number": 2142
+      },
+      {
+        "name": "media application",
+        "number": 2144
+      },
+      {
+        "name": "messaging application",
+        "number": 2146
+      },
+      {
+        "name": "game application",
+        "number": 2148
+      },
+      {
+        "name": "api calls",
+        "number": 2150
+      },
+      {
+        "name": "messages",
+        "number": 2152
+      },
+      {
+        "name": "machine",
+        "number": 2200
+      },
+      {
+        "name": "processors",
+        "number": 2202
+      },
+      {
+        "name": "memory",
+        "number": 2204
+      },
+      {
+        "name": "processor",
+        "number": 2206
+      },
+      {
+        "name": "instructions",
+        "number": 2208
+      },
+      {
+        "name": "processor",
+        "number": 2210
+      },
+      {
+        "name": "main memory",
+        "number": 2212
+      },
+      {
+        "name": "static memory",
+        "number": 2214
+      },
+      {
+        "name": "storage unit",
+        "number": 2216
+      },
+      {
+        "name": "machine-readable medium",
+        "number": 2218
+      },
+      {
+        "name": "network",
+        "number": 2220
+      },
+      {
+        "name": "devices",
+        "number": 2222
+      },
+      {
+        "name": "coupling",
+        "number": 2224
+      },
+      {
+        "name": "coupling",
+        "number": 2226
+      },
+      {
+        "name": "output components",
+        "number": 2228
+      },
+      {
+        "name": "input components",
+        "number": 2230
+      },
+      {
+        "name": "biometric components",
+        "number": 2232
+      },
+      {
+        "name": "motion components",
+        "number": 2234
+      },
+      {
+        "name": "environmental components",
+        "number": 2236
+      },
+      {
+        "name": "position components",
+        "number": 2238
+      },
+      {
+        "name": "communication components",
+        "number": 2240
+      },
+      {
+        "name": "I/O components",
+        "number": 2242
+      },
+      {
+        "name": "bus",
+        "number": 2244
+      },
+      {
+        "name": "item",
+        "number": 2300
+      },
+      {
+        "name": "",
+        "number": 2302
+      },
+      {
+        "name": "",
+        "number": 2304
+      },
+      {
+        "name": "",
+        "number": 2306
+      },
+      {
+        "name": "",
+        "number": 2308
+      },
+      {
+        "name": "",
+        "number": 2310
+      },
+      {
+        "name": "",
+        "number": 2312
+      },
+      {
+        "name": "",
+        "number": 2314
+      },
+      {
+        "name": "",
+        "number": 2316
+      },
+      {
+        "name": "",
+        "number": 2318
+      },
+      {
+        "name": "",
+        "number": 2320
+      },
+      {
+        "name": "",
+        "number": 2322
+      },
+      {
+        "name": "item",
+        "number": 2400
+      },
+      {
+        "name": "system",
+        "number": 300
+      },
+      {
+        "name": "bus",
+        "number": 302
+      },
+      {
+        "name": "memory",
+        "number": 304
+      },
+      {
+        "name": "display",
+        "number": 306
+      },
+      {
+        "name": "network interface",
+        "number": 308
+      },
+      {
+        "name": "central processing unit",
+        "number": 310
+      },
+      {
+        "name": "operating system",
+        "number": 312
+      },
+      {
+        "name": "database",
+        "number": 314
+      },
+      {
+        "name": "non-transitory computer-readable  medium",
+        "number": 316
+      },
+      {
+        "name": "digital apparatus",
+        "number": 400
+      },
+      {
+        "name": "CPU",
+        "number": 402
+      },
+      {
+        "name": "input devices",
+        "number": 404
+      },
+      {
+        "name": "memory",
+        "number": 406
+      },
+      {
+        "name": "output devices",
+        "number": 408
+      },
+      {
+        "name": "storage devices",
+        "number": 410
+      },
+      {
+        "name": "network interface",
+        "number": 412
+      },
+      {
+        "name": "logic",
+        "number": 414
+      },
+      {
+        "name": "mobile device",
+        "number": 500
+      },
+      {
+        "name": "antenna",
+        "number": 502
+      },
+      {
+        "name": "control logic",
+        "number": 504
+      },
+      {
+        "name": "wireless communication logic",
+        "number": 506
+      },
+      {
+        "name": "memory",
+        "number": 508
+      },
+      {
+        "name": "power manager",
+        "number": 510
+      },
+      {
+        "name": "battery",
+        "number": 512
+      },
+      {
+        "name": "user interface logic",
+        "number": 514
+      },
+      {
+        "name": "logic",
+        "number": 516
+      },
+      {
+        "name": "item",
+        "number": 600
+      },
+      {
+        "name": "item",
+        "number": 700
+      },
+      {
+        "name": "mobile device",
+        "number": 800
+      },
+      {
+        "name": "antenna",
+        "number": 802
+      },
+      {
+        "name": "signal processing and system control",
+        "number": 804
+      },
+      {
+        "name": "wireless communication",
+        "number": 806
+      },
+      {
+        "name": "memory",
+        "number": 808
+      },
+      {
+        "name": "power manager",
+        "number": 810
+      },
+      {
+        "name": "battery",
+        "number": 812
+      },
+      {
+        "name": "user interface",
+        "number": 814
+      },
+      {
+        "name": "camera",
+        "number": 816
+      },
+      {
+        "name": "image processing",
+        "number": 818
+      },
+      {
+        "name": "mobile device",
+        "number": 900
+      },
+      {
+        "name": "antenna",
+        "number": 902
+      },
+      {
+        "name": "antenna",
+        "number": 904
+      },
+      {
+        "name": "signal processing and system control",
+        "number": 906
+      },
+      {
+        "name": "wireless communication",
+        "number": 908
+      },
+      {
+        "name": "SIM",
+        "number": 910
+      },
+      {
+        "name": "speaker",
+        "number": 912
+      },
+      {
+        "name": "vibration generator",
+        "number": 914
+      },
+      {
+        "name": "memory",
+        "number": 916
+      },
+      {
+        "name": "power manager",
+        "number": 918
+      },
+      {
+        "name": "battery",
+        "number": 920
+      },
+      {
+        "name": "user interface",
+        "number": 922
+      },
+      {
+        "name": "camera",
+        "number": 924
+      },
+      {
+        "name": "image processing",
+        "number": 926
+      },
+      {
+        "name": "wireless communication logic",
+        "number": 928
+      },
+      {
+        "name": "audio driver",
+        "number": 930
+      },
+      {
+        "name": "haptic driver",
+        "number": 932
+      }
+    ],
+    "terms": [
+      "inventive"
+    ],
+    "glossary": []
+  },
+  "repository": "https://github.com/TurboPatent/general-drawings-stage"
+}
