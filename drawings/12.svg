@@ -1,342 +1,342 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="895" height="636"><g><g model-id="5b58339c-0517-4cec-a5a7-16490b128f3f" transform="translate(830,59)"><polygon fill="#000000" points="0,0 4.2,11.2 11.8,2" transform="translate(-5.9,27.3)"></polygon>
-<rect fill="none" width="1" height="1" transform="translate(33.3,-0.5)"></rect>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="v-8973" width="895" height="636"><g><g model-id="5b58339c-0517-4cec-a5a7-16490b128f3f" transform="translate(830,59)"><polygon fill="#000000" points="0,0 4.2,11.2 11.8,2" transform="translate(-5.9,27.3)"/>
+<rect fill="none" width="1" height="1" transform="translate(33.3,-0.5)"/>
 <g><g>
-<rect x="0" y="0" width="28.3" height="28.3" opacity="0"></rect>
-<path fill="none" stroke="#000000" stroke-width="1" d="M28.3,0C16.7,2.2,7,13.4,0,28.3"></path>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0"></rect><path stroke="#000000" fill="none"></path><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(0,0)"></text><rect stroke-width="0" fill="none" width="1" height="1" transform="translate(33.3,-0.5)"></rect><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" text-decoration="none" transform="translate(33.3,-0.5)"><tspan x="0" y="6.8">1200</tspan></text><path stroke="#000000" fill="none" transform="translate(33.3,-0.5)"></path></g><g model-id="96b1b055-b82f-4d6c-8816-7d21d08c2ef8" transform="translate(55,165)"><g><g>
+<rect x="0" y="0" width="28.3" height="28.3" opacity="0"/>
+<path fill="none" stroke="#000000" stroke-width="1" d="M28.3,0C16.7,2.2,7,13.4,0,28.3"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0"/><path stroke="#000000" fill="none"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(0,0)"/><rect stroke-width="0" fill="none" width="1" height="1" transform="translate(33.3,-0.5)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" text-decoration="none" transform="translate(33.3,-0.5)"><tspan x="0" y="6.8">1200</tspan></text><path stroke="#000000" fill="none" transform="translate(33.3,-0.5)"/></g><g model-id="96b1b055-b82f-4d6c-8816-7d21d08c2ef8" transform="translate(55,165)"><g><g>
 <g fill="#FFFFFF">
-    <path d="M108.4,70.2h-5.4c0.1,-0.1,-0,5.3,-0,5.3H0.1V10.4c0,0,5.5,-0.2,5.4,-0.1V5.1h5.1V0h102.8v65.1h-5.1"></path>
+    <path d="M108.4,70.2h-5.4c0.1,-0.1,-0,5.3,-0,5.3H0.1V10.4c0,0,5.5,-0.2,5.4,-0.1V5.1h5.1V0h102.8v65.1h-5.1"/>
 </g>
 <g stroke="#000000" stroke-dasharray="none">
-    <path fill="none" d="M10.6,5.1V0h102.8v65.1h-5.1"></path>
-    <path fill="none" d="M5.5,10.3V5.1h102.8v65.1h-5.4"></path>
-    <path fill="none" d="M0.1,10.4h102.8v65.1H0.1V10.4z"></path>
+    <path fill="none" d="M10.6,5.1V0h102.8v65.1h-5.1"/>
+    <path fill="none" d="M5.5,10.3V5.1h102.8v65.1h-5.4"/>
+    <path fill="none" d="M0.1,10.4h102.8v65.1H0.1V10.4z"/>
 </g>
-<rect x="3.4" y="13.7" fill="none" width="96.3" height="58.3"></rect>
-<circle fill="none" cx="58.5" cy="0.1" r="0.1"></circle>
-<circle fill="none" cx="93.2" cy="0.1" r="0.1"></circle>
-<circle fill="none" cx="113.4" cy="6.1" r="0.1"></circle>
-<circle fill="none" cx="113.4" cy="29.2" r="0.1"></circle>
-<circle fill="none" cx="113.4" cy="60.8" r="0.1"></circle>
-<circle fill="none" cx="89.2" cy="75.6" r="0.1"></circle>
-<circle fill="none" cx="48.3" cy="75.4" r="0.1"></circle>
-<circle fill="none" cx="12.3" cy="75.4" r="0.1"></circle>
-<circle fill="none" cx="0.3" cy="65.9" r="0.1"></circle>
-<circle fill="none" cx="0.3" cy="41.2" r="0.1"></circle>
-<circle fill="none" cx="0.1" cy="21.4" r="0.1"></circle>
-<circle fill="none" cx="24.2" cy="0.1" r="0.1"></circle>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(113.3,29.1)"></rect><path stroke="#000000" fill="none" d=""></path><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(113.3,29.1)"></text><rect stroke-width="0" fill="none" width="96.3" height="58.3" transform="translate(3.4,13.7)"></rect><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(3.4,13.7)" text-anchor="middle"><tspan x="48.2" y="35.5">CPU 1202</tspan></text><path stroke="#000000" fill="none" transform="translate(3.4,13.7)" d="M 50 38 87.3 38"></path></g><g model-id="089c03ac-4b83-4011-9541-ce23cd49051f" transform="translate(39,316)"><g><g>
+<rect x="3.4" y="13.7" fill="none" width="96.3" height="58.3"/>
+<circle fill="none" cx="58.5" cy="0.1" r="0.1"/>
+<circle fill="none" cx="93.2" cy="0.1" r="0.1"/>
+<circle fill="none" cx="113.4" cy="6.1" r="0.1"/>
+<circle fill="none" cx="113.4" cy="29.2" r="0.1"/>
+<circle fill="none" cx="113.4" cy="60.8" r="0.1"/>
+<circle fill="none" cx="89.2" cy="75.6" r="0.1"/>
+<circle fill="none" cx="48.3" cy="75.4" r="0.1"/>
+<circle fill="none" cx="12.3" cy="75.4" r="0.1"/>
+<circle fill="none" cx="0.3" cy="65.9" r="0.1"/>
+<circle fill="none" cx="0.3" cy="41.2" r="0.1"/>
+<circle fill="none" cx="0.1" cy="21.4" r="0.1"/>
+<circle fill="none" cx="24.2" cy="0.1" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(113.3,29.1)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(113.3,29.1)"/><rect stroke-width="0" fill="none" width="96.3" height="58.3" transform="translate(3.4,13.7)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(3.4,13.7)" text-anchor="middle"><tspan x="48.2" y="35.5">CPU 1202</tspan></text><path stroke="#000000" fill="none" transform="translate(3.4,13.7)" d="M 50 38 87.3 38"/></g><g model-id="089c03ac-4b83-4011-9541-ce23cd49051f" transform="translate(39,316)"><g><g>
 <g stroke="#000000" stroke-dasharray="none" fill="#FFFFFF">
-    <path d="M724.6,37.3V49.7L828,24.9L724.6,0v12.4H103.6V0L0,24.9L103.6,49.7v-12.4H724.6z"></path>
+    <path d="M724.6,37.3V49.7L828,24.9L724.6,0v12.4H103.6V0L0,24.9L103.6,49.7v-12.4H724.6z"/>
 </g>
-<rect x="29.3" y="5.3" fill="none" width="769.5" height="39.2"></rect>
-<circle fill="none" cx="421.7" cy="12.3" r="0.1"></circle>
-<circle fill="none" cx="621" cy="12.3" r="0.1"></circle>
-<circle fill="none" cx="726.9" cy="0.1" r="0.1"></circle>
-<circle fill="none" cx="827.3" cy="25" r="0.1"></circle>
-<circle fill="none" cx="725.5" cy="49.7" r="0.1"></circle>
-<circle fill="none" cx="632.2" cy="37.3" r="0.1"></circle>
-<circle fill="none" cx="430" cy="37.3" r="0.1"></circle>
-<circle fill="none" cx="234.9" cy="37.3" r="0.1"></circle>
-<circle fill="none" cx="102.5" cy="50" r="0.1"></circle>
-<circle fill="none" cx="2.1" cy="24.5" r="0.1"></circle>
-<circle fill="none" cx="103.8" cy="0.1" r="0.1"></circle>
-<circle fill="none" cx="232.1" cy="12.3" r="0.1"></circle>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(827.2,24.9)"></rect><path stroke="#000000" fill="none" d=""></path><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(827.2,24.9)"></text><rect stroke-width="0" fill="none" width="769.5" height="39.2" transform="translate(29.3,5.3)"></rect><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(29.3,5.3)" text-anchor="middle"><tspan x="384.7" y="25.9">BUS 1204</tspan></text><path stroke="#000000" fill="none" transform="translate(29.3,5.3)" d="M 386.5 28 423.9 28"></path></g><g model-id="4d4889b3-7e0c-c9e2-0347-10cf6f35ac10" transform="translate(222,165)"><g><g>
+<rect x="29.3" y="5.3" fill="none" width="769.5" height="39.2"/>
+<circle fill="none" cx="421.7" cy="12.3" r="0.1"/>
+<circle fill="none" cx="621" cy="12.3" r="0.1"/>
+<circle fill="none" cx="726.9" cy="0.1" r="0.1"/>
+<circle fill="none" cx="827.3" cy="25" r="0.1"/>
+<circle fill="none" cx="725.5" cy="49.7" r="0.1"/>
+<circle fill="none" cx="632.2" cy="37.3" r="0.1"/>
+<circle fill="none" cx="430" cy="37.3" r="0.1"/>
+<circle fill="none" cx="234.9" cy="37.3" r="0.1"/>
+<circle fill="none" cx="102.5" cy="50" r="0.1"/>
+<circle fill="none" cx="2.1" cy="24.5" r="0.1"/>
+<circle fill="none" cx="103.8" cy="0.1" r="0.1"/>
+<circle fill="none" cx="232.1" cy="12.3" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(827.2,24.9)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(827.2,24.9)"/><rect stroke-width="0" fill="none" width="769.5" height="39.2" transform="translate(29.3,5.3)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(29.3,5.3)" text-anchor="middle"><tspan x="384.7" y="25.9">BUS 1204</tspan></text><path stroke="#000000" fill="none" transform="translate(29.3,5.3)" d="M 386.5 28 423.9 28"/></g><g model-id="4d4889b3-7e0c-c9e2-0347-10cf6f35ac10" transform="translate(222,165)"><g><g>
 <g fill="#FFFFFF">
-    <path d="M108.4,70.2h-5.4c0.1,-0.1,-0,5.3,-0,5.3H0.1V10.4c0,0,5.5,-0.2,5.4,-0.1V5.1h5.1V0h102.8v65.1h-5.1"></path>
+    <path d="M108.4,70.2h-5.4c0.1,-0.1,-0,5.3,-0,5.3H0.1V10.4c0,0,5.5,-0.2,5.4,-0.1V5.1h5.1V0h102.8v65.1h-5.1"/>
 </g>
 <g stroke="#000000" stroke-dasharray="none">
-    <path fill="none" d="M10.6,5.1V0h102.8v65.1h-5.1"></path>
-    <path fill="none" d="M5.5,10.3V5.1h102.8v65.1h-5.4"></path>
-    <path fill="none" d="M0.1,10.4h102.8v65.1H0.1V10.4z"></path>
+    <path fill="none" d="M10.6,5.1V0h102.8v65.1h-5.1"/>
+    <path fill="none" d="M5.5,10.3V5.1h102.8v65.1h-5.4"/>
+    <path fill="none" d="M0.1,10.4h102.8v65.1H0.1V10.4z"/>
 </g>
-<rect x="3.4" y="13.7" fill="none" width="96.3" height="58.3"></rect>
-<circle fill="none" cx="58.5" cy="0.1" r="0.1"></circle>
-<circle fill="none" cx="93.2" cy="0.1" r="0.1"></circle>
-<circle fill="none" cx="113.4" cy="6.1" r="0.1"></circle>
-<circle fill="none" cx="113.4" cy="29.2" r="0.1"></circle>
-<circle fill="none" cx="113.4" cy="60.8" r="0.1"></circle>
-<circle fill="none" cx="89.2" cy="75.6" r="0.1"></circle>
-<circle fill="none" cx="48.3" cy="75.4" r="0.1"></circle>
-<circle fill="none" cx="12.3" cy="75.4" r="0.1"></circle>
-<circle fill="none" cx="0.3" cy="65.9" r="0.1"></circle>
-<circle fill="none" cx="0.3" cy="41.2" r="0.1"></circle>
-<circle fill="none" cx="0.1" cy="21.4" r="0.1"></circle>
-<circle fill="none" cx="24.2" cy="0.1" r="0.1"></circle>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(113.3,29.1)"></rect><path stroke="#000000" fill="none" d=""></path><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(113.3,29.1)"></text><rect stroke-width="0" fill="none" width="96.3" height="58.3" transform="translate(3.4,13.7)"></rect><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(3.4,13.7)" text-anchor="middle"><tspan x="48.2" y="35.5">ROM 1206</tspan></text><path stroke="#000000" fill="none" transform="translate(3.4,13.7)" d="M 53.1 38 90.4 38"></path></g><g model-id="e4dfb7e9-0910-7bea-d2ce-4704c2172a5f" transform="translate(367,165)"><g><g>
+<rect x="3.4" y="13.7" fill="none" width="96.3" height="58.3"/>
+<circle fill="none" cx="58.5" cy="0.1" r="0.1"/>
+<circle fill="none" cx="93.2" cy="0.1" r="0.1"/>
+<circle fill="none" cx="113.4" cy="6.1" r="0.1"/>
+<circle fill="none" cx="113.4" cy="29.2" r="0.1"/>
+<circle fill="none" cx="113.4" cy="60.8" r="0.1"/>
+<circle fill="none" cx="89.2" cy="75.6" r="0.1"/>
+<circle fill="none" cx="48.3" cy="75.4" r="0.1"/>
+<circle fill="none" cx="12.3" cy="75.4" r="0.1"/>
+<circle fill="none" cx="0.3" cy="65.9" r="0.1"/>
+<circle fill="none" cx="0.3" cy="41.2" r="0.1"/>
+<circle fill="none" cx="0.1" cy="21.4" r="0.1"/>
+<circle fill="none" cx="24.2" cy="0.1" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(113.3,29.1)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(113.3,29.1)"/><rect stroke-width="0" fill="none" width="96.3" height="58.3" transform="translate(3.4,13.7)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(3.4,13.7)" text-anchor="middle"><tspan x="48.2" y="35.5">ROM 1206</tspan></text><path stroke="#000000" fill="none" transform="translate(3.4,13.7)" d="M 53.1 38 90.4 38"/></g><g model-id="e4dfb7e9-0910-7bea-d2ce-4704c2172a5f" transform="translate(367,165)"><g><g>
 <g fill="#FFFFFF">
-    <path d="M108.4,70.2h-5.4c0.1,-0.1,-0,5.3,-0,5.3H0.1V10.4c0,0,5.5,-0.2,5.4,-0.1V5.1h5.1V0h102.8v65.1h-5.1"></path>
+    <path d="M108.4,70.2h-5.4c0.1,-0.1,-0,5.3,-0,5.3H0.1V10.4c0,0,5.5,-0.2,5.4,-0.1V5.1h5.1V0h102.8v65.1h-5.1"/>
 </g>
 <g stroke="#000000" stroke-dasharray="none">
-    <path fill="none" d="M10.6,5.1V0h102.8v65.1h-5.1"></path>
-    <path fill="none" d="M5.5,10.3V5.1h102.8v65.1h-5.4"></path>
-    <path fill="none" d="M0.1,10.4h102.8v65.1H0.1V10.4z"></path>
+    <path fill="none" d="M10.6,5.1V0h102.8v65.1h-5.1"/>
+    <path fill="none" d="M5.5,10.3V5.1h102.8v65.1h-5.4"/>
+    <path fill="none" d="M0.1,10.4h102.8v65.1H0.1V10.4z"/>
 </g>
-<rect x="3.4" y="13.7" fill="none" width="96.3" height="58.3"></rect>
-<circle fill="none" cx="58.5" cy="0.1" r="0.1"></circle>
-<circle fill="none" cx="93.2" cy="0.1" r="0.1"></circle>
-<circle fill="none" cx="113.4" cy="6.1" r="0.1"></circle>
-<circle fill="none" cx="113.4" cy="29.2" r="0.1"></circle>
-<circle fill="none" cx="113.4" cy="60.8" r="0.1"></circle>
-<circle fill="none" cx="89.2" cy="75.6" r="0.1"></circle>
-<circle fill="none" cx="48.3" cy="75.4" r="0.1"></circle>
-<circle fill="none" cx="12.3" cy="75.4" r="0.1"></circle>
-<circle fill="none" cx="0.3" cy="65.9" r="0.1"></circle>
-<circle fill="none" cx="0.3" cy="41.2" r="0.1"></circle>
-<circle fill="none" cx="0.1" cy="21.4" r="0.1"></circle>
-<circle fill="none" cx="24.2" cy="0.1" r="0.1"></circle>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(113.3,29.1)"></rect><path stroke="#000000" fill="none" d=""></path><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(113.3,29.1)"></text><rect stroke-width="0" fill="none" width="96.3" height="58.3" transform="translate(3.4,13.7)"></rect><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(3.4,13.7)" text-anchor="middle"><tspan x="48.2" y="35.5">RAM 1208</tspan></text><path stroke="#000000" fill="none" transform="translate(3.4,13.7)" d="M 53.1 38 90.4 38"></path></g><g model-id="30321c16-865e-719c-ca8a-44e4c7f4fbf1" transform="translate(513,162)"><g><g>
+<rect x="3.4" y="13.7" fill="none" width="96.3" height="58.3"/>
+<circle fill="none" cx="58.5" cy="0.1" r="0.1"/>
+<circle fill="none" cx="93.2" cy="0.1" r="0.1"/>
+<circle fill="none" cx="113.4" cy="6.1" r="0.1"/>
+<circle fill="none" cx="113.4" cy="29.2" r="0.1"/>
+<circle fill="none" cx="113.4" cy="60.8" r="0.1"/>
+<circle fill="none" cx="89.2" cy="75.6" r="0.1"/>
+<circle fill="none" cx="48.3" cy="75.4" r="0.1"/>
+<circle fill="none" cx="12.3" cy="75.4" r="0.1"/>
+<circle fill="none" cx="0.3" cy="65.9" r="0.1"/>
+<circle fill="none" cx="0.3" cy="41.2" r="0.1"/>
+<circle fill="none" cx="0.1" cy="21.4" r="0.1"/>
+<circle fill="none" cx="24.2" cy="0.1" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(113.3,29.1)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(113.3,29.1)"/><rect stroke-width="0" fill="none" width="96.3" height="58.3" transform="translate(3.4,13.7)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(3.4,13.7)" text-anchor="middle"><tspan x="48.2" y="35.5">RAM 1208</tspan></text><path stroke="#000000" fill="none" transform="translate(3.4,13.7)" d="M 53.1 38 90.4 38"/></g><g model-id="30321c16-865e-719c-ca8a-44e4c7f4fbf1" transform="translate(513,162)"><g><g>
 <g fill="#FFFFFF">
-    <path d="M108.4,70.2h-5.4c0.1,-0.1,-0,5.3,-0,5.3H0.1V10.4c0,0,5.5,-0.2,5.4,-0.1V5.1h5.1V0h102.8v65.1h-5.1"></path>
+    <path d="M108.4,70.2h-5.4c0.1,-0.1,-0,5.3,-0,5.3H0.1V10.4c0,0,5.5,-0.2,5.4,-0.1V5.1h5.1V0h102.8v65.1h-5.1"/>
 </g>
 <g stroke="#000000" stroke-dasharray="none">
-    <path fill="none" d="M10.6,5.1V0h102.8v65.1h-5.1"></path>
-    <path fill="none" d="M5.5,10.3V5.1h102.8v65.1h-5.4"></path>
-    <path fill="none" d="M0.1,10.4h102.8v65.1H0.1V10.4z"></path>
+    <path fill="none" d="M10.6,5.1V0h102.8v65.1h-5.1"/>
+    <path fill="none" d="M5.5,10.3V5.1h102.8v65.1h-5.4"/>
+    <path fill="none" d="M0.1,10.4h102.8v65.1H0.1V10.4z"/>
 </g>
-<rect x="3.4" y="13.7" fill="none" width="96.3" height="58.3"></rect>
-<circle fill="none" cx="58.5" cy="0.1" r="0.1"></circle>
-<circle fill="none" cx="93.2" cy="0.1" r="0.1"></circle>
-<circle fill="none" cx="113.4" cy="6.1" r="0.1"></circle>
-<circle fill="none" cx="113.4" cy="29.2" r="0.1"></circle>
-<circle fill="none" cx="113.4" cy="60.8" r="0.1"></circle>
-<circle fill="none" cx="89.2" cy="75.6" r="0.1"></circle>
-<circle fill="none" cx="48.3" cy="75.4" r="0.1"></circle>
-<circle fill="none" cx="12.3" cy="75.4" r="0.1"></circle>
-<circle fill="none" cx="0.3" cy="65.9" r="0.1"></circle>
-<circle fill="none" cx="0.3" cy="41.2" r="0.1"></circle>
-<circle fill="none" cx="0.1" cy="21.4" r="0.1"></circle>
-<circle fill="none" cx="24.2" cy="0.1" r="0.1"></circle>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(113.3,29.1)"></rect><path stroke="#000000" fill="none" d=""></path><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(113.3,29.1)"></text><rect stroke-width="0" fill="none" width="96.3" height="58.3" transform="translate(3.4,13.7)"></rect><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(3.4,13.7)" text-anchor="middle"><tspan x="48.2" y="14.5">I/O</tspan><tspan x="48.2" y="35.5">ADAPTER</tspan><tspan x="48.2" y="56.5">1210</tspan></text><path stroke="#000000" fill="none" transform="translate(3.4,13.7)" d="M 29.5 59 66.8 59"></path></g><g model-id="7fcd1282-4b46-48f5-8f90-1db7384e3b51" transform="translate(354.7,52)"><g><g>
+<rect x="3.4" y="13.7" fill="none" width="96.3" height="58.3"/>
+<circle fill="none" cx="58.5" cy="0.1" r="0.1"/>
+<circle fill="none" cx="93.2" cy="0.1" r="0.1"/>
+<circle fill="none" cx="113.4" cy="6.1" r="0.1"/>
+<circle fill="none" cx="113.4" cy="29.2" r="0.1"/>
+<circle fill="none" cx="113.4" cy="60.8" r="0.1"/>
+<circle fill="none" cx="89.2" cy="75.6" r="0.1"/>
+<circle fill="none" cx="48.3" cy="75.4" r="0.1"/>
+<circle fill="none" cx="12.3" cy="75.4" r="0.1"/>
+<circle fill="none" cx="0.3" cy="65.9" r="0.1"/>
+<circle fill="none" cx="0.3" cy="41.2" r="0.1"/>
+<circle fill="none" cx="0.1" cy="21.4" r="0.1"/>
+<circle fill="none" cx="24.2" cy="0.1" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(113.3,29.1)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(113.3,29.1)"/><rect stroke-width="0" fill="none" width="96.3" height="58.3" transform="translate(3.4,13.7)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(3.4,13.7)" text-anchor="middle"><tspan x="48.2" y="14.5">I/O</tspan><tspan x="48.2" y="35.5">ADAPTER</tspan><tspan x="48.2" y="56.5">1210</tspan></text><path stroke="#000000" fill="none" transform="translate(3.4,13.7)" d="M 29.5 59 66.8 59"/></g><g model-id="7fcd1282-4b46-48f5-8f90-1db7384e3b51" transform="translate(354.7,52)"><g><g>
 <g stroke="#000000" stroke-dasharray="none" fill="#FFFFFF">
-    <path d="M133.7,14.6H0v59.7c0,8,30,14.6,67,14.6s67,-6.6,67,-14.6v-59.7L133.7,14.6L133.7,14.6z"></path>
-    <path d="M67,0C30,0,0,6.6,0,14.6s30,14.6,67,14.6s67,-6.6,67,-14.6C133.7,6.6,103.7,0,67,0L67,0z"></path>
+    <path d="M133.7,14.6H0v59.7c0,8,30,14.6,67,14.6s67,-6.6,67,-14.6v-59.7L133.7,14.6L133.7,14.6z"/>
+    <path d="M67,0C30,0,0,6.6,0,14.6s30,14.6,67,14.6s67,-6.6,67,-14.6C133.7,6.6,103.7,0,67,0L67,0z"/>
 </g>
-<rect x="7.1" y="32.6" width="119.5" height="42.2" fill="none"></rect>
-<circle fill="none" cx="67" cy="0" r="0.1"></circle>
-<circle fill="none" cx="102.2" cy="2.2" r="0.1"></circle>
-<circle fill="none" cx="134" cy="14.6" r="0.1"></circle>
-<circle fill="none" cx="134" cy="44.5" r="0.1"></circle>
-<circle fill="none" cx="134" cy="74.4" r="0.1"></circle>
-<circle fill="none" cx="103.9" cy="86.5" r="0.1"></circle>
-<circle fill="none" cx="67" cy="89" r="0.1"></circle>
-<circle fill="none" cx="28.1" cy="86.2" r="0.1"></circle>
-<circle fill="none" cx="0" cy="74.4" r="0.1"></circle>
-<circle fill="none" cx="0" cy="44.5" r="0.1"></circle>
-<circle fill="none" cx="0" cy="14.6" r="0.1"></circle>
-<circle fill="none" cx="31.6" cy="2.2" r="0.1"></circle>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(133.9,44.4)"></rect><path stroke="#000000" fill="none" d=""></path><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(133.9,44.4)"></text><rect stroke-width="0" fill="none" width="119.5" height="42.2" transform="translate(7.1,32.6)"></rect><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(7.1,32.6)" text-anchor="middle"><tspan x="59.7" y="6.4">MEMORY</tspan><tspan x="59.7" y="27.4">STRUCTURE</tspan><tspan x="59.7" y="48.4">1212</tspan></text><path stroke="#000000" fill="none" transform="translate(7.1,32.6)" d="M 41.1 51 78.4 51"></path></g><g model-id="4aa4b903-fca4-4618-ba20-7f254a580f56" transform="translate(705,159)"><g><g>
+<rect x="7.1" y="32.6" width="119.5" height="42.2" fill="none"/>
+<circle fill="none" cx="67" cy="0" r="0.1"/>
+<circle fill="none" cx="102.2" cy="2.2" r="0.1"/>
+<circle fill="none" cx="134" cy="14.6" r="0.1"/>
+<circle fill="none" cx="134" cy="44.5" r="0.1"/>
+<circle fill="none" cx="134" cy="74.4" r="0.1"/>
+<circle fill="none" cx="103.9" cy="86.5" r="0.1"/>
+<circle fill="none" cx="67" cy="89" r="0.1"/>
+<circle fill="none" cx="28.1" cy="86.2" r="0.1"/>
+<circle fill="none" cx="0" cy="74.4" r="0.1"/>
+<circle fill="none" cx="0" cy="44.5" r="0.1"/>
+<circle fill="none" cx="0" cy="14.6" r="0.1"/>
+<circle fill="none" cx="31.6" cy="2.2" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(133.9,44.4)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(133.9,44.4)"/><rect stroke-width="0" fill="none" width="119.5" height="42.2" transform="translate(7.1,32.6)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(7.1,32.6)" text-anchor="middle"><tspan x="59.7" y="6.4">MEMORY</tspan><tspan x="59.7" y="27.4">STRUCTURE</tspan><tspan x="59.7" y="48.4">1212</tspan></text><path stroke="#000000" fill="none" transform="translate(7.1,32.6)" d="M 41.1 51 78.4 51"/></g><g model-id="4aa4b903-fca4-4618-ba20-7f254a580f56" transform="translate(705,159)"><g><g>
 <g fill="#FFFFFF">
-    <path d="M126.2,72.4h-6.3c0.2,-0.1,-0,5.5,-0,5.5H0.1V10.7c0,0,6.5,-0.2,6.3,-0.1V5.3h5.9V0h119.7v67.1h-6"></path>
+    <path d="M126.2,72.4h-6.3c0.2,-0.1,-0,5.5,-0,5.5H0.1V10.7c0,0,6.5,-0.2,6.3,-0.1V5.3h5.9V0h119.7v67.1h-6"/>
 </g>
 <g stroke="#000000" stroke-dasharray="none">
-    <path fill="none" d="M12.4,5.3V0h119.7v67.1h-6"></path>
-    <path fill="none" d="M6.4,10.7V5.3h119.7v67.1h-6.3"></path>
-    <path fill="none" d="M0.1,10.7h119.7v67.1H0.1V10.7z"></path>
+    <path fill="none" d="M12.4,5.3V0h119.7v67.1h-6"/>
+    <path fill="none" d="M6.4,10.7V5.3h119.7v67.1h-6.3"/>
+    <path fill="none" d="M0.1,10.7h119.7v67.1H0.1V10.7z"/>
 </g>
-<rect x="4" y="14.1" fill="none" width="112.1" height="60.2"></rect>
-<circle fill="none" cx="68.1" cy="0.1" r="0.1"></circle>
-<circle fill="none" cx="108.5" cy="0.1" r="0.1"></circle>
-<circle fill="none" cx="132.1" cy="6.3" r="0.1"></circle>
-<circle fill="none" cx="132.1" cy="30.1" r="0.1"></circle>
-<circle fill="none" cx="132.1" cy="62.8" r="0.1"></circle>
-<circle fill="none" cx="103.8" cy="78" r="0.1"></circle>
-<circle fill="none" cx="56.3" cy="77.8" r="0.1"></circle>
-<circle fill="none" cx="14.4" cy="77.8" r="0.1"></circle>
-<circle fill="none" cx="0.3" cy="68" r="0.1"></circle>
-<circle fill="none" cx="0.3" cy="42.5" r="0.1"></circle>
-<circle fill="none" cx="0.1" cy="22.1" r="0.1"></circle>
-<circle fill="none" cx="28.1" cy="0.1" r="0.1"></circle>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(132,30)"></rect><path stroke="#000000" fill="none" d=""></path><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(132,30)"></text><rect stroke-width="0" fill="none" width="112.1" height="60.2" transform="translate(4,14.1)"></rect><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(4,14.1)" text-anchor="middle"><tspan x="56.1" y="15.4">COMMUNICATION</tspan><tspan x="56.1" y="36.4">ADAPTER</tspan><tspan x="56.1" y="57.4">1214</tspan></text><path stroke="#000000" fill="none" transform="translate(4,14.1)" d="M 37.4 59 74.7 59"></path></g><g model-id="29fe144e-a8fe-4855-9830-d2755c584969" transform="translate(749,62)"><g><g>
+<rect x="4" y="14.1" fill="none" width="112.1" height="60.2"/>
+<circle fill="none" cx="68.1" cy="0.1" r="0.1"/>
+<circle fill="none" cx="108.5" cy="0.1" r="0.1"/>
+<circle fill="none" cx="132.1" cy="6.3" r="0.1"/>
+<circle fill="none" cx="132.1" cy="30.1" r="0.1"/>
+<circle fill="none" cx="132.1" cy="62.8" r="0.1"/>
+<circle fill="none" cx="103.8" cy="78" r="0.1"/>
+<circle fill="none" cx="56.3" cy="77.8" r="0.1"/>
+<circle fill="none" cx="14.4" cy="77.8" r="0.1"/>
+<circle fill="none" cx="0.3" cy="68" r="0.1"/>
+<circle fill="none" cx="0.3" cy="42.5" r="0.1"/>
+<circle fill="none" cx="0.1" cy="22.1" r="0.1"/>
+<circle fill="none" cx="28.1" cy="0.1" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(132,30)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(132,30)"/><rect stroke-width="0" fill="none" width="112.1" height="60.2" transform="translate(4,14.1)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(4,14.1)" text-anchor="middle"><tspan x="56.1" y="15.4">COMMUNICATION</tspan><tspan x="56.1" y="36.4">ADAPTER</tspan><tspan x="56.1" y="57.4">1214</tspan></text><path stroke="#000000" fill="none" transform="translate(4,14.1)" d="M 37.4 59 74.7 59"/></g><g model-id="29fe144e-a8fe-4855-9830-d2755c584969" transform="translate(749,62)"><g><g>
 <g stroke="#000000" stroke-dasharray="none" fill="#FFFFFF">
     <g>
-        <path d="M46,0L5.3,56.8l13.9,8.4L0,116l38.9,-57.2l-12.2,-9L46,0z"></path>
+        <path d="M46,0L5.3,56.8l13.9,8.4L0,116l38.9,-57.2l-12.2,-9L46,0z"/>
     </g>
 </g>
-<rect x="2.6" y="20.1" fill="none" width="39.5" height="66"></rect>
-<circle fill="none" cx="23.4" cy="31.5" r="0.1"></circle>
-<circle fill="none" cx="33" cy="18.3" r="0.1"></circle>
-<circle fill="none" cx="33.1" cy="33.5" r="0.1"></circle>
-<circle fill="none" cx="26.7" cy="49.8" r="0.1"></circle>
-<circle fill="none" cx="38.9" cy="58.8" r="0.1"></circle>
-<circle fill="none" cx="29.3" cy="72.9" r="0.1"></circle>
-<circle fill="none" cx="20.4" cy="86" r="0.1"></circle>
-<circle fill="none" cx="8" cy="104.3" r="0.1"></circle>
-<circle fill="none" cx="12.4" cy="83.3" r="0.1"></circle>
-<circle fill="none" cx="19.2" cy="65.4" r="0.1"></circle>
-<circle fill="none" cx="5.3" cy="56.8" r="0.1"></circle>
-<circle fill="none" cx="14" cy="44.8" r="0.1"></circle>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(26.6,49.7)"></rect><path stroke="#000000" fill="none" d=""></path><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(26.6,49.7)"></text><rect stroke-width="0" fill="none" width="138" transform="translate(-46,-10)"></rect><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(-46,-10)" text-anchor="middle"><tspan x="69" y="-25.2">COMMUNICATION</tspan><tspan x="69" y="-4.2">1216</tspan></text><path stroke="#000000" fill="none" transform="translate(-46,-10)" d="M 50.3 -2 87.7 -2"></path></g><g model-id="6e327b2e-b1cd-4768-b8e0-9ce303a70c49"><path stroke="black" stroke-dasharray="none" d="M 626 190 653 190 653 224 626 224"></path><path fill="black" stroke="black" d="" transform="translate(626,190) scale(1,1) rotate(0)"></path><path fill="black" stroke="black" d="" transform="translate(626,224) scale(1,1) rotate(0)"></path><g><g label-idx="0" cursor="move" transform="translate(653, 207)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"></rect><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"></text></g></g></g><g model-id="4e42aa83-a2ce-4aca-98a1-f2dcf8da5f21"><path stroke="black" stroke-dasharray="none" d="M 144 316 144 241"></path><path fill="black" stroke="black" d="" transform="translate(144,316) scale(1,1) rotate(-90)"></path><path fill="black" stroke="black" d="" transform="translate(144,241) scale(1,1) rotate(-270)"></path><g><g label-idx="0" cursor="move" transform="translate(144, 278.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"></rect><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"></text></g></g></g><g model-id="9398d5fe-25f1-4118-b94c-866314db5663"><path stroke="black" stroke-dasharray="none" d="M 270 328 270 240"></path><path fill="black" stroke="black" d="" transform="translate(270,328) scale(1,1) rotate(-90)"></path><path fill="black" stroke="black" d="" transform="translate(270,240) scale(1,1) rotate(-270)"></path><g><g label-idx="0" cursor="move" transform="translate(270, 284)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"></rect><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"></text></g></g></g><g model-id="1958ae95-c833-4fd8-a6bc-ba4e4c9cf052"><path stroke="black" stroke-dasharray="none" d="M 761 316 761 237"></path><path fill="black" stroke="black" d="" transform="translate(761,316) scale(1,1) rotate(-90)"></path><path fill="black" stroke="black" d="" transform="translate(761,237) scale(1,1) rotate(-270)"></path><g><g label-idx="0" cursor="move" transform="translate(761, 276.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"></rect><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"></text></g></g></g><g model-id="4ac57e29-dddb-499f-979e-95c0b8db118e"><path stroke="black" stroke-dasharray="none" d="M 456 328 456 241"></path><path fill="black" stroke="black" d="" transform="translate(456,328) scale(1,1) rotate(-90)"></path><path fill="black" stroke="black" d="" transform="translate(456,241) scale(1,1) rotate(-270)"></path><g><g label-idx="0" cursor="move" transform="translate(456, 284.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"></rect><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"></text></g></g></g><g model-id="542f632f-1ddf-4efb-9197-9b9522317a71"><path stroke="black" stroke-dasharray="none" d="M 659 328 659 279 565 278 565 237"></path><path fill="black" stroke="black" d="" transform="translate(659,328) scale(1,1) rotate(-90)"></path><path fill="black" stroke="black" d="" transform="translate(565,237) scale(1,1) rotate(-270)"></path><g><g label-idx="0" cursor="move" transform="translate(616, 278.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"></rect><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"></text></g></g></g><g model-id="d7662c30-8922-42c7-b6a3-8c47235f8104" transform="translate(25,423)"><g><g>
+<rect x="2.6" y="20.1" fill="none" width="39.5" height="66"/>
+<circle fill="none" cx="23.4" cy="31.5" r="0.1"/>
+<circle fill="none" cx="33" cy="18.3" r="0.1"/>
+<circle fill="none" cx="33.1" cy="33.5" r="0.1"/>
+<circle fill="none" cx="26.7" cy="49.8" r="0.1"/>
+<circle fill="none" cx="38.9" cy="58.8" r="0.1"/>
+<circle fill="none" cx="29.3" cy="72.9" r="0.1"/>
+<circle fill="none" cx="20.4" cy="86" r="0.1"/>
+<circle fill="none" cx="8" cy="104.3" r="0.1"/>
+<circle fill="none" cx="12.4" cy="83.3" r="0.1"/>
+<circle fill="none" cx="19.2" cy="65.4" r="0.1"/>
+<circle fill="none" cx="5.3" cy="56.8" r="0.1"/>
+<circle fill="none" cx="14" cy="44.8" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(26.6,49.7)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(26.6,49.7)"/><rect stroke-width="0" fill="none" width="138" transform="translate(-46,-10)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(-46,-10)" text-anchor="middle"><tspan x="69" y="-25.2">COMMUNICATION</tspan><tspan x="69" y="-4.2">1216</tspan></text><path stroke="#000000" fill="none" transform="translate(-46,-10)" d="M 50.3 -2 87.7 -2"/></g><g model-id="6e327b2e-b1cd-4768-b8e0-9ce303a70c49"><path stroke="black" stroke-dasharray="none" d="M 626 190 653 190 653 224 626 224"/><path fill="black" stroke="black" d="" transform="translate(626,190) scale(1,1) rotate(0)"/><path fill="black" stroke="black" d="" transform="translate(626,224) scale(1,1) rotate(0)"/><g><g label-idx="0" cursor="move" transform="translate(653, 207)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g model-id="4e42aa83-a2ce-4aca-98a1-f2dcf8da5f21"><path stroke="black" stroke-dasharray="none" d="M 144 316 144 241"/><path fill="black" stroke="black" d="" transform="translate(144,316) scale(1,1) rotate(-90)"/><path fill="black" stroke="black" d="" transform="translate(144,241) scale(1,1) rotate(-270)"/><g><g label-idx="0" cursor="move" transform="translate(144, 278.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g model-id="9398d5fe-25f1-4118-b94c-866314db5663"><path stroke="black" stroke-dasharray="none" d="M 270 328 270 240"/><path fill="black" stroke="black" d="" transform="translate(270,328) scale(1,1) rotate(-90)"/><path fill="black" stroke="black" d="" transform="translate(270,240) scale(1,1) rotate(-270)"/><g><g label-idx="0" cursor="move" transform="translate(270, 284)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g model-id="1958ae95-c833-4fd8-a6bc-ba4e4c9cf052"><path stroke="black" stroke-dasharray="none" d="M 761 316 761 237"/><path fill="black" stroke="black" d="" transform="translate(761,316) scale(1,1) rotate(-90)"/><path fill="black" stroke="black" d="" transform="translate(761,237) scale(1,1) rotate(-270)"/><g><g label-idx="0" cursor="move" transform="translate(761, 276.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g model-id="4ac57e29-dddb-499f-979e-95c0b8db118e"><path stroke="black" stroke-dasharray="none" d="M 456 328 456 241"/><path fill="black" stroke="black" d="" transform="translate(456,328) scale(1,1) rotate(-90)"/><path fill="black" stroke="black" d="" transform="translate(456,241) scale(1,1) rotate(-270)"/><g><g label-idx="0" cursor="move" transform="translate(456, 284.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g model-id="542f632f-1ddf-4efb-9197-9b9522317a71"><path stroke="black" stroke-dasharray="none" d="M 659 328 659 279 565 278 565 237"/><path fill="black" stroke="black" d="" transform="translate(659,328) scale(1,1) rotate(-90)"/><path fill="black" stroke="black" d="" transform="translate(565,237) scale(1,1) rotate(-270)"/><g><g label-idx="0" cursor="move" transform="translate(616, 278.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g model-id="d7662c30-8922-42c7-b6a3-8c47235f8104" transform="translate(25,423)"><g><g>
 <g stroke="#000000" stroke-dasharray="none" fill="#FFFFFF">
-    <path d="M108.7,55.1h-104C2.1,55.1,0,52.9,0,50.3V4.7C0,2.1,2.1,0,4.7,0h104c2.6,0,4.7,2.1,4.7,4.7v45.6C113.4,52.9,111.3,55.1,108.7,55.1z"></path>
-    <path d="M33.6,36.3h-5.7c-0.2,0,-0.5,-0.2,-0.5,-0.5V29.9c0,-0.2,0.2,-0.5,0.5,-0.5h5.7c0.2,0,0.5,0.2,0.5,0.5v5.9C34.2,35.9,34,36.3,33.6,36.3z"></path>
-    <path d="M43.9,36.3h-5.7c-0.2,0,-0.5,-0.2,-0.5,-0.5V29.9c0,-0.2,0.2,-0.5,0.5,-0.5h5.7c0.2,0,0.5,0.2,0.5,0.5v5.9C44.6,35.9,44.3,36.3,43.9,36.3z"></path>
-    <path d="M54.3,36.3H48.6c-0.2,0,-0.5,-0.2,-0.5,-0.5V29.9c0,-0.2,0.2,-0.5,0.5,-0.5h5.7c0.2,0,0.5,0.2,0.5,0.5v5.9C54.9,35.9,54.7,36.3,54.3,36.3z"></path>
-    <path d="M64.6,36.3h-5.7c-0.2,0,-0.5,-0.2,-0.5,-0.5V29.9c0,-0.2,0.2,-0.5,0.5,-0.5H64.6c0.2,0,0.5,0.2,0.5,0.5v5.9C65.2,35.9,65,36.3,64.6,36.3z"></path>
-    <path d="M75,36.3h-5.7c-0.2,0,-0.5,-0.2,-0.5,-0.5V29.9c0,-0.2,0.2,-0.5,0.5,-0.5h5.7c0.2,0,0.5,0.2,0.5,0.5v5.9C75.6,35.9,75.3,36.3,75,36.3z"></path>
-    <path d="M85.3,36.3h-5.7c-0.2,0,-0.5,-0.2,-0.5,-0.5V29.9c0,-0.2,0.2,-0.5,0.5,-0.5h5.7c0.2,0,0.5,0.2,0.5,0.5v5.9C85.8,35.9,85.6,36.3,85.3,36.3z"></path>
-    <path d="M29.1,25.8H23.4c-0.2,0,-0.5,-0.2,-0.5,-0.5v-5.9c0,-0.2,0.2,-0.5,0.5,-0.5h5.7c0.2,0,0.5,0.2,0.5,0.5v5.9C29.7,25.5,29.4,25.8,29.1,25.8z"></path>
-    <path d="M39.4,25.8h-5.7c-0.2,0,-0.5,-0.2,-0.5,-0.5v-5.9c0,-0.2,0.2,-0.5,0.5,-0.5H39.4c0.2,0,0.5,0.2,0.5,0.5v5.9C39.9,25.5,39.6,25.8,39.4,25.8z"></path>
-    <path d="M49.7,25.8h-5.7c-0.2,0,-0.5,-0.2,-0.5,-0.5v-5.9c0,-0.2,0.2,-0.5,0.5,-0.5h5.7c0.2,0,0.5,0.2,0.5,0.5v5.9C50.2,25.5,50,25.8,49.7,25.8z"></path>
-    <path d="M60.1,25.8h-5.7c-0.2,0,-0.5,-0.2,-0.5,-0.5v-5.9c0,-0.2,0.2,-0.5,0.5,-0.5h5.7c0.2,0,0.5,0.2,0.5,0.5v5.9C60.6,25.5,60.3,25.8,60.1,25.8z"></path>
-    <path d="M70.4,25.8h-5.7c-0.2,0,-0.5,-0.2,-0.5,-0.5v-5.9c0,-0.2,0.2,-0.5,0.5,-0.5h5.7c0.2,0,0.5,0.2,0.5,0.5v5.9C70.9,25.5,70.7,25.8,70.4,25.8z"></path>
-    <path d="M80.8,25.8h-5.8c-0.2,0,-0.5,-0.2,-0.5,-0.5v-5.9c0,-0.2,0.2,-0.5,0.5,-0.5H80.6c0.2,0,0.5,0.2,0.5,0.5v5.9C81.3,25.5,81,25.8,80.8,25.8z"></path>
-    <path d="M91.1,25.8h-5.7c-0.2,0,-0.5,-0.2,-0.5,-0.5v-5.9c0,-0.2,0.2,-0.5,0.5,-0.5H91.1c0.2,0,0.5,0.2,0.5,0.5v5.9C91.6,25.5,91.3,25.8,91.1,25.8z"></path>
-    <path d="M14.2,15.3H8.5c-0.2,0,-0.5,-0.2,-0.5,-0.5V9c0,-0.2,0.2,-0.5,0.5,-0.5H14.2c0.2,0,0.5,0.2,0.5,0.5v5.9C14.6,15.1,14.4,15.3,14.2,15.3z"></path>
-    <path d="M24.1,15.3H18.5c-0.2,0,-0.5,-0.2,-0.5,-0.5V9c0,-0.2,0.2,-0.5,0.5,-0.5h5.7c0.2,0,0.5,0.2,0.5,0.5v5.9C24.7,15.1,24.5,15.3,24.1,15.3z"></path>
-    <path d="M34.2,15.3h-5.7c-0.2,0,-0.5,-0.2,-0.5,-0.5V9c0,-0.2,0.2,-0.5,0.5,-0.5h5.7c0.2,0,0.5,0.2,0.5,0.5v5.9C34.8,15.1,34.6,15.3,34.2,15.3z"></path>
-    <path d="M44.3,15.3h-5.7c-0.2,0,-0.5,-0.2,-0.5,-0.5V9c0,-0.2,0.2,-0.5,0.5,-0.5H44.3c0.2,0,0.5,0.2,0.5,0.5v5.9C44.8,15.1,44.6,15.3,44.3,15.3z"></path>
-    <path d="M54.3,15.3H48.6c-0.2,0,-0.5,-0.2,-0.5,-0.5V9c0,-0.2,0.2,-0.5,0.5,-0.5h5.7c0.2,0,0.5,0.2,0.5,0.5v5.9C54.9,15.1,54.7,15.3,54.3,15.3z"></path>
-    <path d="M64.4,15.3h-5.7c-0.2,0,-0.5,-0.2,-0.5,-0.5V9c0,-0.2,0.2,-0.5,0.5,-0.5h5.7c0.2,0,0.5,0.2,0.5,0.5v5.9C65,15.1,64.8,15.3,64.4,15.3z"></path>
-    <path d="M74.5,15.3h-5.7c-0.2,0,-0.5,-0.2,-0.5,-0.5V9c0,-0.2,0.2,-0.5,0.5,-0.5H74.5c0.2,0,0.5,0.2,0.5,0.5v5.9C75,15.1,74.7,15.3,74.5,15.3z"></path>
-    <path d="M84.5,15.3H78.8c-0.2,0,-0.5,-0.2,-0.5,-0.5V9c0,-0.2,0.2,-0.5,0.5,-0.5h5.7c0.2,0,0.5,0.2,0.5,0.5v5.9C85.1,15.1,84.8,15.3,84.5,15.3z"></path>
-    <path d="M94.5,15.3h-5.7c-0.2,0,-0.5,-0.2,-0.5,-0.5V9c0,-0.2,0.2,-0.5,0.5,-0.5h5.7c0.2,0,0.5,0.2,0.5,0.5v5.9C95,15.1,94.8,15.3,94.5,15.3z"></path>
-    <path d="M104.6,15.3h-5.7c-0.2,0,-0.5,-0.2,-0.5,-0.5V9c0,-0.2,0.2,-0.5,0.5,-0.5H104.6c0.2,0,0.5,0.2,0.5,0.5v5.9C105.1,15.1,104.9,15.3,104.6,15.3z"></path>
-    <path d="M27.8,46.6h57.5c0.4,0,0.6,-0.2,0.6,-0.6v-5.7c0,-0.4,-0.2,-0.6,-0.6,-0.6H27.8c-0.4,0,-0.6,0.2,-0.6,0.6v5.7C27.2,46.3,27.5,46.6,27.8,46.6z"></path>
-    <path d="M8.5,46.6h14.8c0.4,0,0.6,-0.2,0.6,-0.6v-5.7c0,-0.4,-0.2,-0.6,-0.6,-0.6h-14.8c-0.4,0,-0.6,0.2,-0.6,0.6v5.7C7.9,46.3,8.1,46.6,8.5,46.6z"></path>
-    <path d="M90,46.6h14.9c0.4,0,0.6,-0.2,0.6,-0.6v-5.7c0,-0.4,-0.2,-0.6,-0.6,-0.6h-14.9c-0.4,0,-0.6,0.2,-0.6,0.6v5.7C89.4,46.3,89.6,46.6,90,46.6z"></path>
-    <path d="M90,36.3h14.9c0.4,0,0.6,-0.2,0.6,-0.6V29.9c0,-0.4,-0.2,-0.6,-0.6,-0.6h-14.9c-0.4,0,-0.6,0.2,-0.6,0.6v5.7C89.4,35.9,89.6,36.3,90,36.3z"></path>
-    <path d="M8.5,36.3h14.8c0.4,0,0.6,-0.2,0.6,-0.6V29.9c0,-0.4,-0.2,-0.6,-0.6,-0.6h-14.8c-0.4,0,-0.6,0.2,-0.6,0.6v5.7C7.9,35.9,8.1,36.3,8.5,36.3z"></path>
-    <path d="M8.5,25.8h10.2c0.4,0,0.6,-0.2,0.6,-0.6v-5.7c0,-0.4,-0.2,-0.6,-0.6,-0.6H8.5c-0.4,0,-0.6,0.2,-0.6,0.6v5.7C7.9,25.5,8.1,25.8,8.5,25.8z"></path>
-    <path d="M95.7,25.8h9.2c0.4,0,0.6,-0.2,0.6,-0.6v-5.7c0,-0.4,-0.2,-0.6,-0.6,-0.6h-9.2c-0.4,0,-0.6,0.2,-0.6,0.6v5.7C95,25.5,95.4,25.8,95.7,25.8z"></path>
+    <path d="M108.7,55.1h-104C2.1,55.1,0,52.9,0,50.3V4.7C0,2.1,2.1,0,4.7,0h104c2.6,0,4.7,2.1,4.7,4.7v45.6C113.4,52.9,111.3,55.1,108.7,55.1z"/>
+    <path d="M33.6,36.3h-5.7c-0.2,0,-0.5,-0.2,-0.5,-0.5V29.9c0,-0.2,0.2,-0.5,0.5,-0.5h5.7c0.2,0,0.5,0.2,0.5,0.5v5.9C34.2,35.9,34,36.3,33.6,36.3z"/>
+    <path d="M43.9,36.3h-5.7c-0.2,0,-0.5,-0.2,-0.5,-0.5V29.9c0,-0.2,0.2,-0.5,0.5,-0.5h5.7c0.2,0,0.5,0.2,0.5,0.5v5.9C44.6,35.9,44.3,36.3,43.9,36.3z"/>
+    <path d="M54.3,36.3H48.6c-0.2,0,-0.5,-0.2,-0.5,-0.5V29.9c0,-0.2,0.2,-0.5,0.5,-0.5h5.7c0.2,0,0.5,0.2,0.5,0.5v5.9C54.9,35.9,54.7,36.3,54.3,36.3z"/>
+    <path d="M64.6,36.3h-5.7c-0.2,0,-0.5,-0.2,-0.5,-0.5V29.9c0,-0.2,0.2,-0.5,0.5,-0.5H64.6c0.2,0,0.5,0.2,0.5,0.5v5.9C65.2,35.9,65,36.3,64.6,36.3z"/>
+    <path d="M75,36.3h-5.7c-0.2,0,-0.5,-0.2,-0.5,-0.5V29.9c0,-0.2,0.2,-0.5,0.5,-0.5h5.7c0.2,0,0.5,0.2,0.5,0.5v5.9C75.6,35.9,75.3,36.3,75,36.3z"/>
+    <path d="M85.3,36.3h-5.7c-0.2,0,-0.5,-0.2,-0.5,-0.5V29.9c0,-0.2,0.2,-0.5,0.5,-0.5h5.7c0.2,0,0.5,0.2,0.5,0.5v5.9C85.8,35.9,85.6,36.3,85.3,36.3z"/>
+    <path d="M29.1,25.8H23.4c-0.2,0,-0.5,-0.2,-0.5,-0.5v-5.9c0,-0.2,0.2,-0.5,0.5,-0.5h5.7c0.2,0,0.5,0.2,0.5,0.5v5.9C29.7,25.5,29.4,25.8,29.1,25.8z"/>
+    <path d="M39.4,25.8h-5.7c-0.2,0,-0.5,-0.2,-0.5,-0.5v-5.9c0,-0.2,0.2,-0.5,0.5,-0.5H39.4c0.2,0,0.5,0.2,0.5,0.5v5.9C39.9,25.5,39.6,25.8,39.4,25.8z"/>
+    <path d="M49.7,25.8h-5.7c-0.2,0,-0.5,-0.2,-0.5,-0.5v-5.9c0,-0.2,0.2,-0.5,0.5,-0.5h5.7c0.2,0,0.5,0.2,0.5,0.5v5.9C50.2,25.5,50,25.8,49.7,25.8z"/>
+    <path d="M60.1,25.8h-5.7c-0.2,0,-0.5,-0.2,-0.5,-0.5v-5.9c0,-0.2,0.2,-0.5,0.5,-0.5h5.7c0.2,0,0.5,0.2,0.5,0.5v5.9C60.6,25.5,60.3,25.8,60.1,25.8z"/>
+    <path d="M70.4,25.8h-5.7c-0.2,0,-0.5,-0.2,-0.5,-0.5v-5.9c0,-0.2,0.2,-0.5,0.5,-0.5h5.7c0.2,0,0.5,0.2,0.5,0.5v5.9C70.9,25.5,70.7,25.8,70.4,25.8z"/>
+    <path d="M80.8,25.8h-5.8c-0.2,0,-0.5,-0.2,-0.5,-0.5v-5.9c0,-0.2,0.2,-0.5,0.5,-0.5H80.6c0.2,0,0.5,0.2,0.5,0.5v5.9C81.3,25.5,81,25.8,80.8,25.8z"/>
+    <path d="M91.1,25.8h-5.7c-0.2,0,-0.5,-0.2,-0.5,-0.5v-5.9c0,-0.2,0.2,-0.5,0.5,-0.5H91.1c0.2,0,0.5,0.2,0.5,0.5v5.9C91.6,25.5,91.3,25.8,91.1,25.8z"/>
+    <path d="M14.2,15.3H8.5c-0.2,0,-0.5,-0.2,-0.5,-0.5V9c0,-0.2,0.2,-0.5,0.5,-0.5H14.2c0.2,0,0.5,0.2,0.5,0.5v5.9C14.6,15.1,14.4,15.3,14.2,15.3z"/>
+    <path d="M24.1,15.3H18.5c-0.2,0,-0.5,-0.2,-0.5,-0.5V9c0,-0.2,0.2,-0.5,0.5,-0.5h5.7c0.2,0,0.5,0.2,0.5,0.5v5.9C24.7,15.1,24.5,15.3,24.1,15.3z"/>
+    <path d="M34.2,15.3h-5.7c-0.2,0,-0.5,-0.2,-0.5,-0.5V9c0,-0.2,0.2,-0.5,0.5,-0.5h5.7c0.2,0,0.5,0.2,0.5,0.5v5.9C34.8,15.1,34.6,15.3,34.2,15.3z"/>
+    <path d="M44.3,15.3h-5.7c-0.2,0,-0.5,-0.2,-0.5,-0.5V9c0,-0.2,0.2,-0.5,0.5,-0.5H44.3c0.2,0,0.5,0.2,0.5,0.5v5.9C44.8,15.1,44.6,15.3,44.3,15.3z"/>
+    <path d="M54.3,15.3H48.6c-0.2,0,-0.5,-0.2,-0.5,-0.5V9c0,-0.2,0.2,-0.5,0.5,-0.5h5.7c0.2,0,0.5,0.2,0.5,0.5v5.9C54.9,15.1,54.7,15.3,54.3,15.3z"/>
+    <path d="M64.4,15.3h-5.7c-0.2,0,-0.5,-0.2,-0.5,-0.5V9c0,-0.2,0.2,-0.5,0.5,-0.5h5.7c0.2,0,0.5,0.2,0.5,0.5v5.9C65,15.1,64.8,15.3,64.4,15.3z"/>
+    <path d="M74.5,15.3h-5.7c-0.2,0,-0.5,-0.2,-0.5,-0.5V9c0,-0.2,0.2,-0.5,0.5,-0.5H74.5c0.2,0,0.5,0.2,0.5,0.5v5.9C75,15.1,74.7,15.3,74.5,15.3z"/>
+    <path d="M84.5,15.3H78.8c-0.2,0,-0.5,-0.2,-0.5,-0.5V9c0,-0.2,0.2,-0.5,0.5,-0.5h5.7c0.2,0,0.5,0.2,0.5,0.5v5.9C85.1,15.1,84.8,15.3,84.5,15.3z"/>
+    <path d="M94.5,15.3h-5.7c-0.2,0,-0.5,-0.2,-0.5,-0.5V9c0,-0.2,0.2,-0.5,0.5,-0.5h5.7c0.2,0,0.5,0.2,0.5,0.5v5.9C95,15.1,94.8,15.3,94.5,15.3z"/>
+    <path d="M104.6,15.3h-5.7c-0.2,0,-0.5,-0.2,-0.5,-0.5V9c0,-0.2,0.2,-0.5,0.5,-0.5H104.6c0.2,0,0.5,0.2,0.5,0.5v5.9C105.1,15.1,104.9,15.3,104.6,15.3z"/>
+    <path d="M27.8,46.6h57.5c0.4,0,0.6,-0.2,0.6,-0.6v-5.7c0,-0.4,-0.2,-0.6,-0.6,-0.6H27.8c-0.4,0,-0.6,0.2,-0.6,0.6v5.7C27.2,46.3,27.5,46.6,27.8,46.6z"/>
+    <path d="M8.5,46.6h14.8c0.4,0,0.6,-0.2,0.6,-0.6v-5.7c0,-0.4,-0.2,-0.6,-0.6,-0.6h-14.8c-0.4,0,-0.6,0.2,-0.6,0.6v5.7C7.9,46.3,8.1,46.6,8.5,46.6z"/>
+    <path d="M90,46.6h14.9c0.4,0,0.6,-0.2,0.6,-0.6v-5.7c0,-0.4,-0.2,-0.6,-0.6,-0.6h-14.9c-0.4,0,-0.6,0.2,-0.6,0.6v5.7C89.4,46.3,89.6,46.6,90,46.6z"/>
+    <path d="M90,36.3h14.9c0.4,0,0.6,-0.2,0.6,-0.6V29.9c0,-0.4,-0.2,-0.6,-0.6,-0.6h-14.9c-0.4,0,-0.6,0.2,-0.6,0.6v5.7C89.4,35.9,89.6,36.3,90,36.3z"/>
+    <path d="M8.5,36.3h14.8c0.4,0,0.6,-0.2,0.6,-0.6V29.9c0,-0.4,-0.2,-0.6,-0.6,-0.6h-14.8c-0.4,0,-0.6,0.2,-0.6,0.6v5.7C7.9,35.9,8.1,36.3,8.5,36.3z"/>
+    <path d="M8.5,25.8h10.2c0.4,0,0.6,-0.2,0.6,-0.6v-5.7c0,-0.4,-0.2,-0.6,-0.6,-0.6H8.5c-0.4,0,-0.6,0.2,-0.6,0.6v5.7C7.9,25.5,8.1,25.8,8.5,25.8z"/>
+    <path d="M95.7,25.8h9.2c0.4,0,0.6,-0.2,0.6,-0.6v-5.7c0,-0.4,-0.2,-0.6,-0.6,-0.6h-9.2c-0.4,0,-0.6,0.2,-0.6,0.6v5.7C95,25.5,95.4,25.8,95.7,25.8z"/>
 </g>
-<rect x="4.1" y="2.9" fill="none" width="105.3" height="49.5"></rect>
-<circle fill="none" cx="56.6" cy="0" r="0.1"></circle>
-<circle fill="none" cx="88.1" cy="0" r="0.1"></circle>
-<circle fill="none" cx="113.4" cy="7" r="0.1"></circle>
-<circle fill="none" cx="113.4" cy="27.7" r="0.1"></circle>
-<circle fill="none" cx="113.4" cy="48.2" r="0.1"></circle>
-<circle fill="none" cx="88.1" cy="55.1" r="0.1"></circle>
-<circle fill="none" cx="56.5" cy="55.1" r="0.1"></circle>
-<circle fill="none" cx="19.3" cy="55.1" r="0.1"></circle>
-<circle fill="none" cx="0" cy="48.3" r="0.1"></circle>
-<circle fill="none" cx="0" cy="27.8" r="0.1"></circle>
-<circle fill="none" cx="0" cy="6.9" r="0.1"></circle>
-<circle fill="none" cx="19.4" cy="0.1" r="0.1"></circle>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(113.3,27.6)"></rect><path stroke="#000000" fill="none" d=""></path><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(113.3,27.6)"></text><rect stroke-width="0" fill="none" width="340.7" transform="translate(-113.7,65.2)"></rect><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(-113.7,65.2)" text-anchor="middle"><tspan x="170.4" y="16.8">INTERFACE DEVICE 1218</tspan></text><path stroke="#000000" fill="none" transform="translate(-113.7,65.2)" d="M 241.2 19 278.5 19"></path></g><g model-id="2e65d7b8-9a71-44b5-816a-e63be4f4143a" transform="translate(206,407)"><g><g>
+<rect x="4.1" y="2.9" fill="none" width="105.3" height="49.5"/>
+<circle fill="none" cx="56.6" cy="0" r="0.1"/>
+<circle fill="none" cx="88.1" cy="0" r="0.1"/>
+<circle fill="none" cx="113.4" cy="7" r="0.1"/>
+<circle fill="none" cx="113.4" cy="27.7" r="0.1"/>
+<circle fill="none" cx="113.4" cy="48.2" r="0.1"/>
+<circle fill="none" cx="88.1" cy="55.1" r="0.1"/>
+<circle fill="none" cx="56.5" cy="55.1" r="0.1"/>
+<circle fill="none" cx="19.3" cy="55.1" r="0.1"/>
+<circle fill="none" cx="0" cy="48.3" r="0.1"/>
+<circle fill="none" cx="0" cy="27.8" r="0.1"/>
+<circle fill="none" cx="0" cy="6.9" r="0.1"/>
+<circle fill="none" cx="19.4" cy="0.1" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(113.3,27.6)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(113.3,27.6)"/><rect stroke-width="0" fill="none" width="340.7" transform="translate(-113.7,65.2)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(-113.7,65.2)" text-anchor="middle"><tspan x="170.4" y="16.8">INTERFACE DEVICE 1218</tspan></text><path stroke="#000000" fill="none" transform="translate(-113.7,65.2)" d="M 241.2 19 278.5 19"/></g><g model-id="2e65d7b8-9a71-44b5-816a-e63be4f4143a" transform="translate(206,407)"><g><g>
 <g fill="#FFFFFF">
-    <path d="M122.5,79.3h-6.1c0.2,-0.2,-0,6,-0,6H0.1V11.8c0,0,6.3,-0.2,6.1,-0.1V5.8h5.8V0h116.2v73.5h-5.8"></path>
+    <path d="M122.5,79.3h-6.1c0.2,-0.2,-0,6,-0,6H0.1V11.8c0,0,6.3,-0.2,6.1,-0.1V5.8h5.8V0h116.2v73.5h-5.8"/>
 </g>
 <g stroke="#000000" stroke-dasharray="none">
-    <path fill="none" d="M12,5.8V0h116.2v73.5h-5.8"></path>
-    <path fill="none" d="M6.2,11.7V5.8h116.2v73.5h-6.1"></path>
-    <path fill="none" d="M0.1,11.8h116.2v73.5H0.1V11.8z"></path>
+    <path fill="none" d="M12,5.8V0h116.2v73.5h-5.8"/>
+    <path fill="none" d="M6.2,11.7V5.8h116.2v73.5h-6.1"/>
+    <path fill="none" d="M0.1,11.8h116.2v73.5H0.1V11.8z"/>
 </g>
-<rect x="3.8" y="15.4" fill="none" width="108.9" height="65.9"></rect>
-<circle fill="none" cx="66.1" cy="0.1" r="0.1"></circle>
-<circle fill="none" cx="105.4" cy="0.1" r="0.1"></circle>
-<circle fill="none" cx="128.2" cy="6.9" r="0.1"></circle>
-<circle fill="none" cx="128.2" cy="33" r="0.1"></circle>
-<circle fill="none" cx="128.2" cy="68.7" r="0.1"></circle>
-<circle fill="none" cx="100.8" cy="85.4" r="0.1"></circle>
-<circle fill="none" cx="54.6" cy="85.2" r="0.1"></circle>
-<circle fill="none" cx="13.9" cy="85.2" r="0.1"></circle>
-<circle fill="none" cx="0.3" cy="74.4" r="0.1"></circle>
-<circle fill="none" cx="0.3" cy="46.5" r="0.1"></circle>
-<circle fill="none" cx="0.1" cy="24.2" r="0.1"></circle>
-<circle fill="none" cx="27.3" cy="0.1" r="0.1"></circle>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(128.1,32.9)"></rect><path stroke="#000000" fill="none" d=""></path><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(128.1,32.9)"></text><rect stroke-width="0" fill="none" width="108.9" height="65.9" transform="translate(3.8,15.4)"></rect><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(3.8,15.4)" text-anchor="middle"><tspan x="54.4" y="7.8">USER</tspan><tspan x="54.4" y="28.8">INTERFACE</tspan><tspan x="54.4" y="49.8">ADAPTER</tspan><tspan x="54.4" y="70.8">1220</tspan></text><path stroke="#000000" fill="none" transform="translate(3.8,15.4)" d="M 35.8 73 73.1 73"></path></g><g model-id="dcf43173-387d-4e34-9448-7253156858e9"><path stroke="black" stroke-dasharray="none" d="M 274 407 274 353"></path><path fill="black" stroke="black" d="" transform="translate(274,407) scale(1,1) rotate(-90)"></path><path fill="black" stroke="black" d="" transform="translate(274,353) scale(1,1) rotate(-270)"></path><g><g label-idx="0" cursor="move" transform="translate(274, 380)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"></rect><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"></text></g></g></g><g model-id="cdf36f75-daa8-4d63-a5ba-b69356ffc1e5"><path stroke="black" stroke-dasharray="none" d="M 138 454 206 454"></path><path fill="black" stroke="black" d="" transform="translate(138,454) scale(1,1) rotate(0)"></path><path fill="black" stroke="black" d="" transform="translate(206,454) scale(1,1) rotate(-180)"></path><g><g label-idx="0" cursor="move" transform="translate(172, 454)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"></rect><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"></text></g></g></g><g model-id="855edadc-6bfb-451e-924e-a69f0cb851b9" transform="translate(206,520)"><g><g>
+<rect x="3.8" y="15.4" fill="none" width="108.9" height="65.9"/>
+<circle fill="none" cx="66.1" cy="0.1" r="0.1"/>
+<circle fill="none" cx="105.4" cy="0.1" r="0.1"/>
+<circle fill="none" cx="128.2" cy="6.9" r="0.1"/>
+<circle fill="none" cx="128.2" cy="33" r="0.1"/>
+<circle fill="none" cx="128.2" cy="68.7" r="0.1"/>
+<circle fill="none" cx="100.8" cy="85.4" r="0.1"/>
+<circle fill="none" cx="54.6" cy="85.2" r="0.1"/>
+<circle fill="none" cx="13.9" cy="85.2" r="0.1"/>
+<circle fill="none" cx="0.3" cy="74.4" r="0.1"/>
+<circle fill="none" cx="0.3" cy="46.5" r="0.1"/>
+<circle fill="none" cx="0.1" cy="24.2" r="0.1"/>
+<circle fill="none" cx="27.3" cy="0.1" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(128.1,32.9)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(128.1,32.9)"/><rect stroke-width="0" fill="none" width="108.9" height="65.9" transform="translate(3.8,15.4)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(3.8,15.4)" text-anchor="middle"><tspan x="54.4" y="7.8">USER</tspan><tspan x="54.4" y="28.8">INTERFACE</tspan><tspan x="54.4" y="49.8">ADAPTER</tspan><tspan x="54.4" y="70.8">1220</tspan></text><path stroke="#000000" fill="none" transform="translate(3.8,15.4)" d="M 35.8 73 73.1 73"/></g><g model-id="dcf43173-387d-4e34-9448-7253156858e9"><path stroke="black" stroke-dasharray="none" d="M 274 407 274 353"/><path fill="black" stroke="black" d="" transform="translate(274,407) scale(1,1) rotate(-90)"/><path fill="black" stroke="black" d="" transform="translate(274,353) scale(1,1) rotate(-270)"/><g><g label-idx="0" cursor="move" transform="translate(274, 380)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g model-id="cdf36f75-daa8-4d63-a5ba-b69356ffc1e5"><path stroke="black" stroke-dasharray="none" d="M 138 454 206 454"/><path fill="black" stroke="black" d="" transform="translate(138,454) scale(1,1) rotate(0)"/><path fill="black" stroke="black" d="" transform="translate(206,454) scale(1,1) rotate(-180)"/><g><g label-idx="0" cursor="move" transform="translate(172, 454)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g model-id="855edadc-6bfb-451e-924e-a69f0cb851b9" transform="translate(206,520)"><g><g>
 <g stroke="#000000" stroke-dasharray="none" fill="#FFFFFF">
     <g>
-        <path d="M28,29.3V19.5c0,-0.5,-0.4,-0.8,-0.9,-0.8s-0.9,0.3,-0.9,0.8v9.8c0,5.8,-5.4,10.5,-12.1,10.5S1.9,35.1,1.9,29.3V19.5c0,-0.5,-0.4,-0.8,-0.9,-0.8S0,19,0,19.5v9.8C0,35.7,5.8,41,13.1,41.4v4.9H4.6c-0.6,0,-0.9,0.3,-0.9,0.8s0.4,0.8,0.9,0.8h18.7c0.6,0,0.9,-0.3,0.9,-0.8s-0.4,-0.8,-0.9,-0.8H14.9v-4.9C22.3,41,28,35.7,28,29.3L28,29.3z"></path>
+        <path d="M28,29.3V19.5c0,-0.5,-0.4,-0.8,-0.9,-0.8s-0.9,0.3,-0.9,0.8v9.8c0,5.8,-5.4,10.5,-12.1,10.5S1.9,35.1,1.9,29.3V19.5c0,-0.5,-0.4,-0.8,-0.9,-0.8S0,19,0,19.5v9.8C0,35.7,5.8,41,13.1,41.4v4.9H4.6c-0.6,0,-0.9,0.3,-0.9,0.8s0.4,0.8,0.9,0.8h18.7c0.6,0,0.9,-0.3,0.9,-0.8s-0.4,-0.8,-0.9,-0.8H14.9v-4.9C22.3,41,28,35.7,28,29.3L28,29.3z"/>
     </g>
-    <path d="M6.8,6.3C6.8,2.8,10,0,14,0S21.2,2.8,21.2,6.3v23.4c0,3.5,-3.2,6.3,-7.2,6.3S6.8,33.2,6.8,29.7V6.3z"></path>
-    <line x1="6.8" y1="6.3" x2="13.5" y2="6.3"></line>
-    <line x1="6.8" y1="8.9" x2="13.5" y2="8.9"></line>
-    <line x1="6.8" y1="11.4" x2="13.5" y2="11.4"></line>
-    <line x1="6.8" y1="14" x2="13.5" y2="14"></line>
+    <path d="M6.8,6.3C6.8,2.8,10,0,14,0S21.2,2.8,21.2,6.3v23.4c0,3.5,-3.2,6.3,-7.2,6.3S6.8,33.2,6.8,29.7V6.3z"/>
+    <line x1="6.8" y1="6.3" x2="13.5" y2="6.3"/>
+    <line x1="6.8" y1="8.9" x2="13.5" y2="8.9"/>
+    <line x1="6.8" y1="11.4" x2="13.5" y2="11.4"/>
+    <line x1="6.8" y1="14" x2="13.5" y2="14"/>
 </g>
-<rect x="2.8" y="4.7" fill="none" width="22.4" height="31.7"></rect>
-<circle fill="none" cx="14" cy="0" r="0.1"></circle>
-<circle fill="none" cx="21.2" cy="6.3" r="0.1"></circle>
-<circle fill="none" cx="21.3" cy="14" r="0.1"></circle>
-<circle fill="none" cx="28" cy="21.2" r="0.1"></circle>
-<circle fill="none" cx="26.8" cy="34.2" r="0.1"></circle>
-<circle fill="none" cx="24.3" cy="47.2" r="0.1"></circle>
-<circle fill="none" cx="13.9" cy="48" r="0.1"></circle>
-<circle fill="none" cx="3.7" cy="47.1" r="0.1"></circle>
-<circle fill="none" cx="1.2" cy="34.2" r="0.1"></circle>
-<circle fill="none" cx="0" cy="21.2" r="0.1"></circle>
-<circle fill="none" cx="6.8" cy="14.1" r="0.1"></circle>
-<circle fill="none" cx="6.7" cy="6.2" r="0.1"></circle>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(27.9,21.1)"></rect><path stroke="#000000" fill="none" d=""></path><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(27.9,21.1)"></text><rect stroke-width="0" fill="none" width="84.6" transform="translate(-28.3,58.1)"></rect><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(-28.3,58.1)" text-anchor="middle"><tspan x="42.3" y="16.8">INTERFACE</tspan><tspan x="42.3" y="37.8">DEVICE</tspan><tspan x="42.3" y="58.8">1222</tspan></text><path stroke="#000000" fill="none" transform="translate(-28.3,58.1)" d="M 23.6 61 61 61"></path></g><g model-id="c056fc8e-300d-4036-aaea-5e27c0115df6" transform="translate(297,523)"><g><g>
+<rect x="2.8" y="4.7" fill="none" width="22.4" height="31.7"/>
+<circle fill="none" cx="14" cy="0" r="0.1"/>
+<circle fill="none" cx="21.2" cy="6.3" r="0.1"/>
+<circle fill="none" cx="21.3" cy="14" r="0.1"/>
+<circle fill="none" cx="28" cy="21.2" r="0.1"/>
+<circle fill="none" cx="26.8" cy="34.2" r="0.1"/>
+<circle fill="none" cx="24.3" cy="47.2" r="0.1"/>
+<circle fill="none" cx="13.9" cy="48" r="0.1"/>
+<circle fill="none" cx="3.7" cy="47.1" r="0.1"/>
+<circle fill="none" cx="1.2" cy="34.2" r="0.1"/>
+<circle fill="none" cx="0" cy="21.2" r="0.1"/>
+<circle fill="none" cx="6.8" cy="14.1" r="0.1"/>
+<circle fill="none" cx="6.7" cy="6.2" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(27.9,21.1)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(27.9,21.1)"/><rect stroke-width="0" fill="none" width="84.6" transform="translate(-28.3,58.1)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(-28.3,58.1)" text-anchor="middle"><tspan x="42.3" y="16.8">INTERFACE</tspan><tspan x="42.3" y="37.8">DEVICE</tspan><tspan x="42.3" y="58.8">1222</tspan></text><path stroke="#000000" fill="none" transform="translate(-28.3,58.1)" d="M 23.6 61 61 61"/></g><g model-id="c056fc8e-300d-4036-aaea-5e27c0115df6" transform="translate(297,523)"><g><g>
 <g stroke="#000000" stroke-dasharray="none" fill="#FFFFFF">
-    <path d="M14,44h-1.1C5.8,44,0,38.4,0,31.4V12.6C0,5.6,5.8,0,13,0h1.1c7.1,0,13,5.6,13,12.6v18.9C27,38.4,21.2,44,14,44z"></path>
-    <path d="M13.5,12.1L13.5,12.1c-0.9,0,-1.6,-0.7,-1.6,-1.6v-5.5c0,-0.8,0.8,-1.6,1.6,-1.6l0,0c0.9,0,1.6,0.7,1.6,1.6v5.5C15.1,11.4,14.4,12.1,13.5,12.1z"></path>
+    <path d="M14,44h-1.1C5.8,44,0,38.4,0,31.4V12.6C0,5.6,5.8,0,13,0h1.1c7.1,0,13,5.6,13,12.6v18.9C27,38.4,21.2,44,14,44z"/>
+    <path d="M13.5,12.1L13.5,12.1c-0.9,0,-1.6,-0.7,-1.6,-1.6v-5.5c0,-0.8,0.8,-1.6,1.6,-1.6l0,0c0.9,0,1.6,0.7,1.6,1.6v5.5C15.1,11.4,14.4,12.1,13.5,12.1z"/>
 </g>
-<rect x="1.5" y="13.1" fill="none" width="24.1" height="17.8"></rect>
-<circle fill="none" cx="13.5" cy="0" r="0.1"></circle>
-<circle fill="none" cx="21.6" cy="2.4" r="0.1"></circle>
-<circle fill="none" cx="26.8" cy="10.7" r="0.1"></circle>
-<circle fill="none" cx="27" cy="21.9" r="0.1"></circle>
-<circle fill="none" cx="26.9" cy="33" r="0.1"></circle>
-<circle fill="none" cx="21.5" cy="41.7" r="0.1"></circle>
-<circle fill="none" cx="13.5" cy="44" r="0.1"></circle>
-<circle fill="none" cx="5.4" cy="41.7" r="0.1"></circle>
-<circle fill="none" cx="0.1" cy="33.2" r="0.1"></circle>
-<circle fill="none" cx="0" cy="22" r="0.1"></circle>
-<circle fill="none" cx="0.2" cy="10.7" r="0.1"></circle>
-<circle fill="none" cx="5.4" cy="2.4" r="0.1"></circle>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(26.9,21.8)"></rect><path stroke="#000000" fill="none" d=""></path><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(26.9,21.8)"></text><rect stroke-width="0" fill="none" width="81.6" transform="translate(-27.3,54.1)"></rect><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(-27.3,54.1)" text-anchor="middle"><tspan x="40.8" y="16.8">INTERFACE</tspan><tspan x="40.8" y="37.8">DEVICE</tspan><tspan x="40.8" y="58.8">1224</tspan></text><path stroke="#000000" fill="none" transform="translate(-27.3,54.1)" d="M 22.1 61 59.5 61"></path></g><g model-id="e585f8f2-220a-43b1-ba45-fe1690e230ea"><path stroke="black" stroke-dasharray="none" d="M 307 523 307 492"></path><path fill="black" stroke="black" d="" transform="translate(307,523) scale(1,1) rotate(-90)"></path><path fill="black" stroke="black" d="" transform="translate(307,492) scale(1,1) rotate(-270)"></path><g><g label-idx="0" cursor="move" transform="translate(307, 507.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"></rect><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"></text></g></g></g><g model-id="884e23ea-7e6a-4885-b53e-970c3c2923ed"><path stroke="black" stroke-dasharray="none" d="M 220 520 220 492"></path><path fill="black" stroke="black" d="" transform="translate(220,520) scale(1,1) rotate(-90)"></path><path fill="black" stroke="black" d="" transform="translate(220,492) scale(1,1) rotate(-270)"></path><g><g label-idx="0" cursor="move" transform="translate(220, 506)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"></rect><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"></text></g></g></g><g model-id="dd36e54d-690e-4808-862c-2d4c3dafe448" transform="translate(385,527)"><g><g>
+<rect x="1.5" y="13.1" fill="none" width="24.1" height="17.8"/>
+<circle fill="none" cx="13.5" cy="0" r="0.1"/>
+<circle fill="none" cx="21.6" cy="2.4" r="0.1"/>
+<circle fill="none" cx="26.8" cy="10.7" r="0.1"/>
+<circle fill="none" cx="27" cy="21.9" r="0.1"/>
+<circle fill="none" cx="26.9" cy="33" r="0.1"/>
+<circle fill="none" cx="21.5" cy="41.7" r="0.1"/>
+<circle fill="none" cx="13.5" cy="44" r="0.1"/>
+<circle fill="none" cx="5.4" cy="41.7" r="0.1"/>
+<circle fill="none" cx="0.1" cy="33.2" r="0.1"/>
+<circle fill="none" cx="0" cy="22" r="0.1"/>
+<circle fill="none" cx="0.2" cy="10.7" r="0.1"/>
+<circle fill="none" cx="5.4" cy="2.4" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(26.9,21.8)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(26.9,21.8)"/><rect stroke-width="0" fill="none" width="81.6" transform="translate(-27.3,54.1)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(-27.3,54.1)" text-anchor="middle"><tspan x="40.8" y="16.8">INTERFACE</tspan><tspan x="40.8" y="37.8">DEVICE</tspan><tspan x="40.8" y="58.8">1224</tspan></text><path stroke="#000000" fill="none" transform="translate(-27.3,54.1)" d="M 22.1 61 59.5 61"/></g><g model-id="e585f8f2-220a-43b1-ba45-fe1690e230ea"><path stroke="black" stroke-dasharray="none" d="M 307 523 307 492"/><path fill="black" stroke="black" d="" transform="translate(307,523) scale(1,1) rotate(-90)"/><path fill="black" stroke="black" d="" transform="translate(307,492) scale(1,1) rotate(-270)"/><g><g label-idx="0" cursor="move" transform="translate(307, 507.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g model-id="884e23ea-7e6a-4885-b53e-970c3c2923ed"><path stroke="black" stroke-dasharray="none" d="M 220 520 220 492"/><path fill="black" stroke="black" d="" transform="translate(220,520) scale(1,1) rotate(-90)"/><path fill="black" stroke="black" d="" transform="translate(220,492) scale(1,1) rotate(-270)"/><g><g label-idx="0" cursor="move" transform="translate(220, 506)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g model-id="dd36e54d-690e-4808-862c-2d4c3dafe448" transform="translate(385,527)"><g><g>
 <g stroke="#000000" stroke-dasharray="none" fill="#FFFFFF">
     <g>
-        <path d="M5.9,12.5H0v18.1h5.9L16.9,42c0,0,2,2.4,2,-0.1V0.8c0,-1.9,-1.8,0,-1.8,0L5.9,12.5z"></path>
+        <path d="M5.9,12.5H0v18.1h5.9L16.9,42c0,0,2,2.4,2,-0.1V0.8c0,-1.9,-1.8,0,-1.8,0L5.9,12.5z"/>
     </g>
-    <path d="M25.2,9c-0.6,-0.8,-1.5,-0.8,-2.1,0s-0.6,2.1,0,2.9c2,2.7,2.9,6.1,2.9,9.6s-1,7,-2.9,9.6c-0.6,0.8,-0.6,2.1,0,2.9c0.3,0.4,0.7,0.6,1.1,0.6c0.4,0,0.8,-0.2,1.1,-0.6c2.5,-3.4,3.8,-8,3.8,-12.6C29,17,27.8,12.4,25.2,9L25.2,9z"></path>
-    <path d="M29.3,2.5c-0.6,-0.8,-1.5,-0.8,-2.1,0s-0.6,2.1,0,2.9c3.2,4.5,4.8,10.3,4.8,16.1S30.4,33.3,27.2,37.8c-0.6,0.8,-0.6,2.1,0,2.9c0.3,0.4,0.7,0.6,1.1,0.6s0.8,-0.2,1.1,-0.6c3.8,-5.3,5.7,-12.2,5.7,-19.2C35,14.7,33.1,7.7,29.3,2.5L29.3,2.5z"></path>
+    <path d="M25.2,9c-0.6,-0.8,-1.5,-0.8,-2.1,0s-0.6,2.1,0,2.9c2,2.7,2.9,6.1,2.9,9.6s-1,7,-2.9,9.6c-0.6,0.8,-0.6,2.1,0,2.9c0.3,0.4,0.7,0.6,1.1,0.6c0.4,0,0.8,-0.2,1.1,-0.6c2.5,-3.4,3.8,-8,3.8,-12.6C29,17,27.8,12.4,25.2,9L25.2,9z"/>
+    <path d="M29.3,2.5c-0.6,-0.8,-1.5,-0.8,-2.1,0s-0.6,2.1,0,2.9c3.2,4.5,4.8,10.3,4.8,16.1S30.4,33.3,27.2,37.8c-0.6,0.8,-0.6,2.1,0,2.9c0.3,0.4,0.7,0.6,1.1,0.6s0.8,-0.2,1.1,-0.6c3.8,-5.3,5.7,-12.2,5.7,-19.2C35,14.7,33.1,7.7,29.3,2.5L29.3,2.5z"/>
 </g>
-<rect x="2.3" y="7.5" fill="none" width="30.5" height="28.4"></rect>
-<circle fill="none" cx="18.6" cy="0" r="0.1"></circle>
-<circle fill="none" cx="28.2" cy="1.9" r="0.1"></circle>
-<circle fill="none" cx="33.6" cy="11.3" r="0.1"></circle>
-<circle fill="none" cx="35" cy="21.6" r="0.1"></circle>
-<circle fill="none" cx="33.7" cy="31.7" r="0.1"></circle>
-<circle fill="none" cx="28" cy="41.3" r="0.1"></circle>
-<circle fill="none" cx="18.4" cy="43" r="0.1"></circle>
-<circle fill="none" cx="12.8" cy="37.8" r="0.1"></circle>
-<circle fill="none" cx="5.9" cy="30.6" r="0.1"></circle>
-<circle fill="none" cx="0" cy="21.5" r="0.1"></circle>
-<circle fill="none" cx="5.8" cy="12.5" r="0.1"></circle>
-<circle fill="none" cx="12.9" cy="5.2" r="0.1"></circle>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(34.9,21.5)"></rect><path stroke="#000000" fill="none" d=""></path><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(34.9,21.5)"></text><rect stroke-width="0" fill="none" width="105.6" transform="translate(-35.3,53.1)"></rect><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(-35.3,53.1)" text-anchor="middle"><tspan x="52.8" y="16.8">INTERFACE</tspan><tspan x="52.8" y="37.8">DEVICE</tspan><tspan x="52.8" y="58.8">1226</tspan></text><path stroke="#000000" fill="none" transform="translate(-35.3,53.1)" d="M 34.1 61 71.5 61"></path></g><g model-id="792a44db-f343-49be-8cef-3e593d06b432"><path stroke="black" stroke-dasharray="none" d="M 406 527 406 471 334 471"></path><path fill="black" stroke="black" d="" transform="translate(406,527) scale(1,1) rotate(-90)"></path><path fill="black" stroke="black" d="" transform="translate(334,471) scale(1,1) rotate(0)"></path><g><g label-idx="0" cursor="move" transform="translate(398, 471)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"></rect><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"></text></g></g></g><g model-id="323c06d3-adf8-4544-b90b-30662f8f82a5" transform="translate(571,405)"><g><g>
+<rect x="2.3" y="7.5" fill="none" width="30.5" height="28.4"/>
+<circle fill="none" cx="18.6" cy="0" r="0.1"/>
+<circle fill="none" cx="28.2" cy="1.9" r="0.1"/>
+<circle fill="none" cx="33.6" cy="11.3" r="0.1"/>
+<circle fill="none" cx="35" cy="21.6" r="0.1"/>
+<circle fill="none" cx="33.7" cy="31.7" r="0.1"/>
+<circle fill="none" cx="28" cy="41.3" r="0.1"/>
+<circle fill="none" cx="18.4" cy="43" r="0.1"/>
+<circle fill="none" cx="12.8" cy="37.8" r="0.1"/>
+<circle fill="none" cx="5.9" cy="30.6" r="0.1"/>
+<circle fill="none" cx="0" cy="21.5" r="0.1"/>
+<circle fill="none" cx="5.8" cy="12.5" r="0.1"/>
+<circle fill="none" cx="12.9" cy="5.2" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(34.9,21.5)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(34.9,21.5)"/><rect stroke-width="0" fill="none" width="105.6" transform="translate(-35.3,53.1)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(-35.3,53.1)" text-anchor="middle"><tspan x="52.8" y="16.8">INTERFACE</tspan><tspan x="52.8" y="37.8">DEVICE</tspan><tspan x="52.8" y="58.8">1226</tspan></text><path stroke="#000000" fill="none" transform="translate(-35.3,53.1)" d="M 34.1 61 71.5 61"/></g><g model-id="792a44db-f343-49be-8cef-3e593d06b432"><path stroke="black" stroke-dasharray="none" d="M 406 527 406 471 334 471"/><path fill="black" stroke="black" d="" transform="translate(406,527) scale(1,1) rotate(-90)"/><path fill="black" stroke="black" d="" transform="translate(334,471) scale(1,1) rotate(0)"/><g><g label-idx="0" cursor="move" transform="translate(398, 471)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g model-id="323c06d3-adf8-4544-b90b-30662f8f82a5" transform="translate(571,405)"><g><g>
 <g fill="#FFFFFF">
-    <path d="M116.4,75.4h-5.8c0.1,-0.1,-0,5.7,-0,5.7H0.1V11.2c0,0,6,-0.2,5.8,-0.1V5.5h5.5V0h110.5v69.9h-5.5"></path>
+    <path d="M116.4,75.4h-5.8c0.1,-0.1,-0,5.7,-0,5.7H0.1V11.2c0,0,6,-0.2,5.8,-0.1V5.5h5.5V0h110.5v69.9h-5.5"/>
 </g>
 <g stroke="#000000" stroke-dasharray="none">
-    <path fill="none" d="M11.4,5.5V0h110.5v69.9h-5.5"></path>
-    <path fill="none" d="M5.9,11.1V5.5h110.5v69.9h-5.8"></path>
-    <path fill="none" d="M0.1,11.2h110.5v69.9H0.1V11.2z"></path>
+    <path fill="none" d="M11.4,5.5V0h110.5v69.9h-5.5"/>
+    <path fill="none" d="M5.9,11.1V5.5h110.5v69.9h-5.8"/>
+    <path fill="none" d="M0.1,11.2h110.5v69.9H0.1V11.2z"/>
 </g>
-<rect x="3.7" y="14.7" fill="none" width="103.5" height="62.6"></rect>
-<circle fill="none" cx="62.8" cy="0.1" r="0.1"></circle>
-<circle fill="none" cx="100.2" cy="0.1" r="0.1"></circle>
-<circle fill="none" cx="121.8" cy="6.6" r="0.1"></circle>
-<circle fill="none" cx="121.8" cy="31.4" r="0.1"></circle>
-<circle fill="none" cx="121.8" cy="65.3" r="0.1"></circle>
-<circle fill="none" cx="95.8" cy="81.2" r="0.1"></circle>
-<circle fill="none" cx="51.9" cy="81" r="0.1"></circle>
-<circle fill="none" cx="13.3" cy="81" r="0.1"></circle>
-<circle fill="none" cx="0.3" cy="70.7" r="0.1"></circle>
-<circle fill="none" cx="0.3" cy="44.2" r="0.1"></circle>
-<circle fill="none" cx="0.1" cy="23" r="0.1"></circle>
-<circle fill="none" cx="25.9" cy="0.1" r="0.1"></circle>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(121.7,31.3)"></rect><path stroke="#000000" fill="none" d=""></path><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(121.7,31.3)"></text><rect stroke-width="0" fill="none" width="103.5" height="62.6" transform="translate(3.7,14.7)"></rect><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(3.7,14.7)" text-anchor="middle"><tspan x="51.7" y="16.6">DISPLAY</tspan><tspan x="51.7" y="37.6">ADAPTER</tspan><tspan x="51.7" y="58.6">1228</tspan></text><path stroke="#000000" fill="none" transform="translate(3.7,14.7)" d="M 33.1 61 70.4 61"></path></g><g model-id="537e8f70-1c1a-4fdb-b971-52bc2863cad0"><path stroke="black" stroke-dasharray="none" d="M 422 165 422 141"></path><path fill="black" stroke="black" d="" transform="translate(422,165) scale(1,1) rotate(-90)"></path><path fill="black" stroke="black" d="" transform="translate(422,141) scale(1,1) rotate(-270)"></path><g><g label-idx="0" cursor="move" transform="translate(422, 153)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"></rect><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"></text></g></g></g><g model-id="b1c0a737-4f5c-44da-ac7a-de93bb249641" transform="translate(646,526)"><g><g>
+<rect x="3.7" y="14.7" fill="none" width="103.5" height="62.6"/>
+<circle fill="none" cx="62.8" cy="0.1" r="0.1"/>
+<circle fill="none" cx="100.2" cy="0.1" r="0.1"/>
+<circle fill="none" cx="121.8" cy="6.6" r="0.1"/>
+<circle fill="none" cx="121.8" cy="31.4" r="0.1"/>
+<circle fill="none" cx="121.8" cy="65.3" r="0.1"/>
+<circle fill="none" cx="95.8" cy="81.2" r="0.1"/>
+<circle fill="none" cx="51.9" cy="81" r="0.1"/>
+<circle fill="none" cx="13.3" cy="81" r="0.1"/>
+<circle fill="none" cx="0.3" cy="70.7" r="0.1"/>
+<circle fill="none" cx="0.3" cy="44.2" r="0.1"/>
+<circle fill="none" cx="0.1" cy="23" r="0.1"/>
+<circle fill="none" cx="25.9" cy="0.1" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(121.7,31.3)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(121.7,31.3)"/><rect stroke-width="0" fill="none" width="103.5" height="62.6" transform="translate(3.7,14.7)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(3.7,14.7)" text-anchor="middle"><tspan x="51.7" y="16.6">DISPLAY</tspan><tspan x="51.7" y="37.6">ADAPTER</tspan><tspan x="51.7" y="58.6">1228</tspan></text><path stroke="#000000" fill="none" transform="translate(3.7,14.7)" d="M 33.1 61 70.4 61"/></g><g model-id="537e8f70-1c1a-4fdb-b971-52bc2863cad0"><path stroke="black" stroke-dasharray="none" d="M 422 165 422 141"/><path fill="black" stroke="black" d="" transform="translate(422,165) scale(1,1) rotate(-90)"/><path fill="black" stroke="black" d="" transform="translate(422,141) scale(1,1) rotate(-270)"/><g><g label-idx="0" cursor="move" transform="translate(422, 153)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g model-id="b1c0a737-4f5c-44da-ac7a-de93bb249641" transform="translate(646,526)"><g><g>
 <g stroke="#000000" stroke-dasharray="none" fill="#FFFFFF">
-    <path d="M110.9,0H2.5C1.1,0,0,1.1,0,2.6V66.8c0,1.4,1.1,2.6,2.5,2.6h43.6L43.1,80.9l-10,0.4v2.8h47.8v-2.8l-8.8,-0.6l-3,-11.5h41.6c1.4,0,2.5,-1.1,2.5,-2.6V2.6C113.4,1.1,112.3,0,110.9,0z"></path>
-    <path d="M109.9,4.4v60H3.5V4.4H109.9z"></path>
+    <path d="M110.9,0H2.5C1.1,0,0,1.1,0,2.6V66.8c0,1.4,1.1,2.6,2.5,2.6h43.6L43.1,80.9l-10,0.4v2.8h47.8v-2.8l-8.8,-0.6l-3,-11.5h41.6c1.4,0,2.5,-1.1,2.5,-2.6V2.6C113.4,1.1,112.3,0,110.9,0z"/>
+    <path d="M109.9,4.4v60H3.5V4.4H109.9z"/>
 </g>
-<rect x="3.5" y="4.4" fill="none" width="106.3" height="60"></rect>
-<circle fill="none" cx="56.7" cy="0" r="0.1"></circle>
-<circle fill="none" cx="90.9" cy="0" r="0.1"></circle>
-<circle fill="none" cx="113.3" cy="16.1" r="0.1"></circle>
-<circle fill="none" cx="113.3" cy="34.4" r="0.1"></circle>
-<circle fill="none" cx="113.3" cy="55.4" r="0.1"></circle>
-<circle fill="none" cx="91.1" cy="69.2" r="0.1"></circle>
-<circle fill="none" cx="56.8" cy="84.2" r="0.1"></circle>
-<circle fill="none" cx="22.6" cy="69.4" r="0.1"></circle>
-<circle fill="none" cx="0" cy="55.5" r="0.1"></circle>
-<circle fill="none" cx="-0.1" cy="34.3" r="0.1"></circle>
-<circle fill="none" cx="-0.1" cy="15.6" r="0.1"></circle>
-<circle fill="none" cx="22.5" cy="0.1" r="0.1"></circle>
-</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(113.2,34.3)"></rect><path stroke="#000000" fill="none" d=""></path><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(113.2,34.3)"></text><rect stroke-width="0" fill="none" width="106.3" height="60" transform="translate(3.5,4.4)"></rect><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(3.5,4.4)" text-anchor="middle"><tspan x="53.2" y="15.3">DISPLAY</tspan><tspan x="53.2" y="36.3">DEVICE</tspan><tspan x="53.2" y="57.3">1230</tspan></text><path stroke="#000000" fill="none" transform="translate(3.5,4.4)" d="M 34.5 59 71.8 59"></path></g><g model-id="0d512d98-1165-43b4-83e5-6824b790d843"><path stroke="black" stroke-dasharray="none" d="M 667 526 667 486"></path><path fill="black" stroke="black" d="" transform="translate(667,526) scale(1,1) rotate(-90)"></path><path fill="black" stroke="black" d="" transform="translate(667,486) scale(1,1) rotate(-270)"></path><g><g label-idx="0" cursor="move" transform="translate(667, 506)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"></rect><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"></text></g></g></g><g model-id="1fed200c-79ce-4d41-8513-4e7ac1df154b"><path stroke="black" stroke-dasharray="none" d="M 671 405 671 353"></path><path fill="black" stroke="black" d="" transform="translate(671,405) scale(1,1) rotate(-90)"></path><path fill="black" stroke="black" d="" transform="translate(671,353) scale(1,1) rotate(-270)"></path><g><g label-idx="0" cursor="move" transform="translate(671, 379)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"></rect><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"></text></g></g></g><g model-id="375dd74a-190c-40c7-93a5-033e1a31f344"><path stroke="black" stroke-dasharray="none" d="M 735 526 735 437 693 437"></path><path fill="black" stroke="black" d="" transform="translate(735,526) scale(1,1) rotate(-90)"></path><path fill="black" stroke="black" d="" transform="translate(693,437) scale(1,1) rotate(0)"></path><g><g label-idx="0" cursor="move" transform="translate(735, 460.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"></rect><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"></text></g></g></g></g><defs></defs></svg>
+<rect x="3.5" y="4.4" fill="none" width="106.3" height="60"/>
+<circle fill="none" cx="56.7" cy="0" r="0.1"/>
+<circle fill="none" cx="90.9" cy="0" r="0.1"/>
+<circle fill="none" cx="113.3" cy="16.1" r="0.1"/>
+<circle fill="none" cx="113.3" cy="34.4" r="0.1"/>
+<circle fill="none" cx="113.3" cy="55.4" r="0.1"/>
+<circle fill="none" cx="91.1" cy="69.2" r="0.1"/>
+<circle fill="none" cx="56.8" cy="84.2" r="0.1"/>
+<circle fill="none" cx="22.6" cy="69.4" r="0.1"/>
+<circle fill="none" cx="0" cy="55.5" r="0.1"/>
+<circle fill="none" cx="-0.1" cy="34.3" r="0.1"/>
+<circle fill="none" cx="-0.1" cy="15.6" r="0.1"/>
+<circle fill="none" cx="22.5" cy="0.1" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(113.2,34.3)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(113.2,34.3)"/><rect stroke-width="0" fill="none" width="106.3" height="60" transform="translate(3.5,4.4)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(3.5,4.4)" text-anchor="middle"><tspan x="53.2" y="15.3">DISPLAY</tspan><tspan x="53.2" y="36.3">DEVICE</tspan><tspan x="53.2" y="57.3">1230</tspan></text><path stroke="#000000" fill="none" transform="translate(3.5,4.4)" d="M 34.5 59 71.8 59"/></g><g model-id="0d512d98-1165-43b4-83e5-6824b790d843"><path stroke="black" stroke-dasharray="none" d="M 667 526 667 486"/><path fill="black" stroke="black" d="" transform="translate(667,526) scale(1,1) rotate(-90)"/><path fill="black" stroke="black" d="" transform="translate(667,486) scale(1,1) rotate(-270)"/><g><g label-idx="0" cursor="move" transform="translate(667, 506)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g model-id="1fed200c-79ce-4d41-8513-4e7ac1df154b"><path stroke="black" stroke-dasharray="none" d="M 671 405 671 353"/><path fill="black" stroke="black" d="" transform="translate(671,405) scale(1,1) rotate(-90)"/><path fill="black" stroke="black" d="" transform="translate(671,353) scale(1,1) rotate(-270)"/><g><g label-idx="0" cursor="move" transform="translate(671, 379)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g model-id="375dd74a-190c-40c7-93a5-033e1a31f344"><path stroke="black" stroke-dasharray="none" d="M 735 526 735 437 693 437"/><path fill="black" stroke="black" d="" transform="translate(735,526) scale(1,1) rotate(-90)"/><path fill="black" stroke="black" d="" transform="translate(693,437) scale(1,1) rotate(0)"/><g><g label-idx="0" cursor="move" transform="translate(735, 460.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g></g><defs/></svg>
