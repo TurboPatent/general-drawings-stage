@@ -1,226 +1,226 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="v-4220" width="664" height="867"><g id="v-4221" class="viewport"><g id="j_196" model-id="c770ccd5-e5c2-85c5-b37b-8b5e210dca4f" class="element tp Element" transform="translate(370.2440958023067,377.48819160461426)"><g class="rotatable" id="v-4223"><g class="scalable" id="v-4233">
-<path class="ui-fill ui-stroke js-perimeter" d="M237.99482473942524,0H0v286.99375924460105h237.99482473942524V0L237.99482473942524,0z" id="v-4230" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
-<rect class="ui-interior-label" x="10.411627699738208" y="13.084821850057798" width="217.1974046444147" height="260.82411554448544" id="v-4231" fill="none"/>
-<circle class="js-number-connector-1 js-link-connector" fill="none" cx="118.99741236971262" cy="0" r="0.1" id="v-4234"/>
-<circle class="js-number-connector-2 js-link-connector" fill="none" cx="177.9794124652519" cy="0" r="0.1" id="v-4235"/>
-<circle class="js-number-connector-3 js-link-connector" fill="none" cx="237.99482473942524" cy="72.37152656591492" r="0.1" id="v-4236"/>
-<circle class="js-number-connector-4 js-link-connector" fill="none" cx="237.99482473942524" cy="143.49687962230053" r="0.1" id="v-4232"/>
-<circle class="js-number-connector-5 js-link-connector" fill="none" cx="237.99482473942524" cy="214.62223267868612" r="0.1" id="v-4237"/>
-<circle class="js-number-connector-6 js-link-connector" fill="none" cx="177.9794124652519" cy="286.99375924460105" r="0.1" id="v-4238"/>
-<circle class="js-number-connector-7 js-link-connector" fill="none" cx="118.99741236971262" cy="286.99375924460105" r="0.1" id="v-4239"/>
-<circle class="js-number-connector-8 js-link-connector" fill="none" cx="60.041247578639194" cy="286.99375924460105" r="0.1" id="v-4240"/>
-<circle class="js-number-connector-9 js-link-connector" fill="none" cx="0" cy="214.62223267868612" r="0.1" id="v-4241"/>
-<circle class="js-number-connector-10 js-link-connector" fill="none" cx="0" cy="143.49687962230053" r="0.1" id="v-4242"/>
-<circle class="js-number-connector-11 js-link-connector" fill="none" cx="0" cy="72.37152656591492" r="0.1" id="v-4243"/>
-<circle class="js-number-connector-12 js-link-connector" fill="none" cx="60.041247578639194" cy="0" r="0.1" id="v-4244"/>
-</g></g><rect class="ui-number-box" id="v-4224" stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(237.8948211669922,143.39686584472656)"/><path class="ui-number-leadline" id="v-4225" stroke="#000000" fill="none" d=""/><text class="ui-number-label" id="v-4226" font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(237.8948211669922,143.39686584472656)"/><rect class="ui-label-box" id="v-4227" stroke-width="0" fill="none" width="217.1974115371704" height="260.8241138458252" transform="translate(10.411627769470215,13.084821701049805)"/><text class="ui-label" id="v-4228" font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(10.411627769470215,13.084822654724121)" text-anchor="middle"><tspan x="108.59870910644531" y="16.80003">NAVIGATION BOARD</tspan><tspan x="108.59870910644531" y="37.8000675">1028</tspan></text><path class="ui-number-underline" id="v-4229" stroke="#000000" fill="none" transform="translate(10.411627769470215,13.084822654724121)" d="M 89.93471908569336 40 127.26269912719727 40"/></g><g id="j_205" model-id="4fb2d64f-ffb3-4f87-e19e-ae8e8a058ea2" class="element tp Element" transform="translate(217.99999999999886,294.00000000000034)"><g class="rotatable" id="v-4421"><g class="scalable" id="v-4431">
-<path class="ui-fill ui-stroke js-perimeter" d="M101.99778203118224,0H0v207.99547708319517h101.99778203118224V0L101.99778203118224,0z" id="v-4428" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
-<rect class="ui-interior-label" x="4.46212615703066" y="9.483076462759659" width="93.08460199046344" height="189.02932415767586" id="v-4429" fill="none"/>
-<circle class="js-number-connector-1 js-link-connector" fill="none" cx="50.99889101559112" cy="0" r="0.1" id="v-4432"/>
-<circle class="js-number-connector-2 js-link-connector" fill="none" cx="76.27689105653653" cy="0" r="0.1" id="v-4433"/>
-<circle class="js-number-connector-3 js-link-connector" fill="none" cx="101.99778203118224" cy="52.45044434045402" r="0.1" id="v-4430"/>
-<circle class="js-number-connector-4 js-link-connector" fill="none" cx="101.99778203118224" cy="103.99773854159758" r="0.1" id="v-4434"/>
-<circle class="js-number-connector-5 js-link-connector" fill="none" cx="101.99778203118224" cy="155.54503274274114" r="0.1" id="v-4435"/>
-<circle class="js-number-connector-6 js-link-connector" fill="none" cx="76.27689105653653" cy="207.99547708319517" r="0.1" id="v-4436"/>
-<circle class="js-number-connector-7 js-link-connector" fill="none" cx="50.99889101559112" cy="207.99547708319517" r="0.1" id="v-4437"/>
-<circle class="js-number-connector-8 js-link-connector" fill="none" cx="25.731963247988226" cy="207.99547708319517" r="0.1" id="v-4438"/>
-<circle class="js-number-connector-9 js-link-connector" fill="none" cx="0" cy="155.54503274274114" r="0.1" id="v-4439"/>
-<circle class="js-number-connector-10 js-link-connector" fill="none" cx="0" cy="103.99773854159758" r="0.1" id="v-4440"/>
-<circle class="js-number-connector-11 js-link-connector" fill="none" cx="0" cy="52.45044434045402" r="0.1" id="v-4441"/>
-<circle class="js-number-connector-12 js-link-connector" fill="none" cx="25.731963247988226" cy="0" r="0.1" id="v-4442"/>
-</g></g><rect class="ui-number-box" id="v-4422" stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(101.89778900146484,52.35044860839844)"/><path class="ui-number-leadline" id="v-4423" stroke="#000000" fill="none" d=""/><text class="ui-number-label" id="v-4424" font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(101.89778900146484,52.3504524230957)"/><rect class="ui-label-box" id="v-4425" stroke-width="0" fill="none" width="93.0846037864685" height="189.02932929992676" transform="translate(4.4621262550354,9.483076095581055)"/><text class="ui-label" id="v-4426" font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(4.4621262550354,9.483077049255371)" text-anchor="middle"><tspan x="46.542301177978516" y="79.81463744628905">MAIN</tspan><tspan x="46.542301177978516" y="100.81467494628905">CONTROLLER</tspan><tspan x="46.542301177978516" y="121.81471244628906">1006</tspan></text><path class="ui-number-underline" id="v-4427" stroke="#000000" fill="none" transform="translate(4.4621262550354,9.483077049255371)" d="M 27.878311157226562 124 65.20629119873047 124"/></g><g id="j_207" model-id="136748cf-1d9c-51d1-43c8-9cb5a0421bc3" class="element tp Element" transform="translate(441.9999999999998,561.0118083953876)"><g class="rotatable" id="v-4465"><g class="scalable" id="v-4475">
-<path class="ui-fill ui-stroke js-perimeter" d="M94.48613697851009,0H0v94.48613697851009h94.48613697851009V0L94.48613697851009,0z" id="v-4472" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
-<rect class="ui-interior-label" x="4.133512071465432" y="4.307878585646357" width="86.22936968935457" height="85.87037980721738" id="v-4473" fill="none"/>
-<circle class="js-number-connector-1 js-link-connector" fill="none" cx="47.243068489255045" cy="0" r="0.1" id="v-4476"/>
-<circle class="js-number-connector-2 js-link-connector" fill="none" cx="70.6594656583756" cy="0" r="0.1" id="v-4477"/>
-<circle class="js-number-connector-3 js-link-connector" fill="none" cx="94.48613697851009" cy="23.82667132013449" r="0.1" id="v-4478"/>
-<circle class="js-number-connector-4 js-link-connector" fill="none" cx="94.48613697851009" cy="47.243068489255045" r="0.1" id="v-4479"/>
-<circle class="js-number-connector-5 js-link-connector" fill="none" cx="94.48613697851009" cy="70.6594656583756" r="0.1" id="v-4480"/>
-<circle class="js-number-connector-6 js-link-connector" fill="none" cx="70.6594656583756" cy="94.48613697851009" r="0.1" id="v-4481"/>
-<circle class="js-number-connector-7 js-link-connector" fill="none" cx="47.243068489255045" cy="94.48613697851009" r="0.1" id="v-4482"/>
-<circle class="js-number-connector-8 js-link-connector" fill="none" cx="23.83692817390984" cy="94.48613697851009" r="0.1" id="v-4483"/>
-<circle class="js-number-connector-9 js-link-connector" fill="none" cx="0" cy="70.6594656583756" r="0.1" id="v-4484"/>
-<circle class="js-number-connector-10 js-link-connector" fill="none" cx="0" cy="47.243068489255045" r="0.1" id="v-4474"/>
-<circle class="js-number-connector-11 js-link-connector" fill="none" cx="0" cy="23.82667132013449" r="0.1" id="v-4485"/>
-<circle class="js-number-connector-12 js-link-connector" fill="none" cx="23.83692817390984" cy="0" r="0.1" id="v-4486"/>
-</g></g><rect class="ui-number-box" id="v-4466" stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(-0.10000000149011612,47.143070220947266)"/><path class="ui-number-leadline" id="v-4467" stroke="#000000" fill="none" d=""/><text class="ui-number-label" id="v-4468" font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(-0.10000000149011612,47.143070220947266)"/><rect class="ui-label-box" id="v-4469" stroke-width="0" fill="none" width="86.22937250137329" height="85.87037467956543" transform="translate(4.133512020111084,4.307878494262695)"/><text class="ui-label" id="v-4470" font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(4.133512020111084,4.307878494262695)" text-anchor="middle"><tspan x="43.11468505859375" y="28.235162043457034">MOTOR</tspan><tspan x="43.11468505859375" y="49.235199543457036">CONTROL</tspan><tspan x="43.11468505859375" y="70.23523704345703">1014</tspan></text><path class="ui-number-underline" id="v-4471" stroke="#000000" fill="none" transform="translate(4.133512020111084,4.307878494262695)" d="M 24.450695037841797 72 61.7786750793457 72"/></g><g id="j_201" model-id="a3a1538c-91b4-a00f-ff2f-d3d5cb1f8666" class="element tp Element" transform="translate(69.99999999999989,294.00000000000017)"><g class="rotatable" id="v-4333"><g class="scalable" id="v-4343">
-<path class="ui-fill ui-stroke js-perimeter" d="M102.99776028638992,0H0v63.998608333290825h102.99776028638992V0L102.99776028638992,0z" id="v-4340" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
-<rect class="ui-interior-label" x="4.50587249190351" y="2.9178696808491256" width="93.99719612762485" height="58.16286897159257" id="v-4341" fill="none"/>
-<circle class="js-number-connector-1 js-link-connector" fill="none" cx="51.49888014319496" cy="0" r="0.1" id="v-4344"/>
-<circle class="js-number-connector-2 js-link-connector" fill="none" cx="77.02470371395354" cy="0" r="0.1" id="v-4345"/>
-<circle class="js-number-connector-3 js-link-connector" fill="none" cx="102.99776028638992" cy="16.138598258601235" r="0.1" id="v-4342"/>
-<circle class="js-number-connector-4 js-link-connector" fill="none" cx="102.99776028638992" cy="31.999304166645413" r="0.1" id="v-4346"/>
-<circle class="js-number-connector-5 js-link-connector" fill="none" cx="102.99776028638992" cy="47.86001007468958" r="0.1" id="v-4347"/>
-<circle class="js-number-connector-6 js-link-connector" fill="none" cx="77.02470371395354" cy="63.998608333290825" r="0.1" id="v-4348"/>
-<circle class="js-number-connector-7 js-link-connector" fill="none" cx="51.49888014319496" cy="63.998608333290825" r="0.1" id="v-4349"/>
-<circle class="js-number-connector-8 js-link-connector" fill="none" cx="25.984237397478307" cy="63.998608333290825" r="0.1" id="v-4350"/>
-<circle class="js-number-connector-9 js-link-connector" fill="none" cx="0" cy="47.86001007468958" r="0.1" id="v-4351"/>
-<circle class="js-number-connector-10 js-link-connector" fill="none" cx="0" cy="31.999304166645413" r="0.1" id="v-4352"/>
-<circle class="js-number-connector-11 js-link-connector" fill="none" cx="0" cy="16.138598258601235" r="0.1" id="v-4353"/>
-<circle class="js-number-connector-12 js-link-connector" fill="none" cx="25.984237397478307" cy="0" r="0.1" id="v-4354"/>
-</g></g><rect class="ui-number-box" id="v-4334" stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(102.89776611328125,16.038599014282227)"/><path class="ui-number-leadline" id="v-4335" stroke="#000000" fill="none" d=""/><text class="ui-number-label" id="v-4336" font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(102.89776611328125,16.038599014282227)"/><rect class="ui-label-box" id="v-4337" stroke-width="0" fill="none" width="93.99720239639282" height="58.162864446640015" transform="translate(4.5058722496032715,2.917869806289673)"/><text class="ui-label" id="v-4338" font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(4.5058722496032715,2.917869806289673)" text-anchor="middle"><tspan x="46.99860382080078" y="24.8814248425293">MEMORY</tspan><tspan x="46.99860382080078" y="45.8814623425293">1016</tspan></text><path class="ui-number-underline" id="v-4339" stroke="#000000" fill="none" transform="translate(4.5058722496032715,2.917869806289673)" d="M 28.334613800048828 48 65.66259384155273 48"/></g><g id="j_197" model-id="1b65962a-5273-1f41-e38d-fc519f67db4e" class="element tp Element" transform="translate(402.5,209.99999999999983)"><g class="rotatable" id="v-4245"><g class="scalable" id="v-4255">
-<path class="ui-fill ui-stroke js-perimeter" d="M154.9966295571887,0H0v64.9985865884985h154.9966295571887V0L154.9966295571887,0z" id="v-4252" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
-<rect class="ui-interior-label" x="6.780681905291689" y="2.963461394612393" width="141.45209126001797" height="59.07166379927371" id="v-4253" fill="none"/>
-<circle class="js-number-connector-1 js-link-connector" fill="none" cx="77.49831477859435" cy="0" r="0.1" id="v-4256"/>
-<circle class="js-number-connector-2 js-link-connector" fill="none" cx="115.91096189963883" cy="0" r="0.1" id="v-4257"/>
-<circle class="js-number-connector-3 js-link-connector" fill="none" cx="154.9966295571887" cy="16.39076385639188" r="0.1" id="v-4254"/>
-<circle class="js-number-connector-4 js-link-connector" fill="none" cx="154.9966295571887" cy="32.49929329424925" r="0.1" id="v-4258"/>
-<circle class="js-number-connector-5 js-link-connector" fill="none" cx="154.9966295571887" cy="48.60782273210661" r="0.1" id="v-4259"/>
-<circle class="js-number-connector-6 js-link-connector" fill="none" cx="115.91096189963883" cy="64.9985865884985" r="0.1" id="v-4260"/>
-<circle class="js-number-connector-7 js-link-connector" fill="none" cx="77.49831477859435" cy="64.9985865884985" r="0.1" id="v-4261"/>
-<circle class="js-number-connector-8 js-link-connector" fill="none" cx="39.1024931709625" cy="64.9985865884985" r="0.1" id="v-4262"/>
-<circle class="js-number-connector-9 js-link-connector" fill="none" cx="0" cy="48.60782273210661" r="0.1" id="v-4263"/>
-<circle class="js-number-connector-10 js-link-connector" fill="none" cx="0" cy="32.49929329424925" r="0.1" id="v-4264"/>
-<circle class="js-number-connector-11 js-link-connector" fill="none" cx="0" cy="16.39076385639188" r="0.1" id="v-4265"/>
-<circle class="js-number-connector-12 js-link-connector" fill="none" cx="39.1024931709625" cy="0" r="0.1" id="v-4266"/>
-</g></g><rect class="ui-number-box" id="v-4246" stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(154.89662170410156,16.29076385498047)"/><path class="ui-number-leadline" id="v-4247" stroke="#000000" fill="none" d=""/><text class="ui-number-label" id="v-4248" font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(154.89662170410156,16.29076385498047)"/><rect class="ui-label-box" id="v-4249" stroke-width="0" fill="none" width="141.45209121704102" height="59.071664333343506" transform="translate(6.780681610107422,2.963461399078369)"/><text class="ui-label" id="v-4250" font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(6.780681610107422,2.963461399078369)" text-anchor="middle"><tspan x="70.72604370117188" y="25.335823951416018">POWER</tspan><tspan x="70.72604370117188" y="46.335861451416015">MANAGER 1018</tspan></text><path class="ui-number-underline" id="v-4251" stroke="#000000" fill="none" transform="translate(6.780681610107422,2.963461399078369)" d="M 101.57445526123047 48 138.90243530273438 48"/></g><g id="j_198" model-id="21da8c16-b93f-68c3-f9e5-0e33ee0ff816" class="element tp Element" transform="translate(412.2440958023067,422.99999999999994)"><g class="rotatable" id="v-4267"><g class="scalable" id="v-4277">
-<path class="ui-fill ui-stroke js-perimeter" d="M153.99665130198105,0H0v50.99889101559112h153.99665130198105V0L153.99665130198105,0z" id="v-4274" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
-<rect class="ui-interior-label" x="6.736935570418839" y="2.3251774019266467" width="140.53949712285655" height="46.34853621173783" id="v-4275" fill="none"/>
-<circle class="js-number-connector-1 js-link-connector" fill="none" cx="76.99832565099052" cy="0" r="0.1" id="v-4278"/>
-<circle class="js-number-connector-2 js-link-connector" fill="none" cx="115.1631492422218" cy="0" r="0.1" id="v-4279"/>
-<circle class="js-number-connector-3 js-link-connector" fill="none" cx="153.99665130198105" cy="12.86044548732286" r="0.1" id="v-4276"/>
-<circle class="js-number-connector-4 js-link-connector" fill="none" cx="153.99665130198105" cy="25.49944550779556" r="0.1" id="v-4280"/>
-<circle class="js-number-connector-5 js-link-connector" fill="none" cx="153.99665130198105" cy="38.138445528268264" r="0.1" id="v-4281"/>
-<circle class="js-number-connector-6 js-link-connector" fill="none" cx="115.1631492422218" cy="50.99889101559112" r="0.1" id="v-4282"/>
-<circle class="js-number-connector-7 js-link-connector" fill="none" cx="76.99832565099052" cy="50.99889101559112" r="0.1" id="v-4283"/>
-<circle class="js-number-connector-8 js-link-connector" fill="none" cx="38.85021902147242" cy="50.99889101559112" r="0.1" id="v-4284"/>
-<circle class="js-number-connector-9 js-link-connector" fill="none" cx="0" cy="38.138445528268264" r="0.1" id="v-4285"/>
-<circle class="js-number-connector-10 js-link-connector" fill="none" cx="0" cy="25.49944550779556" r="0.1" id="v-4286"/>
-<circle class="js-number-connector-11 js-link-connector" fill="none" cx="0" cy="12.86044548732286" r="0.1" id="v-4287"/>
-<circle class="js-number-connector-12 js-link-connector" fill="none" cx="38.85021902147242" cy="0" r="0.1" id="v-4288"/>
-</g></g><rect class="ui-number-box" id="v-4268" stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(153.8966522216797,12.760445594787598)"/><path class="ui-number-leadline" id="v-4269" stroke="#000000" fill="none" d=""/><text class="ui-number-label" id="v-4270" font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(153.8966522216797,12.760445594787598)"/><rect class="ui-label-box" id="v-4271" stroke-width="0" fill="none" width="140.53950786590576" height="46.3485324382782" transform="translate(6.736935615539551,2.3251774311065674)"/><text class="ui-label" id="v-4272" font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(6.736935615539551,2.3251774311065674)" text-anchor="middle"><tspan x="70.2697525024414" y="29.474278065185548">MEMORY 1004</tspan></text><path class="ui-number-underline" id="v-4273" stroke="#000000" fill="none" transform="translate(6.736935615539551,2.3251774311065674)" d="M 95.42692184448242 32 132.75490188598633 32"/></g><g id="j_199" model-id="c8d2958d-cffd-f860-ab4c-5c98c769c71d" class="element tp Element" transform="translate(506.9972915649414,309.0000000000002)"><g class="rotatable" id="v-4289"><g class="scalable" id="v-4299">
-<path class="ui-fill ui-stroke js-perimeter" d="M93.9979559895209,0H0v56.99876054683714h93.9979559895209V0L93.9979559895209,0z" id="v-4296" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
-<rect class="ui-interior-label" x="4.112155478047863" y="2.5987276845062524" width="85.78384889317219" height="51.80130517782464" id="v-4297" fill="none"/>
-<circle class="js-number-connector-1 js-link-connector" fill="none" cx="46.99897799476045" cy="0" r="0.1" id="v-4300"/>
-<circle class="js-number-connector-2 js-link-connector" fill="none" cx="70.29438979720032" cy="0" r="0.1" id="v-4301"/>
-<circle class="js-number-connector-3 js-link-connector" fill="none" cx="93.9979559895209" cy="14.373439074066725" r="0.1" id="v-4302"/>
-<circle class="js-number-connector-4 js-link-connector" fill="none" cx="93.9979559895209" cy="28.49938027341857" r="0.1" id="v-4303"/>
-<circle class="js-number-connector-5 js-link-connector" fill="none" cx="93.9979559895209" cy="42.62532147277041" r="0.1" id="v-4304"/>
-<circle class="js-number-connector-6 js-link-connector" fill="none" cx="70.29438979720032" cy="56.99876054683714" r="0.1" id="v-4305"/>
-<circle class="js-number-connector-7 js-link-connector" fill="none" cx="46.99897799476045" cy="56.99876054683714" r="0.1" id="v-4306"/>
-<circle class="js-number-connector-8 js-link-connector" fill="none" cx="23.71377005206758" cy="56.99876054683714" r="0.1" id="v-4307"/>
-<circle class="js-number-connector-9 js-link-connector" fill="none" cx="0" cy="42.62532147277041" r="0.1" id="v-4298"/>
-<circle class="js-number-connector-10 js-link-connector" fill="none" cx="0" cy="28.49938027341857" r="0.1" id="v-4308"/>
-<circle class="js-number-connector-11 js-link-connector" fill="none" cx="0" cy="14.373439074066725" r="0.1" id="v-4309"/>
-<circle class="js-number-connector-12 js-link-connector" fill="none" cx="23.71377005206758" cy="0" r="0.1" id="v-4310"/>
-</g></g><rect class="ui-number-box" id="v-4290" stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(-0.10000000149011612,42.52532196044922)"/><path class="ui-number-leadline" id="v-4291" stroke="#000000" fill="none" d=""/><text class="ui-number-label" id="v-4292" font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(-0.10000000149011612,42.525325775146484)"/><rect class="ui-label-box" id="v-4293" stroke-width="0" fill="none" width="85.78384828567505" height="51.801308155059814" transform="translate(4.112155437469482,2.5987277030944824)"/><text class="ui-label" id="v-4294" font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(4.112155437469482,2.5987279415130615)" text-anchor="middle"><tspan x="42.89192581176758" y="21.70064633911133">BATTERY</tspan><tspan x="42.89192581176758" y="42.70068383911133">1020</tspan></text><path class="ui-number-underline" id="v-4295" stroke="#000000" fill="none" transform="translate(4.112155437469482,2.5987279415130615)" d="M 24.227935791015625 45 61.55591583251953 45"/></g><g id="j_215" model-id="b05b0744-7c04-08b3-801d-0dd598843a6d" class="tp Link link"><path class="connection" stroke="black" id="v-4611" stroke-dasharray="none" d="M 507 335 501 335 443 335 443 283"/><path class="marker-source" fill="black" stroke="black" id="v-4612" d="" transform="translate(507,335) scale(1,1) rotate(-180)"/><path class="marker-target" fill="black" stroke="black" id="v-4613" d="M 8 0 L 0 4 L 8 8 z" transform="translate(447,275) scale(1,1) rotate(-270)"/><g class="labels" id="v-4615"><g class="js-link-label" id="v-4625" label-idx="0" cursor="move" transform="translate(449, 335)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text class="ui-link-label" text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" id="v-4626" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g id="j_216" model-id="fecd3f87-e2b6-0224-28b9-d5e718cf978e" class="tp Link link"><path class="connection" stroke="black" id="v-4627" stroke-dasharray="none" d="M 444 275 444 335 499 335"/><path class="marker-source" fill="black" stroke="black" id="v-4628" d="" transform="translate(444,275) scale(1,1) rotate(-270)"/><path class="marker-target" fill="black" stroke="black" id="v-4629" d="M 8 0 L 0 4 L 8 8 z" transform="translate(507,339) scale(1,1) rotate(-180)"/><g class="labels" id="v-4631"><g class="js-link-label" id="v-4640" label-idx="0" cursor="move" transform="translate(444, 332.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text class="ui-link-label" text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" id="v-4641" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g id="j_202" model-id="0d39158f-f415-469d-9597-f60a6dcec044" class="element tp Element" transform="translate(217.75590419769236,669.0118083953876)"><g class="rotatable" id="v-4355"><g class="scalable" id="v-4365">
-<path class="ui-fill ui-stroke js-perimeter" d="M94.48613697851009,0H0v94.48613697851009h94.48613697851009V0L94.48613697851009,0z" id="v-4362" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
-<rect class="ui-interior-label" x="4.133512071465432" y="4.307878585646357" width="86.22936968935457" height="85.87037980721738" id="v-4363" fill="none"/>
-<circle class="js-number-connector-1 js-link-connector" fill="none" cx="47.243068489255045" cy="0" r="0.1" id="v-4366"/>
-<circle class="js-number-connector-2 js-link-connector" fill="none" cx="70.6594656583756" cy="0" r="0.1" id="v-4367"/>
-<circle class="js-number-connector-3 js-link-connector" fill="none" cx="94.48613697851009" cy="23.82667132013449" r="0.1" id="v-4368"/>
-<circle class="js-number-connector-4 js-link-connector" fill="none" cx="94.48613697851009" cy="47.243068489255045" r="0.1" id="v-4364"/>
-<circle class="js-number-connector-5 js-link-connector" fill="none" cx="94.48613697851009" cy="70.6594656583756" r="0.1" id="v-4369"/>
-<circle class="js-number-connector-6 js-link-connector" fill="none" cx="70.6594656583756" cy="94.48613697851009" r="0.1" id="v-4370"/>
-<circle class="js-number-connector-7 js-link-connector" fill="none" cx="47.243068489255045" cy="94.48613697851009" r="0.1" id="v-4371"/>
-<circle class="js-number-connector-8 js-link-connector" fill="none" cx="23.83692817390984" cy="94.48613697851009" r="0.1" id="v-4372"/>
-<circle class="js-number-connector-9 js-link-connector" fill="none" cx="0" cy="70.6594656583756" r="0.1" id="v-4373"/>
-<circle class="js-number-connector-10 js-link-connector" fill="none" cx="0" cy="47.243068489255045" r="0.1" id="v-4374"/>
-<circle class="js-number-connector-11 js-link-connector" fill="none" cx="0" cy="23.82667132013449" r="0.1" id="v-4375"/>
-<circle class="js-number-connector-12 js-link-connector" fill="none" cx="23.83692817390984" cy="0" r="0.1" id="v-4376"/>
-</g></g><rect class="ui-number-box" id="v-4356" stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(94.38613891601562,47.143070220947266)"/><path class="ui-number-leadline" id="v-4357" stroke="#000000" fill="none" d=""/><text class="ui-number-label" id="v-4358" font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(94.38613891601562,47.143070220947266)"/><rect class="ui-label-box" id="v-4359" stroke-width="0" fill="none" width="86.22937250137329" height="85.87037467956543" transform="translate(4.133512020111084,4.307878494262695)"/><text class="ui-label" id="v-4360" font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(4.133512020111084,4.307878494262695)" text-anchor="middle"><tspan x="43.11468505859375" y="38.73518079345703">CAMERA</tspan><tspan x="43.11468505859375" y="59.73521829345703">1022</tspan></text><path class="ui-number-underline" id="v-4361" stroke="#000000" fill="none" transform="translate(4.133512020111084,4.307878494262695)" d="M 24.450695037841797 62 61.7786750793457 62"/></g><g id="j_203" model-id="6c59cbe7-1c0d-4beb-e6f4-d5908cc3043f" class="element tp Element" transform="translate(217.75590419769236,544)"><g class="rotatable" id="v-4377"><g class="scalable" id="v-4387">
-<path class="ui-fill ui-stroke js-perimeter" d="M94.48613697851009,0H0v94.48613697851009h94.48613697851009V0L94.48613697851009,0z" id="v-4384" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
-<rect class="ui-interior-label" x="4.133512071465432" y="4.307878585646357" width="86.22936968935457" height="85.87037980721738" id="v-4385" fill="none"/>
-<circle class="js-number-connector-1 js-link-connector" fill="none" cx="47.243068489255045" cy="0" r="0.1" id="v-4388"/>
-<circle class="js-number-connector-2 js-link-connector" fill="none" cx="70.6594656583756" cy="0" r="0.1" id="v-4389"/>
-<circle class="js-number-connector-3 js-link-connector" fill="none" cx="94.48613697851009" cy="23.82667132013449" r="0.1" id="v-4390"/>
-<circle class="js-number-connector-4 js-link-connector" fill="none" cx="94.48613697851009" cy="47.243068489255045" r="0.1" id="v-4386"/>
-<circle class="js-number-connector-5 js-link-connector" fill="none" cx="94.48613697851009" cy="70.6594656583756" r="0.1" id="v-4391"/>
-<circle class="js-number-connector-6 js-link-connector" fill="none" cx="70.6594656583756" cy="94.48613697851009" r="0.1" id="v-4392"/>
-<circle class="js-number-connector-7 js-link-connector" fill="none" cx="47.243068489255045" cy="94.48613697851009" r="0.1" id="v-4393"/>
-<circle class="js-number-connector-8 js-link-connector" fill="none" cx="23.83692817390984" cy="94.48613697851009" r="0.1" id="v-4394"/>
-<circle class="js-number-connector-9 js-link-connector" fill="none" cx="0" cy="70.6594656583756" r="0.1" id="v-4395"/>
-<circle class="js-number-connector-10 js-link-connector" fill="none" cx="0" cy="47.243068489255045" r="0.1" id="v-4396"/>
-<circle class="js-number-connector-11 js-link-connector" fill="none" cx="0" cy="23.82667132013449" r="0.1" id="v-4397"/>
-<circle class="js-number-connector-12 js-link-connector" fill="none" cx="23.83692817390984" cy="0" r="0.1" id="v-4398"/>
-</g></g><rect class="ui-number-box" id="v-4378" stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(94.38613891601562,47.143070220947266)"/><path class="ui-number-leadline" id="v-4379" stroke="#000000" fill="none" d=""/><text class="ui-number-label" id="v-4380" font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(94.38613891601562,47.143070220947266)"/><rect class="ui-label-box" id="v-4381" stroke-width="0" fill="none" width="86.22937250137329" height="85.87037467956543" transform="translate(4.133512020111084,4.307878494262695)"/><text class="ui-label" id="v-4382" font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(4.133512020111084,4.307878494262695)" text-anchor="middle"><tspan x="43.11468505859375" y="28.235162043457034">IMAGE</tspan><tspan x="43.11468505859375" y="49.235199543457036">PROCESSING</tspan><tspan x="43.11468505859375" y="70.23523704345703">1024</tspan></text><path class="ui-number-underline" id="v-4383" stroke="#000000" fill="none" transform="translate(4.133512020111084,4.307878494262695)" d="M 24.450695037841797 72 61.7786750793457 72"/></g><g id="j_219" model-id="d096f8da-29c6-d1b2-1e5d-e3074c99b010" class="tp Link link"><path class="connection" stroke="black" id="v-4670" stroke-dasharray="none" d="M 265 502 265 536"/><path class="marker-source" fill="black" stroke="black" id="v-4671" d="" transform="translate(265,502) scale(1,1) rotate(-270)"/><path class="marker-target" fill="black" stroke="black" id="v-4672" d="M 8 0 L 0 4 L 8 8 z" transform="translate(261,544) scale(1,1) rotate(-90)"/><g class="labels" id="v-4674"><g class="js-link-label" id="v-4682" label-idx="0" cursor="move" transform="translate(265, 519)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text class="ui-link-label" text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" id="v-4683" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g id="j_210" model-id="79fe1723-233f-75f5-9d9d-accf770ef1b7" class="element tp Element" transform="translate(134.75590419769281,137)"><g class="rotatable" id="v-4531"><g class="scalable" id="v-4541">
-<path class="ui-fill ui-stroke js-perimeter" d="M94.48613697851009,0H0v94.48613697851009h94.48613697851009V0L94.48613697851009,0z" id="v-4538" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
-<rect class="ui-interior-label" x="4.133512071465432" y="4.307878585646357" width="86.22936968935457" height="85.87037980721738" id="v-4539" fill="none"/>
-<circle class="js-number-connector-1 js-link-connector" fill="none" cx="47.243068489255045" cy="0" r="0.1" id="v-4542"/>
-<circle class="js-number-connector-2 js-link-connector" fill="none" cx="70.6594656583756" cy="0" r="0.1" id="v-4543"/>
-<circle class="js-number-connector-3 js-link-connector" fill="none" cx="94.48613697851009" cy="23.82667132013449" r="0.1" id="v-4544"/>
-<circle class="js-number-connector-4 js-link-connector" fill="none" cx="94.48613697851009" cy="47.243068489255045" r="0.1" id="v-4540"/>
-<circle class="js-number-connector-5 js-link-connector" fill="none" cx="94.48613697851009" cy="70.6594656583756" r="0.1" id="v-4545"/>
-<circle class="js-number-connector-6 js-link-connector" fill="none" cx="70.6594656583756" cy="94.48613697851009" r="0.1" id="v-4546"/>
-<circle class="js-number-connector-7 js-link-connector" fill="none" cx="47.243068489255045" cy="94.48613697851009" r="0.1" id="v-4547"/>
-<circle class="js-number-connector-8 js-link-connector" fill="none" cx="23.83692817390984" cy="94.48613697851009" r="0.1" id="v-4548"/>
-<circle class="js-number-connector-9 js-link-connector" fill="none" cx="0" cy="70.6594656583756" r="0.1" id="v-4549"/>
-<circle class="js-number-connector-10 js-link-connector" fill="none" cx="0" cy="47.243068489255045" r="0.1" id="v-4550"/>
-<circle class="js-number-connector-11 js-link-connector" fill="none" cx="0" cy="23.82667132013449" r="0.1" id="v-4551"/>
-<circle class="js-number-connector-12 js-link-connector" fill="none" cx="23.83692817390984" cy="0" r="0.1" id="v-4552"/>
-</g></g><rect class="ui-number-box" id="v-4532" stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(94.38613891601562,47.143070220947266)"/><path class="ui-number-leadline" id="v-4533" stroke="#000000" fill="none" d=""/><text class="ui-number-label" id="v-4534" font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(94.38613891601562,47.143070220947266)"/><rect class="ui-label-box" id="v-4535" stroke-width="0" fill="none" width="86.22937250137329" height="85.87037467956543" transform="translate(4.133512020111084,4.307878494262695)"/><text class="ui-label" id="v-4536" font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(4.133512020111084,4.307878494262695)" text-anchor="middle"><tspan x="43.11468505859375" y="28.235162043457034">WIRELESS</tspan><tspan x="43.11468505859375" y="49.235199543457036">COMM</tspan><tspan x="43.11468505859375" y="70.23523704345703">1026</tspan></text><path class="ui-number-underline" id="v-4537" stroke="#000000" fill="none" transform="translate(4.133512020111084,4.307878494262695)" d="M 24.450695037841797 72 61.7786750793457 72"/></g><g id="j_220" model-id="e9df816a-8dc8-4115-8d1d-0384e9defb73" class="tp Link link"><path class="connection" stroke="black" id="v-4684" stroke-dasharray="none" d="M 328 450 362 450"/><path class="marker-source" fill="black" stroke="black" id="v-4685" d="M 8 0 L 0 4 L 8 8 z" transform="translate(320,446) scale(1,1) rotate(0)"/><path class="marker-target" fill="black" stroke="black" id="v-4686" d="M 8 0 L 0 4 L 8 8 z" transform="translate(370,454) scale(1,1) rotate(-180)"/><g class="labels" id="v-4688"><g class="js-link-label" id="v-4696" label-idx="0" cursor="move" transform="translate(345, 450)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text class="ui-link-label" text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" id="v-4697" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g id="j_208" model-id="4e102b01-9dc5-1350-6a09-30334324007a" class="element tp Element" transform="translate(75.51180839538574,544)"><g class="rotatable" id="v-4487"><g class="scalable" id="v-4497">
-<path class="ui-fill ui-stroke js-perimeter" d="M94.48613697851009,0H0v94.48613697851009h94.48613697851009V0L94.48613697851009,0z" id="v-4494" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
-<rect class="ui-interior-label" x="4.133512071465432" y="4.307878585646357" width="86.22936968935457" height="85.87037980721738" id="v-4495" fill="none"/>
-<circle class="js-number-connector-1 js-link-connector" fill="none" cx="47.243068489255045" cy="0" r="0.1" id="v-4498"/>
-<circle class="js-number-connector-2 js-link-connector" fill="none" cx="70.6594656583756" cy="0" r="0.1" id="v-4499"/>
-<circle class="js-number-connector-3 js-link-connector" fill="none" cx="94.48613697851009" cy="23.82667132013449" r="0.1" id="v-4500"/>
-<circle class="js-number-connector-4 js-link-connector" fill="none" cx="94.48613697851009" cy="47.243068489255045" r="0.1" id="v-4501"/>
-<circle class="js-number-connector-5 js-link-connector" fill="none" cx="94.48613697851009" cy="70.6594656583756" r="0.1" id="v-4502"/>
-<circle class="js-number-connector-6 js-link-connector" fill="none" cx="70.6594656583756" cy="94.48613697851009" r="0.1" id="v-4503"/>
-<circle class="js-number-connector-7 js-link-connector" fill="none" cx="47.243068489255045" cy="94.48613697851009" r="0.1" id="v-4504"/>
-<circle class="js-number-connector-8 js-link-connector" fill="none" cx="23.83692817390984" cy="94.48613697851009" r="0.1" id="v-4505"/>
-<circle class="js-number-connector-9 js-link-connector" fill="none" cx="0" cy="70.6594656583756" r="0.1" id="v-4496"/>
-<circle class="js-number-connector-10 js-link-connector" fill="none" cx="0" cy="47.243068489255045" r="0.1" id="v-4506"/>
-<circle class="js-number-connector-11 js-link-connector" fill="none" cx="0" cy="23.82667132013449" r="0.1" id="v-4507"/>
-<circle class="js-number-connector-12 js-link-connector" fill="none" cx="23.83692817390984" cy="0" r="0.1" id="v-4508"/>
-</g></g><rect class="ui-number-box" id="v-4488" stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(-0.10000000149011612,70.5594711303711)"/><path class="ui-number-leadline" id="v-4489" stroke="#000000" fill="none" d=""/><text class="ui-number-label" id="v-4490" font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(-0.10000000149011612,70.5594711303711)"/><rect class="ui-label-box" id="v-4491" stroke-width="0" fill="none" width="86.22937250137329" height="85.87037467956543" transform="translate(4.133512020111084,4.307878494262695)"/><text class="ui-label" id="v-4492" font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(4.133512020111084,4.307878494262695)" text-anchor="middle"><tspan x="43.11468505859375" y="49.235199543457036">GPU 1030</tspan></text><path class="ui-number-underline" id="v-4493" stroke="#000000" fill="none" transform="translate(4.133512020111084,4.307878494262695)" d="M 45.45222473144531 51 82.78020477294922 51"/></g><g id="j_204" model-id="a0e902ef-64af-d8a5-a206-5fbfd1b56f94" class="element tp Element" transform="translate(75.51180839538574,401.2559041976928)"><g class="rotatable" id="v-4399"><g class="scalable" id="v-4409">
-<path class="ui-fill ui-stroke js-perimeter" d="M94.48613697851009,0H0v94.48613697851009h94.48613697851009V0L94.48613697851009,0z" id="v-4406" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
-<rect class="ui-interior-label" x="4.133512071465432" y="4.307878585646357" width="86.22936968935457" height="85.87037980721738" id="v-4407" fill="none"/>
-<circle class="js-number-connector-1 js-link-connector" fill="none" cx="47.243068489255045" cy="0" r="0.1" id="v-4410"/>
-<circle class="js-number-connector-2 js-link-connector" fill="none" cx="70.6594656583756" cy="0" r="0.1" id="v-4411"/>
-<circle class="js-number-connector-3 js-link-connector" fill="none" cx="94.48613697851009" cy="23.82667132013449" r="0.1" id="v-4412"/>
-<circle class="js-number-connector-4 js-link-connector" fill="none" cx="94.48613697851009" cy="47.243068489255045" r="0.1" id="v-4413"/>
-<circle class="js-number-connector-5 js-link-connector" fill="none" cx="94.48613697851009" cy="70.6594656583756" r="0.1" id="v-4414"/>
-<circle class="js-number-connector-6 js-link-connector" fill="none" cx="70.6594656583756" cy="94.48613697851009" r="0.1" id="v-4415"/>
-<circle class="js-number-connector-7 js-link-connector" fill="none" cx="47.243068489255045" cy="94.48613697851009" r="0.1" id="v-4416"/>
-<circle class="js-number-connector-8 js-link-connector" fill="none" cx="23.83692817390984" cy="94.48613697851009" r="0.1" id="v-4417"/>
-<circle class="js-number-connector-9 js-link-connector" fill="none" cx="0" cy="70.6594656583756" r="0.1" id="v-4408"/>
-<circle class="js-number-connector-10 js-link-connector" fill="none" cx="0" cy="47.243068489255045" r="0.1" id="v-4418"/>
-<circle class="js-number-connector-11 js-link-connector" fill="none" cx="0" cy="23.82667132013449" r="0.1" id="v-4419"/>
-<circle class="js-number-connector-12 js-link-connector" fill="none" cx="23.83692817390984" cy="0" r="0.1" id="v-4420"/>
-</g></g><rect class="ui-number-box" id="v-4400" stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(-0.10000000149011612,70.5594711303711)"/><path class="ui-number-leadline" id="v-4401" stroke="#000000" fill="none" d=""/><text class="ui-number-label" id="v-4402" font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(-0.10000000149011612,70.5594711303711)"/><rect class="ui-label-box" id="v-4403" stroke-width="0" fill="none" width="86.22937250137329" height="85.87037467956543" transform="translate(4.133512020111084,4.307878494262695)"/><text class="ui-label" id="v-4404" font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(4.133512020111084,4.307878494262695)" text-anchor="middle"><tspan x="43.11468505859375" y="49.235199543457036">DSP 1010</tspan></text><path class="ui-number-underline" id="v-4405" stroke="#000000" fill="none" transform="translate(4.133512020111084,4.307878494262695)" d="M 43.90296936035156 51 81.23094940185547 51"/></g><g id="j_206" model-id="15c7e1cf-c8a8-1063-0031-44b7481414de" class="element tp Element" transform="translate(267.2440958023067,137.24409580230713)"><g class="rotatable" id="v-4443"><g class="scalable" id="v-4453">
-<path class="ui-fill ui-stroke js-perimeter" d="M102.99776028638992,0H0v93.9979559895209h102.99776028638992V0L102.99776028638992,0z" id="v-4450" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
-<rect class="ui-interior-label" x="4.50587249190351" y="4.285621093747153" width="93.99719612762485" height="85.4267138020266" id="v-4451" fill="none"/>
-<circle class="js-number-connector-1 js-link-connector" fill="none" cx="51.49888014319496" cy="0" r="0.1" id="v-4454"/>
-<circle class="js-number-connector-2 js-link-connector" fill="none" cx="77.02470371395354" cy="0" r="0.1" id="v-4455"/>
-<circle class="js-number-connector-3 js-link-connector" fill="none" cx="102.99776028638992" cy="23.703566192320565" r="0.1" id="v-4456"/>
-<circle class="js-number-connector-4 js-link-connector" fill="none" cx="102.99776028638992" cy="46.99897799476045" r="0.1" id="v-4457"/>
-<circle class="js-number-connector-5 js-link-connector" fill="none" cx="102.99776028638992" cy="70.29438979720032" r="0.1" id="v-4458"/>
-<circle class="js-number-connector-6 js-link-connector" fill="none" cx="77.02470371395354" cy="93.9979559895209" r="0.1" id="v-4459"/>
-<circle class="js-number-connector-7 js-link-connector" fill="none" cx="51.49888014319496" cy="93.9979559895209" r="0.1" id="v-4460"/>
-<circle class="js-number-connector-8 js-link-connector" fill="none" cx="25.984237397478307" cy="93.9979559895209" r="0.1" id="v-4461"/>
-<circle class="js-number-connector-9 js-link-connector" fill="none" cx="0" cy="70.29438979720032" r="0.1" id="v-4452"/>
-<circle class="js-number-connector-10 js-link-connector" fill="none" cx="0" cy="46.99897799476045" r="0.1" id="v-4462"/>
-<circle class="js-number-connector-11 js-link-connector" fill="none" cx="0" cy="23.703566192320565" r="0.1" id="v-4463"/>
-<circle class="js-number-connector-12 js-link-connector" fill="none" cx="25.984237397478307" cy="0" r="0.1" id="v-4464"/>
-</g></g><rect class="ui-number-box" id="v-4444" stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(-0.10000000149011612,70.19438934326172)"/><path class="ui-number-leadline" id="v-4445" stroke="#000000" fill="none" d=""/><text class="ui-number-label" id="v-4446" font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(-0.10000000149011612,70.19438934326172)"/><rect class="ui-label-box" id="v-4447" stroke-width="0" fill="none" width="93.99720239639282" height="85.42671251296997" transform="translate(4.5058722496032715,4.285621166229248)"/><text class="ui-label" id="v-4448" font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(4.5058722496032715,4.285621166229248)" text-anchor="middle"><tspan x="46.99860382080078" y="28.01332976806641">OTHER</tspan><tspan x="46.99860382080078" y="49.01336726806641">TRANSDUCERS</tspan><tspan x="46.99860382080078" y="70.01340476806641">1008</tspan></text><path class="ui-number-underline" id="v-4449" stroke="#000000" fill="none" transform="translate(4.5058722496032715,4.285621166229248)" d="M 28.334613800048828 72 65.66259384155273 72"/></g><g id="j_218" model-id="f5cc24c1-12f6-7ab2-8c54-11554ce0172f" class="tp Link link"><path class="connection" stroke="black" id="v-4656" stroke-dasharray="none" d="M 178 591 210 591"/><path class="marker-source" fill="black" stroke="black" id="v-4657" d="M 8 0 L 0 4 L 8 8 z" transform="translate(170,587) scale(1,1) rotate(0)"/><path class="marker-target" fill="black" stroke="black" id="v-4658" d="M 8 0 L 0 4 L 8 8 z" transform="translate(218,595) scale(1,1) rotate(-180)"/><g class="labels" id="v-4660"><g class="js-link-label" id="v-4668" label-idx="0" cursor="move" transform="translate(194, 591)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text class="ui-link-label" text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" id="v-4669" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g id="j_217" model-id="b2014aa0-848f-428e-86b3-496f2aaad812" class="tp Link link"><path class="connection" stroke="black" id="v-4642" stroke-dasharray="none" d="M 265 669 265 646"/><path class="marker-source" fill="black" stroke="black" id="v-4643" d="" transform="translate(265,669) scale(1,1) rotate(-90)"/><path class="marker-target" fill="black" stroke="black" id="v-4644" d="M 8 0 L 0 4 L 8 8 z" transform="translate(269,638) scale(1,1) rotate(-270)"/><g class="labels" id="v-4646"><g class="js-link-label" id="v-4654" label-idx="0" cursor="move" transform="translate(265, 657.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text class="ui-link-label" text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" id="v-4655" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g id="j_209" model-id="3c6f292a-12fa-d123-82e4-8f528d7ad8b8" class="element tp Element" transform="translate(382,490)"><g class="rotatable" id="v-4509"><g class="scalable" id="v-4519">
-<path class="ui-fill ui-stroke js-perimeter" d="M93.9979559895209,0H0v53.99882578121413h93.9979559895209V0L93.9979559895209,0z" id="v-4516" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
-<rect class="ui-interior-label" x="4.112155478047863" y="2.4619525432164497" width="85.78384889317219" height="49.074920694781234" id="v-4517" fill="none"/>
-<circle class="js-number-connector-1 js-link-connector" fill="none" cx="46.99897799476045" cy="0" r="0.1" id="v-4520"/>
-<circle class="js-number-connector-2 js-link-connector" fill="none" cx="70.29438979720032" cy="0" r="0.1" id="v-4521"/>
-<circle class="js-number-connector-3 js-link-connector" fill="none" cx="93.9979559895209" cy="13.616942280694792" r="0.1" id="v-4522"/>
-<circle class="js-number-connector-4 js-link-connector" fill="none" cx="93.9979559895209" cy="26.999412890607065" r="0.1" id="v-4518"/>
-<circle class="js-number-connector-5 js-link-connector" fill="none" cx="93.9979559895209" cy="40.381883500519336" r="0.1" id="v-4523"/>
-<circle class="js-number-connector-6 js-link-connector" fill="none" cx="70.29438979720032" cy="53.99882578121413" r="0.1" id="v-4524"/>
-<circle class="js-number-connector-7 js-link-connector" fill="none" cx="46.99897799476045" cy="53.99882578121413" r="0.1" id="v-4525"/>
-<circle class="js-number-connector-8 js-link-connector" fill="none" cx="23.71377005206758" cy="53.99882578121413" r="0.1" id="v-4526"/>
-<circle class="js-number-connector-9 js-link-connector" fill="none" cx="0" cy="40.381883500519336" r="0.1" id="v-4527"/>
-<circle class="js-number-connector-10 js-link-connector" fill="none" cx="0" cy="26.999412890607065" r="0.1" id="v-4528"/>
-<circle class="js-number-connector-11 js-link-connector" fill="none" cx="0" cy="13.616942280694792" r="0.1" id="v-4529"/>
-<circle class="js-number-connector-12 js-link-connector" fill="none" cx="23.71377005206758" cy="0" r="0.1" id="v-4530"/>
-</g></g><rect class="ui-number-box" id="v-4510" stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(93.89795684814453,26.8994140625)"/><path class="ui-number-leadline" id="v-4511" stroke="#000000" fill="none" d=""/><text class="ui-number-label" id="v-4512" font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(93.89795684814453,26.8994140625)"/><rect class="ui-label-box" id="v-4513" stroke-width="0" fill="none" width="85.78384828567505" height="49.07492017745972" transform="translate(4.112155437469482,2.4619526863098145)"/><text class="ui-label" id="v-4514" font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(4.112155437469482,2.4619526863098145)" text-anchor="middle"><tspan x="42.89192581176758" y="20.33745282714844">ALTIMETER</tspan><tspan x="42.89192581176758" y="41.33749032714844">1012</tspan></text><path class="ui-number-underline" id="v-4515" stroke="#000000" fill="none" transform="translate(4.112155437469482,2.4619526863098145)" d="M 24.227935791015625 43 61.55591583251953 43"/></g><g id="j_200" model-id="bae039de-b8ba-7abe-5034-b940e79c667f" class="element tp Element" transform="translate(492,491.00000000000034)"><g class="rotatable" id="v-4311"><g class="scalable" id="v-4321">
-<path class="ui-fill ui-stroke js-perimeter" d="M93.9979559895209,0H0v53.99882578121413h93.9979559895209V0L93.9979559895209,0z" id="v-4318" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
-<rect class="ui-interior-label" x="4.112155478047863" y="2.4619525432164497" width="85.78384889317219" height="49.074920694781234" id="v-4319" fill="none"/>
-<circle class="js-number-connector-1 js-link-connector" fill="none" cx="46.99897799476045" cy="0" r="0.1" id="v-4322"/>
-<circle class="js-number-connector-2 js-link-connector" fill="none" cx="70.29438979720032" cy="0" r="0.1" id="v-4323"/>
-<circle class="js-number-connector-3 js-link-connector" fill="none" cx="93.9979559895209" cy="13.616942280694792" r="0.1" id="v-4324"/>
-<circle class="js-number-connector-4 js-link-connector" fill="none" cx="93.9979559895209" cy="26.999412890607065" r="0.1" id="v-4320"/>
-<circle class="js-number-connector-5 js-link-connector" fill="none" cx="93.9979559895209" cy="40.381883500519336" r="0.1" id="v-4325"/>
-<circle class="js-number-connector-6 js-link-connector" fill="none" cx="70.29438979720032" cy="53.99882578121413" r="0.1" id="v-4326"/>
-<circle class="js-number-connector-7 js-link-connector" fill="none" cx="46.99897799476045" cy="53.99882578121413" r="0.1" id="v-4327"/>
-<circle class="js-number-connector-8 js-link-connector" fill="none" cx="23.71377005206758" cy="53.99882578121413" r="0.1" id="v-4328"/>
-<circle class="js-number-connector-9 js-link-connector" fill="none" cx="0" cy="40.381883500519336" r="0.1" id="v-4329"/>
-<circle class="js-number-connector-10 js-link-connector" fill="none" cx="0" cy="26.999412890607065" r="0.1" id="v-4330"/>
-<circle class="js-number-connector-11 js-link-connector" fill="none" cx="0" cy="13.616942280694792" r="0.1" id="v-4331"/>
-<circle class="js-number-connector-12 js-link-connector" fill="none" cx="23.71377005206758" cy="0" r="0.1" id="v-4332"/>
-</g></g><rect class="ui-number-box" id="v-4312" stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(93.89795684814453,26.8994140625)"/><path class="ui-number-leadline" id="v-4313" stroke="#000000" fill="none" d=""/><text class="ui-number-label" id="v-4314" font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(93.89795684814453,26.8994140625)"/><rect class="ui-label-box" id="v-4315" stroke-width="0" fill="none" width="85.78384828567505" height="49.07492017745972" transform="translate(4.112155437469482,2.4619526863098145)"/><text class="ui-label" id="v-4316" font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(4.112155437469482,2.4619526863098145)" text-anchor="middle"><tspan x="42.89192581176758" y="20.33745282714844">GYROSCOPE</tspan><tspan x="42.89192581176758" y="41.33749032714844">1002</tspan></text><path class="ui-number-underline" id="v-4317" stroke="#000000" fill="none" transform="translate(4.112155437469482,2.4619526863098145)" d="M 24.227935791015625 43 61.55591583251953 43"/></g><g id="j_214" model-id="59c3c8a1-69c6-4762-b548-4660098ca956" class="tp Link link"><path class="connection" stroke="black" id="v-4597" stroke-dasharray="none" d="M 181 346 210 346"/><path class="marker-source" fill="black" stroke="black" id="v-4598" d="M 8 0 L 0 4 L 8 8 z" transform="translate(173,342) scale(1,1) rotate(0)"/><path class="marker-target" fill="black" stroke="black" id="v-4599" d="M 8 0 L 0 4 L 8 8 z" transform="translate(218,350) scale(1,1) rotate(-180)"/><g class="labels" id="v-4601"><g class="js-link-label" id="v-4609" label-idx="0" cursor="move" transform="translate(195.5, 346)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text class="ui-link-label" text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" id="v-4610" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g id="j_213" model-id="d3cfac96-36a5-4d44-82b2-b468abcb975e" class="tp Link link"><path class="connection" stroke="black" id="v-4581" stroke-dasharray="none" d="M 185 239 185 252 242 252 242 286"/><path class="marker-source" fill="black" stroke="black" id="v-4582" d="M 8 0 L 0 4 L 8 8 z" transform="translate(189,231) scale(1,1) rotate(-270)"/><path class="marker-target" fill="black" stroke="black" id="v-4583" d="M 8 0 L 0 4 L 8 8 z" transform="translate(238,294) scale(1,1) rotate(-90)"/><g class="labels" id="v-4585"><g class="js-link-label" id="v-4595" label-idx="0" cursor="move" transform="translate(224, 252)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text class="ui-link-label" text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" id="v-4596" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g id="j_212" model-id="6ffc443d-4b1d-4f76-9df5-256806ae89f7" class="tp Link link"><path class="connection" stroke="black" id="v-4567" stroke-dasharray="none" d="M 294 239 294 286"/><path class="marker-source" fill="black" stroke="black" id="v-4568" d="M 8 0 L 0 4 L 8 8 z" transform="translate(298,231) scale(1,1) rotate(-270)"/><path class="marker-target" fill="black" stroke="black" id="v-4569" d="M 8 0 L 0 4 L 8 8 z" transform="translate(290,294) scale(1,1) rotate(-90)"/><g class="labels" id="v-4571"><g class="js-link-label" id="v-4579" label-idx="0" cursor="move" transform="translate(294, 262.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text class="ui-link-label" text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" id="v-4580" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g id="j_211" model-id="c8d20566-b1be-4624-9fba-2fe27f7f0914" class="tp Link link"><path class="connection" stroke="black" id="v-4553" stroke-dasharray="none" d="M 178 450 210 450"/><path class="marker-source" fill="black" stroke="black" id="v-4554" d="M 8 0 L 0 4 L 8 8 z" transform="translate(170,446) scale(1,1) rotate(0)"/><path class="marker-target" fill="black" stroke="black" id="v-4555" d="M 8 0 L 0 4 L 8 8 z" transform="translate(218,454) scale(1,1) rotate(-180)"/><g class="labels" id="v-4557"><g class="js-link-label" id="v-4565" label-idx="0" cursor="move" transform="translate(194, 450)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text class="ui-link-label" text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" id="v-4566" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g></g><defs id="v-4222"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="664" height="867"><g><g model-id="c770ccd5-e5c2-85c5-b37b-8b5e210dca4f" transform="translate(370.2,377.5)"><g><g>
+<path d="M238,0H0v287h238V0L238,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"></path>
+<rect x="10.4" y="13.1" width="217.2" height="260.8" fill="none"></rect>
+<circle fill="none" cx="119" cy="0" r="0.1"></circle>
+<circle fill="none" cx="178" cy="0" r="0.1"></circle>
+<circle fill="none" cx="238" cy="72.4" r="0.1"></circle>
+<circle fill="none" cx="238" cy="143.5" r="0.1"></circle>
+<circle fill="none" cx="238" cy="214.6" r="0.1"></circle>
+<circle fill="none" cx="178" cy="287" r="0.1"></circle>
+<circle fill="none" cx="119" cy="287" r="0.1"></circle>
+<circle fill="none" cx="60" cy="287" r="0.1"></circle>
+<circle fill="none" cx="0" cy="214.6" r="0.1"></circle>
+<circle fill="none" cx="0" cy="143.5" r="0.1"></circle>
+<circle fill="none" cx="0" cy="72.4" r="0.1"></circle>
+<circle fill="none" cx="60" cy="0" r="0.1"></circle>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(237.9,143.4)"></rect><path stroke="#000000" fill="none" d=""></path><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(237.9,143.4)"></text><rect stroke-width="0" fill="none" width="217.2" height="260.8" transform="translate(10.4,13.1)"></rect><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(10.4,13.1)" text-anchor="middle"><tspan x="108.6" y="16.8">NAVIGATION BOARD</tspan><tspan x="108.6" y="37.8">1028</tspan></text><path stroke="#000000" fill="none" transform="translate(10.4,13.1)" d="M 89.9 40 127.3 40"></path></g><g model-id="4fb2d64f-ffb3-4f87-e19e-ae8e8a058ea2" transform="translate(218,294)"><g><g>
+<path d="M102,0H0v208h102V0L102,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"></path>
+<rect x="4.5" y="9.5" width="93.1" height="189" fill="none"></rect>
+<circle fill="none" cx="51" cy="0" r="0.1"></circle>
+<circle fill="none" cx="76.3" cy="0" r="0.1"></circle>
+<circle fill="none" cx="102" cy="52.5" r="0.1"></circle>
+<circle fill="none" cx="102" cy="104" r="0.1"></circle>
+<circle fill="none" cx="102" cy="155.5" r="0.1"></circle>
+<circle fill="none" cx="76.3" cy="208" r="0.1"></circle>
+<circle fill="none" cx="51" cy="208" r="0.1"></circle>
+<circle fill="none" cx="25.7" cy="208" r="0.1"></circle>
+<circle fill="none" cx="0" cy="155.5" r="0.1"></circle>
+<circle fill="none" cx="0" cy="104" r="0.1"></circle>
+<circle fill="none" cx="0" cy="52.5" r="0.1"></circle>
+<circle fill="none" cx="25.7" cy="0" r="0.1"></circle>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(101.9,52.4)"></rect><path stroke="#000000" fill="none" d=""></path><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(101.9,52.4)"></text><rect stroke-width="0" fill="none" width="93.1" height="189" transform="translate(4.5,9.5)"></rect><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(4.5,9.5)" text-anchor="middle"><tspan x="46.5" y="79.8">MAIN</tspan><tspan x="46.5" y="100.8">CONTROLLER</tspan><tspan x="46.5" y="121.8">1006</tspan></text><path stroke="#000000" fill="none" transform="translate(4.5,9.5)" d="M 27.9 124 65.2 124"></path></g><g model-id="136748cf-1d9c-51d1-43c8-9cb5a0421bc3" transform="translate(442,561)"><g><g>
+<path d="M94.5,0H0v94.5h94.5V0L94.5,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"></path>
+<rect x="4.1" y="4.3" width="86.2" height="85.9" fill="none"></rect>
+<circle fill="none" cx="47.2" cy="0" r="0.1"></circle>
+<circle fill="none" cx="70.7" cy="0" r="0.1"></circle>
+<circle fill="none" cx="94.5" cy="23.8" r="0.1"></circle>
+<circle fill="none" cx="94.5" cy="47.2" r="0.1"></circle>
+<circle fill="none" cx="94.5" cy="70.7" r="0.1"></circle>
+<circle fill="none" cx="70.7" cy="94.5" r="0.1"></circle>
+<circle fill="none" cx="47.2" cy="94.5" r="0.1"></circle>
+<circle fill="none" cx="23.8" cy="94.5" r="0.1"></circle>
+<circle fill="none" cx="0" cy="70.7" r="0.1"></circle>
+<circle fill="none" cx="0" cy="47.2" r="0.1"></circle>
+<circle fill="none" cx="0" cy="23.8" r="0.1"></circle>
+<circle fill="none" cx="23.8" cy="0" r="0.1"></circle>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(-0.1,47.1)"></rect><path stroke="#000000" fill="none" d=""></path><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(-0.1,47.1)"></text><rect stroke-width="0" fill="none" width="86.2" height="85.9" transform="translate(4.1,4.3)"></rect><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(4.1,4.3)" text-anchor="middle"><tspan x="43.1" y="28.2">MOTOR</tspan><tspan x="43.1" y="49.2">CONTROL</tspan><tspan x="43.1" y="70.2">1014</tspan></text><path stroke="#000000" fill="none" transform="translate(4.1,4.3)" d="M 24.5 72 61.8 72"></path></g><g model-id="a3a1538c-91b4-a00f-ff2f-d3d5cb1f8666" transform="translate(70,294)"><g><g>
+<path d="M103,0H0v64h103V0L103,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"></path>
+<rect x="4.5" y="2.9" width="94" height="58.2" fill="none"></rect>
+<circle fill="none" cx="51.5" cy="0" r="0.1"></circle>
+<circle fill="none" cx="77" cy="0" r="0.1"></circle>
+<circle fill="none" cx="103" cy="16.1" r="0.1"></circle>
+<circle fill="none" cx="103" cy="32" r="0.1"></circle>
+<circle fill="none" cx="103" cy="47.9" r="0.1"></circle>
+<circle fill="none" cx="77" cy="64" r="0.1"></circle>
+<circle fill="none" cx="51.5" cy="64" r="0.1"></circle>
+<circle fill="none" cx="26" cy="64" r="0.1"></circle>
+<circle fill="none" cx="0" cy="47.9" r="0.1"></circle>
+<circle fill="none" cx="0" cy="32" r="0.1"></circle>
+<circle fill="none" cx="0" cy="16.1" r="0.1"></circle>
+<circle fill="none" cx="26" cy="0" r="0.1"></circle>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(102.9,16)"></rect><path stroke="#000000" fill="none" d=""></path><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(102.9,16)"></text><rect stroke-width="0" fill="none" width="94" height="58.2" transform="translate(4.5,2.9)"></rect><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(4.5,2.9)" text-anchor="middle"><tspan x="47" y="24.9">MEMORY</tspan><tspan x="47" y="45.9">1016</tspan></text><path stroke="#000000" fill="none" transform="translate(4.5,2.9)" d="M 28.3 48 65.7 48"></path></g><g model-id="1b65962a-5273-1f41-e38d-fc519f67db4e" transform="translate(402.5,210)"><g><g>
+<path d="M155,0H0v65h155V0L155,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"></path>
+<rect x="6.8" y="3" width="141.5" height="59.1" fill="none"></rect>
+<circle fill="none" cx="77.5" cy="0" r="0.1"></circle>
+<circle fill="none" cx="115.9" cy="0" r="0.1"></circle>
+<circle fill="none" cx="155" cy="16.4" r="0.1"></circle>
+<circle fill="none" cx="155" cy="32.5" r="0.1"></circle>
+<circle fill="none" cx="155" cy="48.6" r="0.1"></circle>
+<circle fill="none" cx="115.9" cy="65" r="0.1"></circle>
+<circle fill="none" cx="77.5" cy="65" r="0.1"></circle>
+<circle fill="none" cx="39.1" cy="65" r="0.1"></circle>
+<circle fill="none" cx="0" cy="48.6" r="0.1"></circle>
+<circle fill="none" cx="0" cy="32.5" r="0.1"></circle>
+<circle fill="none" cx="0" cy="16.4" r="0.1"></circle>
+<circle fill="none" cx="39.1" cy="0" r="0.1"></circle>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(154.9,16.3)"></rect><path stroke="#000000" fill="none" d=""></path><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(154.9,16.3)"></text><rect stroke-width="0" fill="none" width="141.5" height="59.1" transform="translate(6.8,3)"></rect><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(6.8,3)" text-anchor="middle"><tspan x="70.7" y="25.3">POWER</tspan><tspan x="70.7" y="46.3">MANAGER 1018</tspan></text><path stroke="#000000" fill="none" transform="translate(6.8,3)" d="M 101.6 48 138.9 48"></path></g><g model-id="21da8c16-b93f-68c3-f9e5-0e33ee0ff816" transform="translate(412.2,423)"><g><g>
+<path d="M154,0H0v51h154V0L154,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"></path>
+<rect x="6.7" y="2.3" width="140.5" height="46.3" fill="none"></rect>
+<circle fill="none" cx="77" cy="0" r="0.1"></circle>
+<circle fill="none" cx="115.2" cy="0" r="0.1"></circle>
+<circle fill="none" cx="154" cy="12.9" r="0.1"></circle>
+<circle fill="none" cx="154" cy="25.5" r="0.1"></circle>
+<circle fill="none" cx="154" cy="38.1" r="0.1"></circle>
+<circle fill="none" cx="115.2" cy="51" r="0.1"></circle>
+<circle fill="none" cx="77" cy="51" r="0.1"></circle>
+<circle fill="none" cx="38.9" cy="51" r="0.1"></circle>
+<circle fill="none" cx="0" cy="38.1" r="0.1"></circle>
+<circle fill="none" cx="0" cy="25.5" r="0.1"></circle>
+<circle fill="none" cx="0" cy="12.9" r="0.1"></circle>
+<circle fill="none" cx="38.9" cy="0" r="0.1"></circle>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(153.9,12.8)"></rect><path stroke="#000000" fill="none" d=""></path><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(153.9,12.8)"></text><rect stroke-width="0" fill="none" width="140.5" height="46.3" transform="translate(6.7,2.3)"></rect><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(6.7,2.3)" text-anchor="middle"><tspan x="70.3" y="29.5">MEMORY 1004</tspan></text><path stroke="#000000" fill="none" transform="translate(6.7,2.3)" d="M 95.4 32 132.7 32"></path></g><g model-id="c8d2958d-cffd-f860-ab4c-5c98c769c71d" transform="translate(507,309)"><g><g>
+<path d="M94,0H0v57h94V0L94,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"></path>
+<rect x="4.1" y="2.6" width="85.8" height="51.8" fill="none"></rect>
+<circle fill="none" cx="47" cy="0" r="0.1"></circle>
+<circle fill="none" cx="70.3" cy="0" r="0.1"></circle>
+<circle fill="none" cx="94" cy="14.4" r="0.1"></circle>
+<circle fill="none" cx="94" cy="28.5" r="0.1"></circle>
+<circle fill="none" cx="94" cy="42.6" r="0.1"></circle>
+<circle fill="none" cx="70.3" cy="57" r="0.1"></circle>
+<circle fill="none" cx="47" cy="57" r="0.1"></circle>
+<circle fill="none" cx="23.7" cy="57" r="0.1"></circle>
+<circle fill="none" cx="0" cy="42.6" r="0.1"></circle>
+<circle fill="none" cx="0" cy="28.5" r="0.1"></circle>
+<circle fill="none" cx="0" cy="14.4" r="0.1"></circle>
+<circle fill="none" cx="23.7" cy="0" r="0.1"></circle>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(-0.1,42.5)"></rect><path stroke="#000000" fill="none" d=""></path><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(-0.1,42.5)"></text><rect stroke-width="0" fill="none" width="85.8" height="51.8" transform="translate(4.1,2.6)"></rect><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(4.1,2.6)" text-anchor="middle"><tspan x="42.9" y="21.7">BATTERY</tspan><tspan x="42.9" y="42.7">1020</tspan></text><path stroke="#000000" fill="none" transform="translate(4.1,2.6)" d="M 24.2 45 61.6 45"></path></g><g model-id="b05b0744-7c04-08b3-801d-0dd598843a6d"><path stroke="black" stroke-dasharray="none" d="M 507 335 501 335 443 335 443 283"></path><path fill="black" stroke="black" d="" transform="translate(507,335) scale(1,1) rotate(-180)"></path><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(447,275) scale(1,1) rotate(-270)"></path><g><g label-idx="0" cursor="move" transform="translate(449, 335)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"></rect><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"></text></g></g></g><g model-id="fecd3f87-e2b6-0224-28b9-d5e718cf978e"><path stroke="black" stroke-dasharray="none" d="M 444 275 444 335 499 335"></path><path fill="black" stroke="black" d="" transform="translate(444,275) scale(1,1) rotate(-270)"></path><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(507,339) scale(1,1) rotate(-180)"></path><g><g label-idx="0" cursor="move" transform="translate(444, 332.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"></rect><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"></text></g></g></g><g model-id="0d39158f-f415-469d-9597-f60a6dcec044" transform="translate(217.8,669)"><g><g>
+<path d="M94.5,0H0v94.5h94.5V0L94.5,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"></path>
+<rect x="4.1" y="4.3" width="86.2" height="85.9" fill="none"></rect>
+<circle fill="none" cx="47.2" cy="0" r="0.1"></circle>
+<circle fill="none" cx="70.7" cy="0" r="0.1"></circle>
+<circle fill="none" cx="94.5" cy="23.8" r="0.1"></circle>
+<circle fill="none" cx="94.5" cy="47.2" r="0.1"></circle>
+<circle fill="none" cx="94.5" cy="70.7" r="0.1"></circle>
+<circle fill="none" cx="70.7" cy="94.5" r="0.1"></circle>
+<circle fill="none" cx="47.2" cy="94.5" r="0.1"></circle>
+<circle fill="none" cx="23.8" cy="94.5" r="0.1"></circle>
+<circle fill="none" cx="0" cy="70.7" r="0.1"></circle>
+<circle fill="none" cx="0" cy="47.2" r="0.1"></circle>
+<circle fill="none" cx="0" cy="23.8" r="0.1"></circle>
+<circle fill="none" cx="23.8" cy="0" r="0.1"></circle>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(94.4,47.1)"></rect><path stroke="#000000" fill="none" d=""></path><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(94.4,47.1)"></text><rect stroke-width="0" fill="none" width="86.2" height="85.9" transform="translate(4.1,4.3)"></rect><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(4.1,4.3)" text-anchor="middle"><tspan x="43.1" y="38.7">CAMERA</tspan><tspan x="43.1" y="59.7">1022</tspan></text><path stroke="#000000" fill="none" transform="translate(4.1,4.3)" d="M 24.5 62 61.8 62"></path></g><g model-id="6c59cbe7-1c0d-4beb-e6f4-d5908cc3043f" transform="translate(217.8,544)"><g><g>
+<path d="M94.5,0H0v94.5h94.5V0L94.5,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"></path>
+<rect x="4.1" y="4.3" width="86.2" height="85.9" fill="none"></rect>
+<circle fill="none" cx="47.2" cy="0" r="0.1"></circle>
+<circle fill="none" cx="70.7" cy="0" r="0.1"></circle>
+<circle fill="none" cx="94.5" cy="23.8" r="0.1"></circle>
+<circle fill="none" cx="94.5" cy="47.2" r="0.1"></circle>
+<circle fill="none" cx="94.5" cy="70.7" r="0.1"></circle>
+<circle fill="none" cx="70.7" cy="94.5" r="0.1"></circle>
+<circle fill="none" cx="47.2" cy="94.5" r="0.1"></circle>
+<circle fill="none" cx="23.8" cy="94.5" r="0.1"></circle>
+<circle fill="none" cx="0" cy="70.7" r="0.1"></circle>
+<circle fill="none" cx="0" cy="47.2" r="0.1"></circle>
+<circle fill="none" cx="0" cy="23.8" r="0.1"></circle>
+<circle fill="none" cx="23.8" cy="0" r="0.1"></circle>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(94.4,47.1)"></rect><path stroke="#000000" fill="none" d=""></path><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(94.4,47.1)"></text><rect stroke-width="0" fill="none" width="86.2" height="85.9" transform="translate(4.1,4.3)"></rect><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(4.1,4.3)" text-anchor="middle"><tspan x="43.1" y="28.2">IMAGE</tspan><tspan x="43.1" y="49.2">PROCESSING</tspan><tspan x="43.1" y="70.2">1024</tspan></text><path stroke="#000000" fill="none" transform="translate(4.1,4.3)" d="M 24.5 72 61.8 72"></path></g><g model-id="d096f8da-29c6-d1b2-1e5d-e3074c99b010"><path stroke="black" stroke-dasharray="none" d="M 265 502 265 536"></path><path fill="black" stroke="black" d="" transform="translate(265,502) scale(1,1) rotate(-270)"></path><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(261,544) scale(1,1) rotate(-90)"></path><g><g label-idx="0" cursor="move" transform="translate(265, 519)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"></rect><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"></text></g></g></g><g model-id="79fe1723-233f-75f5-9d9d-accf770ef1b7" transform="translate(134.8,137)"><g><g>
+<path d="M94.5,0H0v94.5h94.5V0L94.5,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"></path>
+<rect x="4.1" y="4.3" width="86.2" height="85.9" fill="none"></rect>
+<circle fill="none" cx="47.2" cy="0" r="0.1"></circle>
+<circle fill="none" cx="70.7" cy="0" r="0.1"></circle>
+<circle fill="none" cx="94.5" cy="23.8" r="0.1"></circle>
+<circle fill="none" cx="94.5" cy="47.2" r="0.1"></circle>
+<circle fill="none" cx="94.5" cy="70.7" r="0.1"></circle>
+<circle fill="none" cx="70.7" cy="94.5" r="0.1"></circle>
+<circle fill="none" cx="47.2" cy="94.5" r="0.1"></circle>
+<circle fill="none" cx="23.8" cy="94.5" r="0.1"></circle>
+<circle fill="none" cx="0" cy="70.7" r="0.1"></circle>
+<circle fill="none" cx="0" cy="47.2" r="0.1"></circle>
+<circle fill="none" cx="0" cy="23.8" r="0.1"></circle>
+<circle fill="none" cx="23.8" cy="0" r="0.1"></circle>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(94.4,47.1)"></rect><path stroke="#000000" fill="none" d=""></path><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(94.4,47.1)"></text><rect stroke-width="0" fill="none" width="86.2" height="85.9" transform="translate(4.1,4.3)"></rect><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(4.1,4.3)" text-anchor="middle"><tspan x="43.1" y="28.2">WIRELESS</tspan><tspan x="43.1" y="49.2">COMM</tspan><tspan x="43.1" y="70.2">1026</tspan></text><path stroke="#000000" fill="none" transform="translate(4.1,4.3)" d="M 24.5 72 61.8 72"></path></g><g model-id="e9df816a-8dc8-4115-8d1d-0384e9defb73"><path stroke="black" stroke-dasharray="none" d="M 328 450 362 450"></path><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(320,446) scale(1,1) rotate(0)"></path><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(370,454) scale(1,1) rotate(-180)"></path><g><g label-idx="0" cursor="move" transform="translate(345, 450)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"></rect><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"></text></g></g></g><g model-id="4e102b01-9dc5-1350-6a09-30334324007a" transform="translate(75.5,544)"><g><g>
+<path d="M94.5,0H0v94.5h94.5V0L94.5,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"></path>
+<rect x="4.1" y="4.3" width="86.2" height="85.9" fill="none"></rect>
+<circle fill="none" cx="47.2" cy="0" r="0.1"></circle>
+<circle fill="none" cx="70.7" cy="0" r="0.1"></circle>
+<circle fill="none" cx="94.5" cy="23.8" r="0.1"></circle>
+<circle fill="none" cx="94.5" cy="47.2" r="0.1"></circle>
+<circle fill="none" cx="94.5" cy="70.7" r="0.1"></circle>
+<circle fill="none" cx="70.7" cy="94.5" r="0.1"></circle>
+<circle fill="none" cx="47.2" cy="94.5" r="0.1"></circle>
+<circle fill="none" cx="23.8" cy="94.5" r="0.1"></circle>
+<circle fill="none" cx="0" cy="70.7" r="0.1"></circle>
+<circle fill="none" cx="0" cy="47.2" r="0.1"></circle>
+<circle fill="none" cx="0" cy="23.8" r="0.1"></circle>
+<circle fill="none" cx="23.8" cy="0" r="0.1"></circle>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(-0.1,70.6)"></rect><path stroke="#000000" fill="none" d=""></path><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(-0.1,70.6)"></text><rect stroke-width="0" fill="none" width="86.2" height="85.9" transform="translate(4.1,4.3)"></rect><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(4.1,4.3)" text-anchor="middle"><tspan x="43.1" y="49.2">GPU 1030</tspan></text><path stroke="#000000" fill="none" transform="translate(4.1,4.3)" d="M 45.5 51 82.8 51"></path></g><g model-id="a0e902ef-64af-d8a5-a206-5fbfd1b56f94" transform="translate(75.5,401.3)"><g><g>
+<path d="M94.5,0H0v94.5h94.5V0L94.5,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"></path>
+<rect x="4.1" y="4.3" width="86.2" height="85.9" fill="none"></rect>
+<circle fill="none" cx="47.2" cy="0" r="0.1"></circle>
+<circle fill="none" cx="70.7" cy="0" r="0.1"></circle>
+<circle fill="none" cx="94.5" cy="23.8" r="0.1"></circle>
+<circle fill="none" cx="94.5" cy="47.2" r="0.1"></circle>
+<circle fill="none" cx="94.5" cy="70.7" r="0.1"></circle>
+<circle fill="none" cx="70.7" cy="94.5" r="0.1"></circle>
+<circle fill="none" cx="47.2" cy="94.5" r="0.1"></circle>
+<circle fill="none" cx="23.8" cy="94.5" r="0.1"></circle>
+<circle fill="none" cx="0" cy="70.7" r="0.1"></circle>
+<circle fill="none" cx="0" cy="47.2" r="0.1"></circle>
+<circle fill="none" cx="0" cy="23.8" r="0.1"></circle>
+<circle fill="none" cx="23.8" cy="0" r="0.1"></circle>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(-0.1,70.6)"></rect><path stroke="#000000" fill="none" d=""></path><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(-0.1,70.6)"></text><rect stroke-width="0" fill="none" width="86.2" height="85.9" transform="translate(4.1,4.3)"></rect><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(4.1,4.3)" text-anchor="middle"><tspan x="43.1" y="49.2">DSP 1010</tspan></text><path stroke="#000000" fill="none" transform="translate(4.1,4.3)" d="M 43.9 51 81.2 51"></path></g><g model-id="15c7e1cf-c8a8-1063-0031-44b7481414de" transform="translate(267.2,137.2)"><g><g>
+<path d="M103,0H0v94h103V0L103,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"></path>
+<rect x="4.5" y="4.3" width="94" height="85.4" fill="none"></rect>
+<circle fill="none" cx="51.5" cy="0" r="0.1"></circle>
+<circle fill="none" cx="77" cy="0" r="0.1"></circle>
+<circle fill="none" cx="103" cy="23.7" r="0.1"></circle>
+<circle fill="none" cx="103" cy="47" r="0.1"></circle>
+<circle fill="none" cx="103" cy="70.3" r="0.1"></circle>
+<circle fill="none" cx="77" cy="94" r="0.1"></circle>
+<circle fill="none" cx="51.5" cy="94" r="0.1"></circle>
+<circle fill="none" cx="26" cy="94" r="0.1"></circle>
+<circle fill="none" cx="0" cy="70.3" r="0.1"></circle>
+<circle fill="none" cx="0" cy="47" r="0.1"></circle>
+<circle fill="none" cx="0" cy="23.7" r="0.1"></circle>
+<circle fill="none" cx="26" cy="0" r="0.1"></circle>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(-0.1,70.2)"></rect><path stroke="#000000" fill="none" d=""></path><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(-0.1,70.2)"></text><rect stroke-width="0" fill="none" width="94" height="85.4" transform="translate(4.5,4.3)"></rect><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(4.5,4.3)" text-anchor="middle"><tspan x="47" y="28">OTHER</tspan><tspan x="47" y="49">TRANSDUCERS</tspan><tspan x="47" y="70">1008</tspan></text><path stroke="#000000" fill="none" transform="translate(4.5,4.3)" d="M 28.3 72 65.7 72"></path></g><g model-id="f5cc24c1-12f6-7ab2-8c54-11554ce0172f"><path stroke="black" stroke-dasharray="none" d="M 178 591 210 591"></path><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(170,587) scale(1,1) rotate(0)"></path><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(218,595) scale(1,1) rotate(-180)"></path><g><g label-idx="0" cursor="move" transform="translate(194, 591)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"></rect><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"></text></g></g></g><g model-id="b2014aa0-848f-428e-86b3-496f2aaad812"><path stroke="black" stroke-dasharray="none" d="M 265 669 265 646"></path><path fill="black" stroke="black" d="" transform="translate(265,669) scale(1,1) rotate(-90)"></path><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(269,638) scale(1,1) rotate(-270)"></path><g><g label-idx="0" cursor="move" transform="translate(265, 657.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"></rect><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"></text></g></g></g><g model-id="3c6f292a-12fa-d123-82e4-8f528d7ad8b8" transform="translate(382,490)"><g><g>
+<path d="M94,0H0v54h94V0L94,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"></path>
+<rect x="4.1" y="2.5" width="85.8" height="49.1" fill="none"></rect>
+<circle fill="none" cx="47" cy="0" r="0.1"></circle>
+<circle fill="none" cx="70.3" cy="0" r="0.1"></circle>
+<circle fill="none" cx="94" cy="13.6" r="0.1"></circle>
+<circle fill="none" cx="94" cy="27" r="0.1"></circle>
+<circle fill="none" cx="94" cy="40.4" r="0.1"></circle>
+<circle fill="none" cx="70.3" cy="54" r="0.1"></circle>
+<circle fill="none" cx="47" cy="54" r="0.1"></circle>
+<circle fill="none" cx="23.7" cy="54" r="0.1"></circle>
+<circle fill="none" cx="0" cy="40.4" r="0.1"></circle>
+<circle fill="none" cx="0" cy="27" r="0.1"></circle>
+<circle fill="none" cx="0" cy="13.6" r="0.1"></circle>
+<circle fill="none" cx="23.7" cy="0" r="0.1"></circle>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(93.9,26.9)"></rect><path stroke="#000000" fill="none" d=""></path><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(93.9,26.9)"></text><rect stroke-width="0" fill="none" width="85.8" height="49.1" transform="translate(4.1,2.5)"></rect><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(4.1,2.5)" text-anchor="middle"><tspan x="42.9" y="20.3">ALTIMETER</tspan><tspan x="42.9" y="41.3">1012</tspan></text><path stroke="#000000" fill="none" transform="translate(4.1,2.5)" d="M 24.2 43 61.6 43"></path></g><g model-id="bae039de-b8ba-7abe-5034-b940e79c667f" transform="translate(492,491)"><g><g>
+<path d="M94,0H0v54h94V0L94,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"></path>
+<rect x="4.1" y="2.5" width="85.8" height="49.1" fill="none"></rect>
+<circle fill="none" cx="47" cy="0" r="0.1"></circle>
+<circle fill="none" cx="70.3" cy="0" r="0.1"></circle>
+<circle fill="none" cx="94" cy="13.6" r="0.1"></circle>
+<circle fill="none" cx="94" cy="27" r="0.1"></circle>
+<circle fill="none" cx="94" cy="40.4" r="0.1"></circle>
+<circle fill="none" cx="70.3" cy="54" r="0.1"></circle>
+<circle fill="none" cx="47" cy="54" r="0.1"></circle>
+<circle fill="none" cx="23.7" cy="54" r="0.1"></circle>
+<circle fill="none" cx="0" cy="40.4" r="0.1"></circle>
+<circle fill="none" cx="0" cy="27" r="0.1"></circle>
+<circle fill="none" cx="0" cy="13.6" r="0.1"></circle>
+<circle fill="none" cx="23.7" cy="0" r="0.1"></circle>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(93.9,26.9)"></rect><path stroke="#000000" fill="none" d=""></path><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(93.9,26.9)"></text><rect stroke-width="0" fill="none" width="85.8" height="49.1" transform="translate(4.1,2.5)"></rect><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(4.1,2.5)" text-anchor="middle"><tspan x="42.9" y="20.3">GYROSCOPE</tspan><tspan x="42.9" y="41.3">1002</tspan></text><path stroke="#000000" fill="none" transform="translate(4.1,2.5)" d="M 24.2 43 61.6 43"></path></g><g model-id="59c3c8a1-69c6-4762-b548-4660098ca956"><path stroke="black" stroke-dasharray="none" d="M 181 346 210 346"></path><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(173,342) scale(1,1) rotate(0)"></path><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(218,350) scale(1,1) rotate(-180)"></path><g><g label-idx="0" cursor="move" transform="translate(195.5, 346)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"></rect><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"></text></g></g></g><g model-id="d3cfac96-36a5-4d44-82b2-b468abcb975e"><path stroke="black" stroke-dasharray="none" d="M 185 239 185 252 242 252 242 286"></path><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(189,231) scale(1,1) rotate(-270)"></path><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(238,294) scale(1,1) rotate(-90)"></path><g><g label-idx="0" cursor="move" transform="translate(224, 252)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"></rect><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"></text></g></g></g><g model-id="6ffc443d-4b1d-4f76-9df5-256806ae89f7"><path stroke="black" stroke-dasharray="none" d="M 294 239 294 286"></path><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(298,231) scale(1,1) rotate(-270)"></path><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(290,294) scale(1,1) rotate(-90)"></path><g><g label-idx="0" cursor="move" transform="translate(294, 262.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"></rect><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"></text></g></g></g><g model-id="c8d20566-b1be-4624-9fba-2fe27f7f0914"><path stroke="black" stroke-dasharray="none" d="M 178 450 210 450"></path><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(170,446) scale(1,1) rotate(0)"></path><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(218,454) scale(1,1) rotate(-180)"></path><g><g label-idx="0" cursor="move" transform="translate(194, 450)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"></rect><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"></text></g></g></g></g><defs></defs></svg>
